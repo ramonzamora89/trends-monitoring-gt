@@ -2,8 +2,8 @@
     {
         "title": "ministerio público",
         "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "1.4 horas",
+        "growth": "900%",
+        "activity_time": "1.9 horas",
         "topics": [
             "Law and Government",
             "Politics"
@@ -20,19 +20,19 @@
                 "source": "La Hora"
             },
             {
-                "title": "La OEA se pronuncia tras la toma de posesión de Gabriel García Luna",
-                "url": "https://canalantigua.tv/2026/05/18/la-oea-se-pronuncia-tras-la-toma-de-posesion-de-gabriel-garcia-luna/",
-                "source": "Canal Antigua"
+                "title": "Arévalo anuncia cadena nacional para este domingo",
+                "url": "https://www.publinews.gt/noticias/2026/05/17/arevalo-anuncia-cadena-nacional-para-este-domingo/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-05-18T19:14:09.977596",
+        "timestamp": "2026-05-18T19:46:32.173152",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
         "title": "juicio",
-        "traffic": "500+",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "4.1 horas",
+        "activity_time": "4.6 horas",
         "topics": [
             "Business and Finance"
         ],
@@ -53,14 +53,13 @@
                 "source": "Ecosistema Startup"
             }
         ],
-        "timestamp": "2026-05-18T19:14:10.260882",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-05-18T19:46:32.421753"
     },
     {
         "title": "gasolina",
-        "traffic": "200+",
+        "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "1.1 horas",
+        "activity_time": "1.6 horas",
         "topics": [
             "Business and Finance"
         ],
@@ -81,7 +80,6 @@
                 "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-05-18T19:14:10.567563",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-05-18T19:46:32.474145"
     }
 ]
