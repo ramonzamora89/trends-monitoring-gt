@@ -1,0 +1,10 @@
+markdown
+trendspy
+feedparser
+matplotlib
+weasyprint
+jinja2
+pandas
+requests
+google-generativeai
+python-dotenv

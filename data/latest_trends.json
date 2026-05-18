@@ -1,0 +1,85 @@
+[
+    {
+        "title": "rafael curruchiche",
+        "traffic": "5000+",
+        "growth": "1000%",
+        "activity_time": "23.3 horas",
+        "topics": [
+            "Law and Government",
+            "Politics"
+        ],
+        "news": [
+            {
+                "title": "“La responsabilidad puede llegar a cualquiera”: revisión de la FECI no excluye a exfiscal general, afirma García Luna",
+                "url": "https://www.prensalibre.com/guatemala/justicia/la-responsabilidad-puede-llegar-a-cualquiera-revision-de-la-feci-no-excluye-a-exfiscal-general-afirma-garcia-luna/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Fiscal general García Luna se reúne con personal administrativo del MP",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/fiscal-general-garcia-luna-se-reune-con-personal-administrativo-del-mp/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "García Luna nombra sus primeros tres puestos clave a la espera de otras evaluaciones",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/17/garcia-luna-nombra-sus-primeros-tres-puestos-claves-a-la-espera-de-otras-evaluaciones/",
+                "source": "La Hora"
+            }
+        ],
+        "timestamp": "2026-05-18T13:57:08.429330"
+    },
+    {
+        "title": "juicio",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "2.8 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Juez excluye pruebas clave contra Luigi Mangione por muerte de ejecutivo de UnitedHealth",
+                "url": "https://www.bloomberg.com/news/articles/2026-05-18/caso-de-luigi-mangione-juez-excluye-pruebas-clave",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "La pistola y el cuaderno hallados en la mochila de Luigi Mangione podrán usarse como evidencia en su juicio por asesinato",
+                "url": "https://www.telemundo.com/noticias/noticias-telemundo/crimen-y-violencia/una-pistola-y-un-cuaderno-hallados-en-la-mochila-de-luigi-mangione-pod-rcna345681",
+                "source": "Telemundo"
+            },
+            {
+                "title": "El juez acepta excluir algunas pruebas en el juicio contra Luigi Mangione",
+                "url": "https://www.abc.es/internacional/juez-acepta-excluir-pruebas-juicio-luigi-mangione-20260518160109-nt.html",
+                "source": "ABC"
+            }
+        ],
+        "timestamp": "2026-05-18T13:57:08.481844"
+    },
+    {
+        "title": "asteroide",
+        "traffic": "100+",
+        "growth": "400%",
+        "activity_time": "1.5 horas",
+        "topics": [
+            "Science",
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Un asteroide descubierto días atrás pasará muy cerca de la Tierra",
+                "url": "https://cnnespanol.cnn.com/2026/05/18/ciencia/asteroide-cerca-tierra-trax",
+                "source": "CNN en Español"
+            },
+            {
+                "title": "A un cuarto de la distancia a la Luna: Esto dijo la NASA sobre el asteroide JH2 que pasará 'cerca' de la Tierra mañana lunes",
+                "url": "https://www.meganoticias.cl/mundo/522314-esto-dijo-la-nasa-asteroide-jh2-pasara-a-un-cuarto-de-la-distancia-a-la-luna-cerca-de-la-tierra-este-lunes-17-05-2026.html",
+                "source": "Meganoticias"
+            },
+            {
+                "title": "Dos asteroides semejantes al del meteorito de Cheliábinsk pasarán junto a la Tierra",
+                "url": "https://es-us.noticias.yahoo.com/asteroides-semejantes-meteorito-cheli%C3%A1binsk-pasar%C3%A1n-112842582.html",
+                "source": "Yahoo"
+            }
+        ],
+        "timestamp": "2026-05-18T13:57:08.535146"
+    }
+]
