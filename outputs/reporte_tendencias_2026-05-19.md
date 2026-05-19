@@ -1,42 +1,48 @@
-# Reporte de Tendencias Políticas — 2026-05-19
+# Reporte de Tendencias — 2026-05-19
 
 **Monitoreo de Tendencias — Guatemala**
 
-**Resumen del día:** Este reporte identifica las principales tendencias de búsqueda en Guatemala dentro de la categoría de Política y Gobierno en las últimas 24 horas.
+**Resumen del día:** Este reporte identifica las principales tendencias de búsqueda en Guatemala dentro de las categorías de Política, Gobierno, Negocios y Finanzas en las últimas 24 horas.
 
-## 1. ministerio público
-*Tráfico: 2000+ | Temas: Law and Government, Politics*
+## 1. juicio
+*Tráfico: 2000+ | Temas: Law and Government*
 
-La búsqueda “ministerio público” aparece como tendencia activa en Google Trends, con más de 2000+ búsquedas, un aumento de 800% y actividad registrada hace 13.3 horas. Según reportes de Prensa Libre, La Hora y Publinews, La hoja de ruta del MP: una transición obligada a revisar eficacia de las fiscalías y el futuro de la Feci, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
+La búsqueda “juicio” aparece como tendencia activa en Google Trends, con más de 2000+ búsquedas, un aumento de 1000% y actividad registrada hace 20.9 horas. Según reportes de ABC, Libertad Digital y Revista Capital, Los indicios contra Fernández Díaz se resquebrajan antes de su declaración en el juicio de Kitchen, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
 
 ### Fuentes y contexto
-- [La hoja de ruta del MP: una transición obligada a revisar eficacia de las fiscalías y el futuro de la Feci](https://www.prensalibre.com/guatemala/politica/la-hoja-de-ruta-del-mp-una-transicion-obligada-a-revisar-eficacia-de-las-fiscalias-y-el-futuro-de-la-feci/) (Prensa Libre)
-- [Fiscal Gabriel García Luna afirma ante personal del MP que no habrá "favoritismos políticos" bajo su cargo](https://lahora.gt/nacionales/dguzman/2026/05/18/fiscal-gabriel-garcia-luna-afirma-ante-personal-del-mp-que-no-habra-favoritismos-politicos-bajo-su-cargo/) (La Hora)
-- [Gabriel García Luna confirma renuncias de Ángel Pineda y Julia Sagüil en el MP](https://www.publinews.gt/noticias/2026/05/18/gabriel-garcia-luna-confirma-renuncias-de-angel-pineda-y-julia-saguil-en-el-mp/) (Publinews)
+- [Los indicios contra Fernández Díaz se resquebrajan antes de su declaración en el juicio de Kitchen](https://www.abc.es/espana/fernandez-diaz-afronta-declaracion-kitchen-viento-favor-20260514014435-nt.html) (ABC)
+- [Recta final del juicio de la operación Kitchen: las frases clave de Rajoy, Cospedal y la familia Bárcenas ante la juez](https://www.libertaddigital.com/espana/2026-05-17/recta-final-del-juicio-de-la-operacion-kitchen-las-frases-clave-de-rajoy-cospedal-y-la-familia-barcenas-ante-la-juez-7404604/) (Libertad Digital)
+- [Los audios de Villarejo se escucharán en la séptima semana del juicio por la Operación Kitchen](https://capital.es/actualidad/los-audios-de-villarejo-se-escucharan-en-la-septima-semana-del-juicio-de-la-kitchen-a-la-espera-de-los-acusados/185029/) (Revista Capital)
+
+![Gráfica de interés](charts/trend_1.png)
 
 ---
 
-## 2. juicio
+## 2. banco de guatemala
 *Tráfico: 2000+ | Temas: Business and Finance*
 
-La búsqueda “juicio” aparece como tendencia activa en Google Trends, con más de 2000+ búsquedas, un aumento de 1000% y actividad registrada hace 15.9 horas. Según reportes de EL PAÍS, Binance y Infobae, Elon Musk pierde el juicio contra Sam Altman por OpenAI, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
+La búsqueda “banco de guatemala” aparece como tendencia activa en Google Trends, con más de 2000+ búsquedas, un aumento de 300% y actividad registrada hace 17.6 horas. Según reportes de Guatemala.com, La Hora y Emisoras Unidas, Características del billete conmemorativo de Q100 por el aniversario del Banco de Guatemala, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
 
 ### Fuentes y contexto
-- [Elon Musk pierde el juicio contra Sam Altman por OpenAI](https://elpais.com/tecnologia/2026-05-18/elon-musk-pierde-el-juicio-contra-sam-altman-por-openai.html) (EL PAÍS)
-- [Perspectivas de OneCoinWLD(@Worldcoin4All)](https://www.binance.com/es-LA/square/post/324548977524129) (Binance)
-- [La justicia de California desestima la demanda de Elon Musk contra Open AI y Altman](https://www.infobae.com/america/agencias/2026/05/18/la-justicia-de-california-desestima-la-demanda-de-elon-musk-contra-open-ai-y-altman/) (Infobae)
+- [Características del billete conmemorativo de Q100 por el aniversario del Banco de Guatemala](https://www.guatemala.com/noticias/sociedad/banco-de-guatemala-presento-billete-conmemorativo-100-quetzales-2026.html) (Guatemala.com)
+- [Del “nahualeño” al billete conmemorativo: así ha evolucionado el billete de Q100](https://lahora.gt/lh-economia/jveliz/2026/05/18/del-nahualeno-al-billete-conmemorativo-asi-ha-evolucionado-el-billete-de-q100/) (La Hora)
+- [Banguat presenta billete conmemorativo de Q100](https://emisorasunidas.com/nacional/2026/05/18/banguat-banco-guatemala-billete-conmemorativo-100-cien-quetzales/) (Emisoras Unidas)
+
+![Gráfica de interés](charts/trend_2.png)
 
 ---
 
-## 3. asteroide
-*Tráfico: 1000+ | Temas: Science, Business and Finance*
+## 3. gasolina
+*Tráfico: 2000+ | Temas: Business and Finance*
 
-La búsqueda “asteroide” aparece como tendencia activa en Google Trends, con más de 1000+ búsquedas, un aumento de 600% y actividad registrada hace 14.6 horas. Según reportes de CNN en Español, Prensa Libre y Facebook, Un asteroide descubierto días atrás pasará muy cerca de la Tierra, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
+La búsqueda “gasolina” aparece como tendencia activa en Google Trends, con más de 2000+ búsquedas, un aumento de 1000% y actividad registrada hace 17.9 horas. Según reportes de La Hora, Soy502 y Tv Azteca Guatemala, Cambio en la gasolina: Guatemala entra al E10 a partir del 30 de junio entre expectativas y dudas, lo que ha generado interés y seguimiento sobre el impacto de esta noticia.
 
 ### Fuentes y contexto
-- [Un asteroide descubierto días atrás pasará muy cerca de la Tierra](https://cnnespanol.cnn.com/2026/05/18/ciencia/asteroide-cerca-tierra-trax) (CNN en Español)
-- [¿Qué tan cerca pasarán los asteroides 2026 JH2 y 2026 KB de la Tierra?](https://www.prensalibre.com/vida/ciencia/que-tan-cerca-pasaran-los-asteroides-2026-jh2-y-2026-kb-de-la-tierra/) (Prensa Libre)
-- [¿Hay que espantarse? Dos enormes asteroides rozarán la Tierra este lunes; uno pasará más cerca que la Luna 🌑 mile.io/4v0pJKO](https://www.facebook.com/MilenioDiario/posts/hay-que-espantarse-dos-enormes-asteroides-rozar%C3%A1n-la-tierra-este-lunes-uno-pasar/1473263118164488/) (Facebook)
+- [Cambio en la gasolina: Guatemala entra al E10 a partir del 30 de junio entre expectativas y dudas](https://lahora.gt/lh-economia/esmith/2026/05/18/cambio-en-la-gasolina-guatemala-entra-al-e10-a-partir-del-30-de-junio-entre-expectativas-y-dudas-now/) (La Hora)
+- [Discuten sobre los beneficios y retos de la implementación de los biocombustibles](https://www.soy502.com/articulo/discuten-sobre-beneficios-retos-biocombustibles-102052) (Soy502)
+- [MEM avanza con empresarios para implementar mezcla de etanol en gasolinas](https://tvaztecaguate.com/nacionales/2026/05/18/mem-avanza-con-empresarios-para-implementar-mezcla-de-etanol-en-gasolinas/) (Tv Azteca Guatemala)
+
+![Gráfica de interés](charts/trend_3.png)
 
 ---
 
