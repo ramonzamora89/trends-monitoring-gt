@@ -1,6 +1,6 @@
 ---
 name: trendsMonitoring
-description: Fetches and reports on real-time Google Trends for Guatemala in Politics and Law & Government.
+description: Fetches and reports on real-time Google Trends for Guatemala in Politics, Law & Government, and Business & Finance.
 allowed-tools:
   - shell
   - read_file

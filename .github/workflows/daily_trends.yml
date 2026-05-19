@@ -2,8 +2,8 @@ name: Daily Trends Monitoring
 
 on:
   schedule:
-    # Runs at 06:00 UTC every day (Approx midnight in Guatemala)
-    - cron: '0 6 * * *'
+    # Runs at 12:00 UTC every day (6:00 AM in Guatemala)
+    - cron: '0 12 * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -65,13 +65,13 @@ jobs:
         server_port: 465
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
-        subject: "🇬🇹 Reporte de Tendencias Políticas - ${{ github.event.repository.updated_at }}"
+        subject: "🇬🇹 Reporte de Tendencias - ${{ github.event.repository.updated_at }}"
         to: ramonzamora89@gmail.com
         from: Trends Monitor Bot
         body: |
           Hola Ramon,
           
-          Se ha generado el reporte automatizado de tendencias políticas para Guatemala. 
+          Se ha generado el reporte automatizado de tendencias para Guatemala (Política, Gobierno, Negocios y Finanzas). 
           Adjunto encontrarás el PDF con el análisis y las noticias destacadas.
           
           Saludos,

@@ -1,7 +1,7 @@
 # Trends Monitoring Project
 
 ## Objective
-Automatically track Google Trends in Guatemala for "Law & Government" and "Politics", analyze the data, and generate professional PDF reports.
+Automatically track Google Trends in Guatemala for "Law & Government", "Politics", and "Business & Finance", analyze the data, and generate professional PDF reports.
 
 ## Workflows
 1. **Fetch:** Get real-time trending searches from Google Trends for Guatemala (Category 19).

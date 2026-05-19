@@ -75,7 +75,7 @@ def fetch_guatemala_trends():
 
         if trend_list:
             top_trends = []
-            categories_of_interest = ["Politics", "Law and Government"]
+            categories_of_interest = ["Politics", "Law and Government", "Business and Finance"]
             categories_to_exclude = ["Sports", "Entertainment"]
 
             # 1. Try to find filtered trends

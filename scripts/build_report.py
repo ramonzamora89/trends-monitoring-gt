@@ -101,9 +101,9 @@ def build_markdown_report(trends_path, output_md):
     date_str = datetime.now().strftime("%Y-%m-%d")
     
     md_content = []
-    md_content.append(f"# Reporte de Tendencias Políticas — {date_str}")
+    md_content.append(f"# Reporte de Tendencias — {date_str}")
     md_content.append("\n**Monitoreo de Tendencias — Guatemala**")
-    md_content.append("\n**Resumen del día:** Este reporte identifica las principales tendencias de búsqueda en Guatemala dentro de la categoría de Política y Gobierno en las últimas 24 horas.")
+    md_content.append("\n**Resumen del día:** Este reporte identifica las principales tendencias de búsqueda en Guatemala dentro de las categorías de Política, Gobierno, Negocios y Finanzas en las últimas 24 horas.")
     
     for i, trend in enumerate(trends):
         md_content.append(f"\n## {i+1}. {trend['title']}")
