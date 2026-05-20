@@ -1,86 +1,83 @@
 [
     {
-        "title": "juicio",
+        "title": "fiscal",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "20.9 horas",
+        "activity_time": "15.7 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "TJX Eyes Key Level As Earnings Growth Accelerates Again",
+                "url": "https://www.investors.com/news/tjx-earnings-gas-prices-tjx-stock/",
+                "source": "Investor's Business Daily"
+            },
+            {
+                "title": "TJX Raises FY Guidance as Consumers Flock to the Off-Price Retailer",
+                "url": "https://www.wsj.com/business/retail/tjx-raises-fy-guidance-as-consumers-flock-to-the-off-price-retailer-9b93acb8",
+                "source": "WSJ"
+            },
+            {
+                "title": "TJX: Fiscal Q1 Earnings Snapshot",
+                "url": "https://www.kare11.com/article/syndication/associatedpress/tjx-fiscal-q1-earnings-snapshot/616-b5f90d59-82d5-47dc-b882-e6f1b5d50c32",
+                "source": "kare11.com"
+            }
+        ],
+        "timestamp": "2026-05-20T12:53:58.092340"
+    },
+    {
+        "title": "abogado",
+        "traffic": "500+",
+        "growth": "700%",
+        "activity_time": "15.7 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Los indicios contra Fernández Díaz se resquebrajan antes de su declaración en el juicio de Kitchen",
-                "url": "https://www.abc.es/espana/fernandez-diaz-afronta-declaracion-kitchen-viento-favor-20260514014435-nt.html",
-                "source": "ABC"
-            },
-            {
-                "title": "Recta final del juicio de la operación Kitchen: las frases clave de Rajoy, Cospedal y la familia Bárcenas ante la juez",
-                "url": "https://www.libertaddigital.com/espana/2026-05-17/recta-final-del-juicio-de-la-operacion-kitchen-las-frases-clave-de-rajoy-cospedal-y-la-familia-barcenas-ante-la-juez-7404604/",
-                "source": "Libertad Digital"
-            },
-            {
-                "title": "Los audios de Villarejo se escucharán en la séptima semana del juicio por la Operación Kitchen",
-                "url": "https://capital.es/actualidad/los-audios-de-villarejo-se-escucharan-en-la-septima-semana-del-juicio-de-la-kitchen-a-la-espera-de-los-acusados/185029/",
-                "source": "Revista Capital"
-            }
-        ],
-        "timestamp": "2026-05-19T12:06:01.559701",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "banco de guatemala",
-        "traffic": "2000+",
-        "growth": "300%",
-        "activity_time": "17.6 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Características del billete conmemorativo de Q100 por el aniversario del Banco de Guatemala",
-                "url": "https://www.guatemala.com/noticias/sociedad/banco-de-guatemala-presento-billete-conmemorativo-100-quetzales-2026.html",
-                "source": "Guatemala.com"
-            },
-            {
-                "title": "Del “nahualeño” al billete conmemorativo: así ha evolucionado el billete de Q100",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/05/18/del-nahualeno-al-billete-conmemorativo-asi-ha-evolucionado-el-billete-de-q100/",
+                "title": "Error en acusación de FECI contra abogado que supuestamente creó empresas de cartón para Baldetti lo deja en libertad",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/19/error-en-acusacion-de-feci-contra-abogado-que-supuestamente-creo-empresas-de-carton-para-baldetti-lo-deja-en-libertad/",
                 "source": "La Hora"
             },
             {
-                "title": "Banguat presenta billete conmemorativo de Q100",
-                "url": "https://emisorasunidas.com/nacional/2026/05/18/banguat-banco-guatemala-billete-conmemorativo-100-cien-quetzales/",
-                "source": "Emisoras Unidas"
-            }
-        ],
-        "timestamp": "2026-05-19T12:06:01.847082",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "gasolina",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "17.9 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Cambio en la gasolina: Guatemala entra al E10 a partir del 30 de junio entre expectativas y dudas",
-                "url": "https://lahora.gt/lh-economia/esmith/2026/05/18/cambio-en-la-gasolina-guatemala-entra-al-e10-a-partir-del-30-de-junio-entre-expectativas-y-dudas-now/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Discuten sobre los beneficios y retos de la implementación de los biocombustibles",
-                "url": "https://www.soy502.com/articulo/discuten-sobre-beneficios-retos-biocombustibles-102052",
+                "title": "Juez dicta sobreseimiento a favor de sindicado en caso \"Cooptación del Estado\"",
+                "url": "https://www.soy502.com/articulo/juez-favorece-sindicado-caso-cooptacion-estado-102154",
                 "source": "Soy502"
             },
             {
-                "title": "MEM avanza con empresarios para implementar mezcla de etanol en gasolinas",
-                "url": "https://tvaztecaguate.com/nacionales/2026/05/18/mem-avanza-con-empresarios-para-implementar-mezcla-de-etanol-en-gasolinas/",
-                "source": "Tv Azteca Guatemala"
+                "title": "Cooptación del Estado: Dictan sobreseimiento a favor de Rafael Cetina",
+                "url": "https://emisorasunidas.com/nacional/2026/05/19/cooptacion-del-estado-sobreseimiento-rafael-cetina/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-05-19T12:06:01.880761",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-05-20T12:53:59.639522"
+    },
+    {
+        "title": "premier",
+        "traffic": "2000+",
+        "growth": "900%",
+        "activity_time": "17.7 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Premier Forest Celebrates Success at Wales Business Awards",
+                "url": "https://businessnewswales.com/premier-forest-celebrates-success-at-wales-business-awards/",
+                "source": "Business News Wales"
+            },
+            {
+                "title": "spacebands wins Best Start Up Business of the Year at the Welsh Business Awards",
+                "url": "https://www.facilitiesmanagement-now.com/article/273426/spacebands-wins-best-start-up-business-of-the-year-at-the-welsh-business-awards",
+                "source": "https://www.facilitiesmanagement-now.com/"
+            },
+            {
+                "title": "Wild Creations wins Exporter of The Year at Wales Business Awards 2026",
+                "url": "https://newsfromwales.co.uk/wild-creations-wins-exporter-of-the-year-at-wales-business-awards-2026/",
+                "source": "News from Wales"
+            }
+        ],
+        "timestamp": "2026-05-20T12:53:59.970141"
     }
 ]
