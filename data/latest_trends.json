@@ -1,83 +1,77 @@
 [
     {
-        "title": "fiscal",
+        "title": "comisión de postulación",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "15.7 horas",
+        "activity_time": "23.2 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "TJX Eyes Key Level As Earnings Growth Accelerates Again",
-                "url": "https://www.investors.com/news/tjx-earnings-gas-prices-tjx-stock/",
-                "source": "Investor's Business Daily"
+                "title": "Dos universidades (una vinculada a Walter Mazariegos) cambian la integración de la comisión de postulación para jefe de la CGC",
+                "url": "https://www.prensalibre.com/guatemala/politica/universidades-vinculadas-a-walter-mazariegos-cambian-la-integracion-de-la-comision-de-postulacion-para-jefe-de-la-cgc/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "TJX Raises FY Guidance as Consumers Flock to the Off-Price Retailer",
-                "url": "https://www.wsj.com/business/retail/tjx-raises-fy-guidance-as-consumers-flock-to-the-off-price-retailer-9b93acb8",
-                "source": "WSJ"
+                "title": "Listo el top 10 de finalistas para la elección del próximo contralor",
+                "url": "https://www.lasillavacia.com/en-vivo/listo-el-top-10-de-finalistas-para-la-eleccion-del-proximo-contralor/",
+                "source": "La Silla Vacía"
             },
             {
-                "title": "TJX: Fiscal Q1 Earnings Snapshot",
-                "url": "https://www.kare11.com/article/syndication/associatedpress/tjx-fiscal-q1-earnings-snapshot/616-b5f90d59-82d5-47dc-b882-e6f1b5d50c32",
-                "source": "kare11.com"
+                "title": "Se reduce la baraja por la Contraloría: ya están los 10 mejores puntajes",
+                "url": "https://www.ecosdelcombeima.com/nacional/nota-188953-se-reduce-la-baraja-por-la-contraloria-ya-estan-los-10-mejores-puntajes",
+                "source": "Ecos del Combeima"
             }
         ],
-        "timestamp": "2026-05-20T12:53:58.092340"
+        "timestamp": "2026-05-21T13:09:04.154157"
     },
     {
-        "title": "abogado",
-        "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "15.7 horas",
+        "title": "denuncia",
+        "traffic": "100+",
+        "growth": "500%",
+        "activity_time": "2.2 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Error en acusación de FECI contra abogado que supuestamente creó empresas de cartón para Baldetti lo deja en libertad",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/19/error-en-acusacion-de-feci-contra-abogado-que-supuestamente-creo-empresas-de-carton-para-baldetti-lo-deja-en-libertad/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Juez dicta sobreseimiento a favor de sindicado en caso \"Cooptación del Estado\"",
-                "url": "https://www.soy502.com/articulo/juez-favorece-sindicado-caso-cooptacion-estado-102154",
-                "source": "Soy502"
-            },
-            {
-                "title": "Cooptación del Estado: Dictan sobreseimiento a favor de Rafael Cetina",
-                "url": "https://emisorasunidas.com/nacional/2026/05/19/cooptacion-del-estado-sobreseimiento-rafael-cetina/",
-                "source": "Emisoras Unidas"
+                "title": "Guatemala: presentan primera denuncia contra exfiscal por \"criminalizar\" a ex operadores de justicia",
+                "url": "https://apnews.com/article/exfiscal-general-consuelo-porras-guatemala-denuncia-f24be33e3f09e35ad495481970baf800",
+                "source": "AP News"
             }
         ],
-        "timestamp": "2026-05-20T12:53:59.639522"
+        "timestamp": "2026-05-21T13:09:04.426750",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "premier",
-        "traffic": "2000+",
-        "growth": "900%",
-        "activity_time": "17.7 horas",
+        "title": "rafael curruchiche",
+        "traffic": "5000+",
+        "growth": "1000%",
+        "activity_time": "17.3 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "Premier Forest Celebrates Success at Wales Business Awards",
-                "url": "https://businessnewswales.com/premier-forest-celebrates-success-at-wales-business-awards/",
-                "source": "Business News Wales"
+                "title": "Guatemala: destituyen a fiscal aliado de Consuelo Porras",
+                "url": "https://www.dw.com/es/guatemala-destituyen-a-fiscal-aliado-de-consuelo-porras/a-77235975",
+                "source": "DW.com"
             },
             {
-                "title": "spacebands wins Best Start Up Business of the Year at the Welsh Business Awards",
-                "url": "https://www.facilitiesmanagement-now.com/article/273426/spacebands-wins-best-start-up-business-of-the-year-at-the-welsh-business-awards",
-                "source": "https://www.facilitiesmanagement-now.com/"
+                "title": "Oderbrecht, Martínez y Giammattei: la ruta de algunos casos bajo Rafael Curruchiche en la FECI",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/21/oderbrecht-martinez-y-giammattei-la-ruta-de-algunos-casos-bajo-rafael-curruchiche-en-la-feci/",
+                "source": "La Hora"
             },
             {
-                "title": "Wild Creations wins Exporter of The Year at Wales Business Awards 2026",
-                "url": "https://newsfromwales.co.uk/wild-creations-wins-exporter-of-the-year-at-wales-business-awards-2026/",
-                "source": "News from Wales"
+                "title": "Fiscal general Gabriel García Luna remueve a Rafael Curruchiche como jefe de la FECI",
+                "url": "https://www.prensalibre.com/guatemala/justicia/fiscal-general-gabriel-garcia-luna-remueve-a-rafael-curruchiche-como-jefe-de-la-feci/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-05-20T12:53:59.970141"
+        "timestamp": "2026-05-21T13:09:04.610450",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
