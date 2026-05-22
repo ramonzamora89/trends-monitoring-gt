@@ -1,77 +1,58 @@
 [
     {
-        "title": "comisión de postulación",
+        "title": "embargo",
         "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "23.2 horas",
-        "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [
-            {
-                "title": "Dos universidades (una vinculada a Walter Mazariegos) cambian la integración de la comisión de postulación para jefe de la CGC",
-                "url": "https://www.prensalibre.com/guatemala/politica/universidades-vinculadas-a-walter-mazariegos-cambian-la-integracion-de-la-comision-de-postulacion-para-jefe-de-la-cgc/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Listo el top 10 de finalistas para la elección del próximo contralor",
-                "url": "https://www.lasillavacia.com/en-vivo/listo-el-top-10-de-finalistas-para-la-eleccion-del-proximo-contralor/",
-                "source": "La Silla Vacía"
-            },
-            {
-                "title": "Se reduce la baraja por la Contraloría: ya están los 10 mejores puntajes",
-                "url": "https://www.ecosdelcombeima.com/nacional/nota-188953-se-reduce-la-baraja-por-la-contraloria-ya-estan-los-10-mejores-puntajes",
-                "source": "Ecos del Combeima"
-            }
-        ],
-        "timestamp": "2026-05-21T13:09:04.154157"
-    },
-    {
-        "title": "denuncia",
-        "traffic": "100+",
-        "growth": "500%",
-        "activity_time": "2.2 horas",
+        "growth": "800%",
+        "activity_time": "15.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Guatemala: presentan primera denuncia contra exfiscal por \"criminalizar\" a ex operadores de justicia",
-                "url": "https://apnews.com/article/exfiscal-general-consuelo-porras-guatemala-denuncia-f24be33e3f09e35ad495481970baf800",
-                "source": "AP News"
+                "title": "Juzgado levanta embargo sobre finca con lujosa mansión vinculada a Alejandro Giammattei",
+                "url": "https://www.prensalibre.com/guatemala/justicia/juzgado-levanta-embargo-sobre-finca-con-lujosa-mansion-vinculada-a-alejandro-giammattei-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Juez Delmar González levanta embargo a finca de lujo vinculada a Alejandro Giammattei",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/21/juez-delmar-gonzalez-levanta-embargo-a-finca-de-lujo-vinculada-a-alejandro-giammattei/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Juzgado levanta embargo sobre finca \"El Nacimiento\" vinculada al expresidente Giammattei",
+                "url": "https://canalantigua.tv/2026/05/21/juzgado-levanta-embargo-sobre-finca-el-nacimiento-vinculada-al-expresidente-giammattei/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-05-21T13:09:04.426750",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-05-22T12:50:37.023301",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "rafael curruchiche",
-        "traffic": "5000+",
-        "growth": "1000%",
-        "activity_time": "17.3 horas",
+        "title": "tribunal supremo electoral de guatemala",
+        "traffic": "500+",
+        "growth": "800%",
+        "activity_time": "19.3 horas",
         "topics": [
-            "Law and Government",
             "Politics"
         ],
         "news": [
             {
-                "title": "Guatemala: destituyen a fiscal aliado de Consuelo Porras",
-                "url": "https://www.dw.com/es/guatemala-destituyen-a-fiscal-aliado-de-consuelo-porras/a-77235975",
-                "source": "DW.com"
+                "title": "TSE confirma cancelación definitiva del PAN tras rechazar apelación",
+                "url": "https://www.prensalibre.com/guatemala/politica/tse-confirma-cancelacion-definitiva-del-pan-tras-rechazar-apelacion-breaking/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Oderbrecht, Martínez y Giammattei: la ruta de algunos casos bajo Rafael Curruchiche en la FECI",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/21/oderbrecht-martinez-y-giammattei-la-ruta-de-algunos-casos-bajo-rafael-curruchiche-en-la-feci/",
+                "title": "TSE rechazó el recurso de apelación del PAN y confirma cancelación definitiva del partido",
+                "url": "https://lahora.gt/nacionales/hloarca/2026/05/20/tse-rechazo-el-recurso-de-apelacion-del-pan-y-confirma-cancelacion-definitiva-del-partido/",
                 "source": "La Hora"
             },
             {
-                "title": "Fiscal general Gabriel García Luna remueve a Rafael Curruchiche como jefe de la FECI",
-                "url": "https://www.prensalibre.com/guatemala/justicia/fiscal-general-gabriel-garcia-luna-remueve-a-rafael-curruchiche-como-jefe-de-la-feci/",
-                "source": "Prensa Libre"
+                "title": "TSE confirma cancelación del partido político PAN",
+                "url": "https://www.publinews.gt/noticias/2026/05/20/tse-confirma-cancelacion-del-partido-politico-pan/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-05-21T13:09:04.610450",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-05-22T12:50:37.059954",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
