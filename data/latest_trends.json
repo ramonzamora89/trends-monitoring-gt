@@ -1,9 +1,9 @@
 [
     {
-        "title": "embargo",
-        "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "15.0 horas",
+        "title": "alejandro giammattei",
+        "traffic": "500+",
+        "growth": "600%",
+        "activity_time": "13.0 horas",
         "topics": [
             "Law and Government"
         ],
@@ -14,8 +14,8 @@
                 "source": "Prensa Libre"
             },
             {
-                "title": "Juez Delmar González levanta embargo a finca de lujo vinculada a Alejandro Giammattei",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/21/juez-delmar-gonzalez-levanta-embargo-a-finca-de-lujo-vinculada-a-alejandro-giammattei/",
+                "title": "Futuro de finca vinculada a Giammattei está en manos de Sala Primera de Apelaciones de Mayor Riesgo",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/22/sala-primera-de-apelaciones-de-mayor-riesgo-tiene-en-sus-manos-la-decision-de-revocar-devolucion-de-finca-vinculada-a-alejandro-giammattei/",
                 "source": "La Hora"
             },
             {
@@ -24,35 +24,48 @@
                 "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-05-22T12:50:37.023301",
+        "timestamp": "2026-05-23T12:22:20.988311",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "tribunal supremo electoral de guatemala",
-        "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "19.3 horas",
+        "title": "sat",
+        "traffic": "20000+",
+        "growth": "100%",
+        "activity_time": "20.0 horas",
         "topics": [
-            "Politics"
+            "Law and Government"
+        ],
+        "news": [],
+        "timestamp": "2026-05-23T12:22:21.172546",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "gabriel garcía luna",
+        "traffic": "5000+",
+        "growth": "600%",
+        "activity_time": "23.4 horas",
+        "topics": [
+            "Politics",
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "TSE confirma cancelación definitiva del PAN tras rechazar apelación",
-                "url": "https://www.prensalibre.com/guatemala/politica/tse-confirma-cancelacion-definitiva-del-pan-tras-rechazar-apelacion-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "TSE rechazó el recurso de apelación del PAN y confirma cancelación definitiva del partido",
-                "url": "https://lahora.gt/nacionales/hloarca/2026/05/20/tse-rechazo-el-recurso-de-apelacion-del-pan-y-confirma-cancelacion-definitiva-del-partido/",
+                "title": "Fiscal que aspiraba a dirigir el MP pide a García Luna revertir traslados ordenados por Consuelo Porras",
+                "url": "https://lahora.gt/nacionales/engelberth-blanco/2026/05/22/fiscal-que-aspiraba-a-dirigir-el-mp-pide-a-garcia-luna-revertir-traslados-ordenados-por-consuelo-porras/",
                 "source": "La Hora"
             },
             {
-                "title": "TSE confirma cancelación del partido político PAN",
-                "url": "https://www.publinews.gt/noticias/2026/05/20/tse-confirma-cancelacion-del-partido-politico-pan/",
-                "source": "Publinews"
+                "title": "Las acciones del fiscal general Gabriel García Luna en sus primeros días al frente del MP",
+                "url": "https://www.prensalibre.com/guatemala/justicia/las-acciones-del-fiscal-general-gabriel-garcia-luna-en-sus-primeros-dias-al-frente-del-mp/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Así se produjo el cambio de mando entre García Luna y Consuelo Porras",
+                "url": "https://www.soy502.com/articulo/asi-fue-cambio-mando-entre-garcia-luna-porras-mp-102154",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-05-22T12:50:37.059954",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-05-23T12:22:21.559744",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
