@@ -1,71 +1,88 @@
 [
     {
-        "title": "alejandro giammattei",
-        "traffic": "500+",
-        "growth": "600%",
-        "activity_time": "13.0 horas",
+        "title": "rector",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "21.8 horas",
         "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Juzgado levanta embargo sobre finca con lujosa mansión vinculada a Alejandro Giammattei",
-                "url": "https://www.prensalibre.com/guatemala/justicia/juzgado-levanta-embargo-sobre-finca-con-lujosa-mansion-vinculada-a-alejandro-giammattei-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Futuro de finca vinculada a Giammattei está en manos de Sala Primera de Apelaciones de Mayor Riesgo",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/22/sala-primera-de-apelaciones-de-mayor-riesgo-tiene-en-sus-manos-la-decision-de-revocar-devolucion-de-finca-vinculada-a-alejandro-giammattei/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Juzgado levanta embargo sobre finca \"El Nacimiento\" vinculada al expresidente Giammattei",
-                "url": "https://canalantigua.tv/2026/05/21/juzgado-levanta-embargo-sobre-finca-el-nacimiento-vinculada-al-expresidente-giammattei/",
-                "source": "Canal Antigua"
-            }
-        ],
-        "timestamp": "2026-05-23T12:22:20.988311",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "sat",
-        "traffic": "20000+",
-        "growth": "100%",
-        "activity_time": "20.0 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [],
-        "timestamp": "2026-05-23T12:22:21.172546",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "gabriel garcía luna",
-        "traffic": "5000+",
-        "growth": "600%",
-        "activity_time": "23.4 horas",
-        "topics": [
+            "Jobs and Education",
             "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Fiscal que aspiraba a dirigir el MP pide a García Luna revertir traslados ordenados por Consuelo Porras",
-                "url": "https://lahora.gt/nacionales/engelberth-blanco/2026/05/22/fiscal-que-aspiraba-a-dirigir-el-mp-pide-a-garcia-luna-revertir-traslados-ordenados-por-consuelo-porras/",
+                "title": "Oposición teme que Walter Mazariegos replique en el CSU el fraude señalado en elección a rector",
+                "url": "https://lahora.gt/investigacion/la-hora/2026/05/23/oposicion-teme-que-walter-mazariegos-replique-en-el-csu-el-fraude-senalado-en-eleccion-a-rector/",
                 "source": "La Hora"
             },
             {
-                "title": "Las acciones del fiscal general Gabriel García Luna en sus primeros días al frente del MP",
-                "url": "https://www.prensalibre.com/guatemala/justicia/las-acciones-del-fiscal-general-gabriel-garcia-luna-en-sus-primeros-dias-al-frente-del-mp/",
+                "title": "CC programa discusión de acciones legales contra el CSU de la Usac para el próximo lunes",
+                "url": "https://www.prensalibre.com/guatemala/politica/cc-programa-discusion-de-acciones-legales-contra-el-csu-de-la-usac-para-el-proximo-lunes/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Así se produjo el cambio de mando entre García Luna y Consuelo Porras",
-                "url": "https://www.soy502.com/articulo/asi-fue-cambio-mando-entre-garcia-luna-porras-mp-102154",
-                "source": "Soy502"
+                "title": "CC programa para el 25 de mayo conocer acciones legales contra el CSU de la Usac",
+                "url": "https://www.prensalibre.com/ahora/guatemala/politica/cc-programa-para-el-25-de-mayo-conocer-acciones-legales-contra-el-csu-de-la-usac/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-05-23T12:22:21.559744",
+        "timestamp": "2026-05-24T12:25:10.466305",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "emisoras unidas",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "10.6 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "VIDEO. Carriles totalmente bloqueados en la avenida Hincapié por caída de árbol",
+                "url": "https://www.publinews.gt/noticias/2026/05/23/video-carriles-totalmente-bloqueados-en-la-avenida-hincapie-por-caida-de-arbol/",
+                "source": "Publinews"
+            },
+            {
+                "title": "Piden precaución por lluvias intensas en la Ciudad de Guatemala",
+                "url": "https://emisorasunidas.com/nacional/2026/05/23/piden-precaucion-por-lluvias-intensas-en-la-ciudad-de-guatemala/",
+                "source": "Emisoras Unidas"
+            },
+            {
+                "title": "Árbol cae en la Avenida Hincapié por fuertes lluvias",
+                "url": "https://www.prensalibre.com/ahora/guatemala/comunitario/arbol-cae-en-la-avenida-hincapie-por-fuertes-lluvias/",
+                "source": "Prensa Libre"
+            }
+        ],
+        "timestamp": "2026-05-24T12:25:10.568684",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "barca",
+        "traffic": "500+",
+        "growth": "700%",
+        "activity_time": "15.6 horas",
+        "topics": [
+            "Hobbies and Leisure"
+        ],
+        "news": [
+            {
+                "title": "Intervista: Moritz Wichmann sulla sua circumnavigazione",
+                "url": "https://www.yacht.de/it/speciale/persone/intervista-moritz-wichmann-sulla-sua-circumnavigazione-con-221-compagni-di-navigazione/",
+                "source": "www.yacht.de"
+            },
+            {
+                "title": "Intervista: Come una circumnavigazione diventa un esperimento sociale",
+                "url": "https://www.yacht.de/it/speciale/persone/intervista-come-una-circumnavigazione-diventa-un-esperimento-sociale/",
+                "source": "www.yacht.de"
+            },
+            {
+                "title": "Nuovo episodio del podcast: Circumnavigazione come progetto condiviso di appartamento",
+                "url": "https://www.yacht.de/it/speciale/persone/nuovo-episodio-del-podcast-circumnavigazione-come-progetto-condiviso-di-appartamento/",
+                "source": "www.yacht.de"
+            }
+        ],
+        "timestamp": "2026-05-24T12:25:10.879000",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
