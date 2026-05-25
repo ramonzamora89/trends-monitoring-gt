@@ -1,88 +1,87 @@
 [
     {
-        "title": "rector",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "21.8 horas",
+        "title": "juez",
+        "traffic": "2000+",
+        "growth": "500%",
+        "activity_time": "13.8 horas",
         "topics": [
-            "Jobs and Education",
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Oposición teme que Walter Mazariegos replique en el CSU el fraude señalado en elección a rector",
-                "url": "https://lahora.gt/investigacion/la-hora/2026/05/23/oposicion-teme-que-walter-mazariegos-replique-en-el-csu-el-fraude-senalado-en-eleccion-a-rector/",
-                "source": "La Hora"
-            },
-            {
-                "title": "CC programa discusión de acciones legales contra el CSU de la Usac para el próximo lunes",
-                "url": "https://www.prensalibre.com/guatemala/politica/cc-programa-discusion-de-acciones-legales-contra-el-csu-de-la-usac-para-el-proximo-lunes/",
+                "title": "Juez libera a sospechosos de ataque contra concejal de Chinautla",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/juez-libera-a-sospechosos-de-ataque-contra-concejal-de-chinautla/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "CC programa para el 25 de mayo conocer acciones legales contra el CSU de la Usac",
-                "url": "https://www.prensalibre.com/ahora/guatemala/politica/cc-programa-para-el-25-de-mayo-conocer-acciones-legales-contra-el-csu-de-la-usac/",
-                "source": "Prensa Libre"
+                "title": "Capturan a sospechosos de ataque armado contra concejal de Chinautla y su esposo",
+                "url": "https://canalantigua.tv/2026/05/22/capturan-sospechosos-ataque-armado-contra-concejal-de-chinautla-y-esposo/",
+                "source": "Canal Antigua"
+            },
+            {
+                "title": "Capturan a presuntos responsables de disparar a concejal y su esposo",
+                "url": "https://tvaztecaguate.com/nacionales/2026/05/22/disparan-contra-concejal-y-su-esposo-mientras-transitaban-en-chinautla/",
+                "source": "Tv Azteca Guatemala"
             }
         ],
-        "timestamp": "2026-05-24T12:25:10.466305",
+        "timestamp": "2026-05-25T13:10:38.417946",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "emisoras unidas",
+        "title": "river",
         "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "10.6 horas",
+        "activity_time": "18.5 horas",
         "topics": [
-            "Other"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "VIDEO. Carriles totalmente bloqueados en la avenida Hincapié por caída de árbol",
-                "url": "https://www.publinews.gt/noticias/2026/05/23/video-carriles-totalmente-bloqueados-en-la-avenida-hincapie-por-caida-de-arbol/",
-                "source": "Publinews"
+                "title": "Body of naked man recovered near Biloxi River after alleged attack, police say",
+                "url": "https://www.sunherald.com/news/local/counties/harrison-county/article315881517.html",
+                "source": "Biloxi Sun Herald"
             },
             {
-                "title": "Piden precaución por lluvias intensas en la Ciudad de Guatemala",
-                "url": "https://emisorasunidas.com/nacional/2026/05/23/piden-precaucion-por-lluvias-intensas-en-la-ciudad-de-guatemala/",
-                "source": "Emisoras Unidas"
+                "title": "Naked man emerges from Biloxi River, killed after attacking neighbor: police",
+                "url": "https://www.supertalk.fm/naked-man-emerges-from-biloxi-river-killed-after-attacking-citizen-police/",
+                "source": "SuperTalk Mississippi Media"
             },
             {
-                "title": "Árbol cae en la Avenida Hincapié por fuertes lluvias",
-                "url": "https://www.prensalibre.com/ahora/guatemala/comunitario/arbol-cae-en-la-avenida-hincapie-por-fuertes-lluvias/",
-                "source": "Prensa Libre"
+                "title": "Naked man shot, killed after emerging from Biloxi River, attacking Woolmarket man",
+                "url": "https://www.wlox.com/2026/05/25/naked-man-shot-killed-after-emerging-biloxi-river-attacking-woolmarket-man/",
+                "source": "WLOX"
             }
         ],
-        "timestamp": "2026-05-24T12:25:10.568684",
+        "timestamp": "2026-05-25T13:10:38.648859",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "barca",
-        "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "15.6 horas",
+        "title": "thelma aldana",
+        "traffic": "200+",
+        "growth": "600%",
+        "activity_time": "19.2 horas",
         "topics": [
-            "Hobbies and Leisure"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "Intervista: Moritz Wichmann sulla sua circumnavigazione",
-                "url": "https://www.yacht.de/it/speciale/persone/intervista-moritz-wichmann-sulla-sua-circumnavigazione-con-221-compagni-di-navigazione/",
-                "source": "www.yacht.de"
+                "title": "La exfiscal Thelma Aldana condiciona su retorno a Guatemala a cambios en el Ministerio Público",
+                "url": "https://www.infobae.com/guatemala/2026/05/23/la-exfiscal-thelma-aldana-condiciona-su-retorno-a-guatemala-a-cambios-en-el-ministerio-publico/",
+                "source": "Infobae"
             },
             {
-                "title": "Intervista: Come una circumnavigazione diventa un esperimento sociale",
-                "url": "https://www.yacht.de/it/speciale/persone/intervista-come-una-circumnavigazione-diventa-un-esperimento-sociale/",
-                "source": "www.yacht.de"
+                "title": "La exfiscal Thelma Aldana ve posible regresar a Guatemala tras salida de Consuelo Porras",
+                "url": "https://diario.elmundo.sv/el-mundo/la-exfiscal-thelma-aldana-ve-posible-regresar-a-guatemala-tras-salida-de-consuelo-porras",
+                "source": "Diario El Mundo"
             },
             {
-                "title": "Nuovo episodio del podcast: Circumnavigazione come progetto condiviso di appartamento",
-                "url": "https://www.yacht.de/it/speciale/persone/nuovo-episodio-del-podcast-circumnavigazione-come-progetto-condiviso-di-appartamento/",
-                "source": "www.yacht.de"
+                "title": "Exfiscal de Guatemala exiliada en EEUU: \"Vemos una luz para volver a casa\"",
+                "url": "https://www.abc.es/espana/exfiscal-guatemala-exiliada-eeuu-vemos-luz-volver-20260522181237-nt.html",
+                "source": "ABC"
             }
         ],
-        "timestamp": "2026-05-24T12:25:10.879000",
+        "timestamp": "2026-05-25T13:10:38.853184",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
