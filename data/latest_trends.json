@@ -1,86 +1,88 @@
 [
     {
-        "title": "guatemala",
-        "traffic": "2000+",
-        "growth": "500%",
-        "activity_time": "23.5 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Guatemala dice que frustró un ataque de \"individuos fuertemente armados” en la frontera con Honduras",
-                "url": "https://cnnespanol.cnn.com/2026/05/25/latinoamerica/guatemala-ataque-armado-frontera-honduras-orix",
-                "source": "CNN en Español"
-            },
-            {
-                "title": "Grupo armado irrumpe en frontera con Honduras y se enfrenta al Ejército de Guatemala",
-                "url": "https://www.prensalibre.com/guatemala/justicia/defensa-informa-de-incidente-armado-en-frontera-entre-guatemala-y-honduras-y-revela-las-hipotesis-del-caso-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "El Ejército de Guatemala repele incursión armada desde Honduras la mañana de este lunes y refuerza seguridad en la frontera",
-                "url": "https://www.infobae.com/guatemala/2026/05/25/el-ejercito-de-guatemala-repele-incursion-armada-desde-honduras-la-manana-de-este-lunes-y-refuerza-seguridad-en-la-frontera/",
-                "source": "Infobae"
-            }
-        ],
-        "timestamp": "2026-05-26T13:01:14.019996"
-    },
-    {
-        "title": "rector",
+        "title": "ministerio de educación",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "13.5 horas",
+        "activity_time": "20.7 horas",
         "topics": [
-            "Jobs and Education",
             "Law and Government",
-            "Politics"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "CC acuerda denegar cerca de 15 expedientes relacionados con la elección de rector de la USAC",
-                "url": "https://www.prensalibre.com/guatemala/politica/cc-acuerda-denegar-cerca-de-15-expedientes-relacionados-con-la-eleccion-de-rector-de-la-usac/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Mientras juzgados frenaron fraude de Walter Mazariegos, CC batea 15 amparos y le limpian la mesa",
-                "url": "https://lahora.gt/nacionales/la-hora/2026/05/25/mientras-juzgados-frenaron-fraude-de-walter-mazariegos-cc-batea-15-amparos-y-le-limpian-la-mesa-now/",
+                "title": "Mineduc confirma terminación anticipada de contrato con Siloe por compra de utensilios de cocina",
+                "url": "https://lahora.gt/investigacion/smorales/2026/05/26/mineduc-confirma-terminacion-anticipada-de-contrato-con-siloe-por-compra-de-utensilios-de-cocina/",
                 "source": "La Hora"
             },
             {
-                "title": "Walter Mazariegos mantiene apoyo en la CC para quedarse en la USAC",
-                "url": "https://prensacomunitaria.org/2026/05/walter-mazariegos-mantiene-apoyo-en-la-cc-para-quedarse-en-la-usac/",
-                "source": "Prensa Comunitaria"
+                "title": "Vacaciones de medio año en Guatemala 2026: cuándo es el descanso escolar, destinos para visitar y cuándo finaliza el ciclo educativo",
+                "url": "https://www.prensalibre.com/vida/escenario/vacaciones-de-medio-ano-en-guatemala-2026-cuando-es-el-descanso-escolar-destinos-para-visitar-y-cuando-finaliza-el-ciclo-educativo/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Así quedó el calendario de vacaciones de medio año en centros educativos públicos y privados",
+                "url": "https://www.publinews.gt/noticias/2026/05/25/asi-quedo-el-calendario-de-vacaciones-de-medio-ano-en-centros-educativos-publicos-y-privados/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-05-26T13:01:14.055440"
+        "timestamp": "2026-05-27T13:10:48.084239",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "rania de jordania",
-        "traffic": "1000+",
-        "growth": "600%",
-        "activity_time": "14.5 horas",
+        "title": "españa",
+        "traffic": "200+",
+        "growth": "800%",
+        "activity_time": "2.0 horas",
         "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "La mayor batería energética de España se inaugura este miércoles en el Campo Arañuelo",
+                "url": "https://www.radiointerior.es/texto-diario/mostrar/5896348/mayor-bateria-energetica-espana-inugura-miercoles-campo-aranuelo",
+                "source": "Radio Interior"
+            },
+            {
+                "title": "Iberdrola pone en marcha en Extremadura la mayor batería energética del país",
+                "url": "https://intereconomia.com/noticia/empresas/iberdrola-pone-en-marcha-en-extremadura-la-mayor-bateria-energetica-del-pais-20260527-1455/",
+                "source": "Radio Intereconomía"
+            },
+            {
+                "title": "Iberdrola inaugura en Cáceres la mayor batería de España y cambia las reglas del almacenamiento energético",
+                "url": "https://www.elplural.com/economia/empresas/iberdrola-inaugura-caceres-mayor-bateria-espana-cambia-almacenamiento-energetico_391265102",
+                "source": "Elplural.com"
+            }
+        ],
+        "timestamp": "2026-05-27T13:10:48.196190",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "alcalde",
+        "traffic": "200+",
+        "growth": "400%",
+        "activity_time": "18.7 horas",
+        "topics": [
+            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "La canción que Rajwa de Jordania escondía en su patriótico look para celebrar los 80 años de independencia",
-                "url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-05-26/cancion-rajwa-jordania-escondia-exclusivo-look-dia-independencia_4361601/",
-                "source": "Vanitatis"
+                "title": "Con el “Jefe de Jefes” con menos poder, alcaldes de VAMOS buscan futuro en Cabal, UNE y otros",
+                "url": "https://lahora.gt/investigacion/la-hora/2026/05/26/con-el-jefe-de-jefes-con-menos-poder-alcaldes-de-vamos-buscan-futuro-en-cabal-une-y-otros/",
+                "source": "La Hora"
             },
             {
-                "title": "Un estilista y una diseñadora de joyas analizan el look de Rania de Jordania en el 80 aniversario de la dinastía hachemita: \"Sabe que el lujo está en la sofisticación silenciosa, como doña Letizia\"",
-                "url": "https://www.semana.es/corazon/estilista-disenadora-joyas-analizan-look-rania-jordania-80-aniversario-dinastia-hachemita-sabe-que-lujo-esta-sofisticacion-silenciosa-como-dona-letizia_2814951",
-                "source": "Semana"
+                "title": "Ausencia de Diana Laura Corona en el DIF agrava crisis en Cuautla; buscan reemplazo",
+                "url": "https://www.sdpnoticias.com/estados/morelos/ausencia-de-diana-laura-corona-en-el-dif-agrava-crisis-en-cuautla-buscan-reemplazo/",
+                "source": "sdpnoticias"
             },
             {
-                "title": "Nicaragua felicita a Jordania por su 80.º aniversario de independencia",
-                "url": "https://www.tn8.ni/politica/nicaragua-felicita-a-jordania-por-su-80-o-aniversario-de-independencia/",
-                "source": "TN8"
+                "title": "Juez concede suspensión provisional contra orden de captura al alcalde de Cuautla, Morelos",
+                "url": "https://www.jornada.com.mx/noticia/2026/05/26/estados/juez-concede-suspension-provisional-contra-orden-de-captura-al-alcalde-de-cuautla",
+                "source": "La Jornada"
             }
         ],
-        "timestamp": "2026-05-26T13:01:14.091071",
+        "timestamp": "2026-05-27T13:10:48.664806",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
