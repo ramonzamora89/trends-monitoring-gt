@@ -1,88 +1,85 @@
 [
     {
-        "title": "ministerio de educación",
+        "title": "licencia",
         "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "20.7 horas",
+        "growth": "800%",
+        "activity_time": "22.1 horas",
         "topics": [
             "Law and Government",
-            "Business and Finance"
+            "Autos and Vehicles",
+            "Jobs and Education"
         ],
         "news": [
             {
-                "title": "Mineduc confirma terminación anticipada de contrato con Siloe por compra de utensilios de cocina",
-                "url": "https://lahora.gt/investigacion/smorales/2026/05/26/mineduc-confirma-terminacion-anticipada-de-contrato-con-siloe-por-compra-de-utensilios-de-cocina/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Vacaciones de medio año en Guatemala 2026: cuándo es el descanso escolar, destinos para visitar y cuándo finaliza el ciclo educativo",
-                "url": "https://www.prensalibre.com/vida/escenario/vacaciones-de-medio-ano-en-guatemala-2026-cuando-es-el-descanso-escolar-destinos-para-visitar-y-cuando-finaliza-el-ciclo-educativo/",
+                "title": "Maycom incorpora nuevo requisito para primera licencia en Guatemala: estos son los 6 requisitos vigentes",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/maycom-incorpora-nuevo-requisito-para-primera-licencia-en-guatemala-estos-son-los-6-requisitos-vigentes/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Así quedó el calendario de vacaciones de medio año en centros educativos públicos y privados",
-                "url": "https://www.publinews.gt/noticias/2026/05/25/asi-quedo-el-calendario-de-vacaciones-de-medio-ano-en-centros-educativos-publicos-y-privados/",
-                "source": "Publinews"
+                "title": "Conoce el nuevo requisito para tramitar la licencia de conducir",
+                "url": "https://lahora.gt/nacionales/hloarca/2026/05/27/conoce-el-nuevo-requisito-para-tramitar-la-licencia-de-conducir/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Maycom anuncia nuevo requisito para primeras licencias de conducir o transferencias",
+                "url": "https://www.soy502.com/articulo/maycom-anuncia-nuevo-requisito-primera-licencia-conducir-102077",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-05-27T13:10:48.084239",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-05-28T13:16:13.488828"
     },
     {
-        "title": "españa",
-        "traffic": "200+",
-        "growth": "800%",
-        "activity_time": "2.0 horas",
+        "title": "samsung",
+        "traffic": "100+",
+        "growth": "200%",
+        "activity_time": "2.6 horas",
         "topics": [
             "Business and Finance"
         ],
         "news": [
             {
-                "title": "La mayor batería energética de España se inaugura este miércoles en el Campo Arañuelo",
-                "url": "https://www.radiointerior.es/texto-diario/mostrar/5896348/mayor-bateria-energetica-espana-inugura-miercoles-campo-aranuelo",
-                "source": "Radio Interior"
+                "title": "Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange",
+                "url": "https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange",
+                "source": "CoinDesk"
             },
             {
-                "title": "Iberdrola pone en marcha en Extremadura la mayor batería energética del país",
-                "url": "https://intereconomia.com/noticia/empresas/iberdrola-pone-en-marcha-en-extremadura-la-mayor-bateria-energetica-del-pais-20260527-1455/",
-                "source": "Radio Intereconomía"
+                "title": "Korean Banks Explore Hybrid Model Linking CBDC to Won-Backed Stablecoins",
+                "url": "https://en.sedaily.com/news/2026/05/27/korean-banks-explore-hybrid-model-linking-cbdc-to-won",
+                "source": "Seoul Economic Daily"
             },
             {
-                "title": "Iberdrola inaugura en Cáceres la mayor batería de España y cambia las reglas del almacenamiento energético",
-                "url": "https://www.elplural.com/economia/empresas/iberdrola-inaugura-caceres-mayor-bateria-espana-cambia-almacenamiento-energetico_391265102",
-                "source": "Elplural.com"
+                "title": "Korea eases virtual-asset separation, spurring bank–exchange consolidations - CHOSUNBIZ",
+                "url": "https://biz.chosun.com/en/en-finance/2026/05/26/ZYWMKFGWQRC2BHCAEOPSOQEOBE/",
+                "source": "Chosunbiz"
             }
         ],
-        "timestamp": "2026-05-27T13:10:48.196190",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-05-28T13:16:13.658688"
     },
     {
-        "title": "alcalde",
-        "traffic": "200+",
-        "growth": "400%",
-        "activity_time": "18.7 horas",
+        "title": "alejandro giammattei",
+        "traffic": "500+",
+        "growth": "800%",
+        "activity_time": "15.8 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Con el “Jefe de Jefes” con menos poder, alcaldes de VAMOS buscan futuro en Cabal, UNE y otros",
-                "url": "https://lahora.gt/investigacion/la-hora/2026/05/26/con-el-jefe-de-jefes-con-menos-poder-alcaldes-de-vamos-buscan-futuro-en-cabal-une-y-otros/",
+                "title": "Sala frena devolución de lujosa finca vinculada a Alejandro Giammattei",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/27/sala-frena-devolucion-de-lujosa-finca-vinculada-a-alejandro-giammattei/",
                 "source": "La Hora"
             },
             {
-                "title": "Ausencia de Diana Laura Corona en el DIF agrava crisis en Cuautla; buscan reemplazo",
-                "url": "https://www.sdpnoticias.com/estados/morelos/ausencia-de-diana-laura-corona-en-el-dif-agrava-crisis-en-cuautla-buscan-reemplazo/",
-                "source": "sdpnoticias"
+                "title": "Sala de Apelaciones reactiva embargo a finca vinculada a Giammattei en Sacatepéquez",
+                "url": "https://www.prensalibre.com/guatemala/justicia/sala-de-apelaciones-reactiva-embargo-a-finca-vinculada-a-giammattei-en-sacatepequez-breaking/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Juez concede suspensión provisional contra orden de captura al alcalde de Cuautla, Morelos",
-                "url": "https://www.jornada.com.mx/noticia/2026/05/26/estados/juez-concede-suspension-provisional-contra-orden-de-captura-al-alcalde-de-cuautla",
-                "source": "La Jornada"
+                "title": "Amparo suspende devolución de finca vinculada a familia de Giammattei",
+                "url": "https://emisorasunidas.com/nacional/2026/05/27/amparo-devolucion-finca-familia-expresidente-giammattei/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-05-27T13:10:48.664806",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-05-28T13:16:13.709352"
     }
 ]
