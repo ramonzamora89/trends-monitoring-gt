@@ -1,85 +1,88 @@
 [
     {
-        "title": "licencia",
-        "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "22.1 horas",
-        "topics": [
-            "Law and Government",
-            "Autos and Vehicles",
-            "Jobs and Education"
-        ],
-        "news": [
-            {
-                "title": "Maycom incorpora nuevo requisito para primera licencia en Guatemala: estos son los 6 requisitos vigentes",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/maycom-incorpora-nuevo-requisito-para-primera-licencia-en-guatemala-estos-son-los-6-requisitos-vigentes/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Conoce el nuevo requisito para tramitar la licencia de conducir",
-                "url": "https://lahora.gt/nacionales/hloarca/2026/05/27/conoce-el-nuevo-requisito-para-tramitar-la-licencia-de-conducir/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Maycom anuncia nuevo requisito para primeras licencias de conducir o transferencias",
-                "url": "https://www.soy502.com/articulo/maycom-anuncia-nuevo-requisito-primera-licencia-conducir-102077",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-05-28T13:16:13.488828"
-    },
-    {
-        "title": "samsung",
+        "title": "secretario",
         "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "2.6 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Samsung units to buy $408 million stake in South Korea’s biggest crypto exchange",
-                "url": "https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange",
-                "source": "CoinDesk"
-            },
-            {
-                "title": "Korean Banks Explore Hybrid Model Linking CBDC to Won-Backed Stablecoins",
-                "url": "https://en.sedaily.com/news/2026/05/27/korean-banks-explore-hybrid-model-linking-cbdc-to-won",
-                "source": "Seoul Economic Daily"
-            },
-            {
-                "title": "Korea eases virtual-asset separation, spurring bank–exchange consolidations - CHOSUNBIZ",
-                "url": "https://biz.chosun.com/en/en-finance/2026/05/26/ZYWMKFGWQRC2BHCAEOPSOQEOBE/",
-                "source": "Chosunbiz"
-            }
-        ],
-        "timestamp": "2026-05-28T13:16:13.658688"
-    },
-    {
-        "title": "alejandro giammattei",
-        "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "15.8 horas",
+        "growth": "300%",
+        "activity_time": "1.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Sala frena devolución de lujosa finca vinculada a Alejandro Giammattei",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/27/sala-frena-devolucion-de-lujosa-finca-vinculada-a-alejandro-giammattei/",
+                "title": "Secretario de política criminal del MP, Melvin Portillo, renunció un día después de la salida de Porras",
+                "url": "https://lahora.gt/nacionales/dguzman/2026/05/28/secretario-de-politica-criminal-del-mp-melvin-portillo-renuncio-un-dia-despues-de-la-salida-de-porras/",
                 "source": "La Hora"
             },
             {
-                "title": "Sala de Apelaciones reactiva embargo a finca vinculada a Giammattei en Sacatepéquez",
-                "url": "https://www.prensalibre.com/guatemala/justicia/sala-de-apelaciones-reactiva-embargo-a-finca-vinculada-a-giammattei-en-sacatepequez-breaking/",
+                "title": "MP confirma renuncia del fiscal Saúl Sánchez y de secretarios de la administración de Consuelo Porras",
+                "url": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-renuncia-del-fiscal-saul-sanchez-y-de-secretarios-de-la-administracion-de-consuelo-porras-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Amparo suspende devolución de finca vinculada a familia de Giammattei",
-                "url": "https://emisorasunidas.com/nacional/2026/05/27/amparo-devolucion-finca-familia-expresidente-giammattei/",
-                "source": "Emisoras Unidas"
+                "title": "Julio Recinos y Dimas Jiménez presentan su renuncia al Ministerio Público",
+                "url": "https://canalantigua.tv/2026/05/27/julio-recinos-y-dimas-jimenez-presentan-renuncia-ministerio-publico/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-05-28T13:16:13.709352"
+        "timestamp": "2026-05-29T13:06:49.716652",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "usac",
+        "traffic": "2000+",
+        "growth": "300%",
+        "activity_time": "23.3 horas",
+        "topics": [
+            "Law and Government",
+            "Jobs and Education",
+            "Politics"
+        ],
+        "news": [
+            {
+                "title": "A un mes de finalizar el periodo de rector crece la incertidumbre sobre la democracia en la Usac y el fraude de Walter Mazariegos",
+                "url": "https://lahora.gt/investigacion/la-hora/2026/05/28/a-un-mes-de-finalizar-el-periodo-de-rector-crece-la-incertidumbre-sobre-la-democracia-en-la-usac-y-el-fraude-de-walter-mazariegos/",
+                "source": "La Hora"
+            },
+            {
+                "title": "CC acuerda denegar cerca de 15 expedientes relacionados con la elección de rector de la USAC",
+                "url": "https://www.prensalibre.com/guatemala/politica/cc-acuerda-denegar-cerca-de-15-expedientes-relacionados-con-la-eleccion-de-rector-de-la-usac/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Walter Mazariegos mantiene apoyo en la CC para quedarse en la USAC",
+                "url": "https://prensacomunitaria.org/2026/05/walter-mazariegos-mantiene-apoyo-en-la-cc-para-quedarse-en-la-usac/",
+                "source": "Prensa Comunitaria"
+            }
+        ],
+        "timestamp": "2026-05-29T13:06:49.947568",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "tribunal de justicia",
+        "traffic": "200+",
+        "growth": "1000%",
+        "activity_time": "13.6 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Juez acepta pruebas en caso del secuestro del odontólogo Julio Amílcar Martínez y tribunal debe fijar fecha de debate",
+                "url": "https://www.prensalibre.com/guatemala/justicia/juez-acepta-pruebas-en-caso-del-secuestro-del-odontologo-julio-amilcar-martinez-y-tribunal-debe-fijar-fecha-de-debate-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "28 de mayo: un año de desesperanza, un año de incertidumbre y un año exigiendo la aparición de Julio Martínez",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/28/28-de-mayo-un-ano-de-desesperanza-un-ano-de-incertidumbre-y-un-ano-exigiendo-la-aparicion-de-julio-martinez/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Inicia audiencia de ofrecimiento de pruebas por el caso del secuestro del odontólogo Julio Amílcar Martínez",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/inicia-audiencia-de-ofrecimiento-de-pruebas-por-el-caso-del-secuestro-del-odontologo-julio-amilcar-martinez/",
+                "source": "Prensa Libre"
+            }
+        ],
+        "timestamp": "2026-05-29T13:06:50.187243",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
