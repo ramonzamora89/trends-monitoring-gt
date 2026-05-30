@@ -1,88 +1,87 @@
 [
     {
-        "title": "secretario",
-        "traffic": "100+",
-        "growth": "300%",
-        "activity_time": "1.9 horas",
+        "title": "rector",
+        "traffic": "200+",
+        "growth": "700%",
+        "activity_time": "1.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Secretario de política criminal del MP, Melvin Portillo, renunció un día después de la salida de Porras",
-                "url": "https://lahora.gt/nacionales/dguzman/2026/05/28/secretario-de-politica-criminal-del-mp-melvin-portillo-renuncio-un-dia-despues-de-la-salida-de-porras/",
+                "title": "Juzgado suspende en definitiva segundo fraude de Walter Mazariegos en la rectoría de la Usac",
+                "url": "https://lahora.gt/nacionales/la-hora/2026/05/29/juzgado-suspende-en-definitiva-segundo-fraude-de-walter-mazariegos-en-la-rectoria-de-la-usac/",
                 "source": "La Hora"
             },
             {
-                "title": "MP confirma renuncia del fiscal Saúl Sánchez y de secretarios de la administración de Consuelo Porras",
-                "url": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-renuncia-del-fiscal-saul-sanchez-y-de-secretarios-de-la-administracion-de-consuelo-porras-breaking/",
-                "source": "Prensa Libre"
+                "title": "Dejan sin efecto elección de Walter Mazariegos como rector de la USAC",
+                "url": "https://www.soy502.com/articulo/dejan-sin-efecto-eleccion-mazariegos-como-rector-usac-101902",
+                "source": "Soy502"
             },
             {
-                "title": "Julio Recinos y Dimas Jiménez presentan su renuncia al Ministerio Público",
-                "url": "https://canalantigua.tv/2026/05/27/julio-recinos-y-dimas-jimenez-presentan-renuncia-ministerio-publico/",
-                "source": "Canal Antigua"
+                "title": "Juzgado deja en suspenso elección de Walter Mazariegos y otorga amparo definitivo a opositores",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/juzgado-deja-en-suspenso-eleccion-de-walter-mazariegos-y-otorga-amparo-definitivo-a-opositores/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-05-29T13:06:49.716652",
+        "timestamp": "2026-05-30T12:27:25.018303",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "usac",
-        "traffic": "2000+",
-        "growth": "300%",
-        "activity_time": "23.3 horas",
+        "title": "tribunal supremo electoral de guatemala",
+        "traffic": "200+",
+        "growth": "500%",
+        "activity_time": "23.8 horas",
         "topics": [
             "Law and Government",
-            "Jobs and Education",
-            "Politics"
+            "Technology"
         ],
         "news": [
             {
-                "title": "A un mes de finalizar el periodo de rector crece la incertidumbre sobre la democracia en la Usac y el fraude de Walter Mazariegos",
-                "url": "https://lahora.gt/investigacion/la-hora/2026/05/28/a-un-mes-de-finalizar-el-periodo-de-rector-crece-la-incertidumbre-sobre-la-democracia-en-la-usac-y-el-fraude-de-walter-mazariegos/",
-                "source": "La Hora"
-            },
-            {
-                "title": "CC acuerda denegar cerca de 15 expedientes relacionados con la elección de rector de la USAC",
-                "url": "https://www.prensalibre.com/guatemala/politica/cc-acuerda-denegar-cerca-de-15-expedientes-relacionados-con-la-eleccion-de-rector-de-la-usac/",
+                "title": "Surgen dudas por las nuevas disposiciones de seguridad en las instalaciones del TSE",
+                "url": "https://www.prensalibre.com/guatemala/politica/surgen-dudas-por-las-nuevas-disposiciones-de-seguridad-en-las-instalaciones-del-tse/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Walter Mazariegos mantiene apoyo en la CC para quedarse en la USAC",
-                "url": "https://prensacomunitaria.org/2026/05/walter-mazariegos-mantiene-apoyo-en-la-cc-para-quedarse-en-la-usac/",
-                "source": "Prensa Comunitaria"
+                "title": "TSE prohíbe ingreso de celulares y dispositivos electrónicos",
+                "url": "https://www.publinews.gt/noticias/2026/05/25/tse-prohibe-ingreso-de-celulares-y-dispositivos-electronicos/",
+                "source": "Publinews"
+            },
+            {
+                "title": "TSE asegura que restricción de dispositivos no limitará fiscalización ni prensa",
+                "url": "https://www.soy502.com/articulo/tse-asegura-restriccion-no-limitara-fiscalizacion-ni-prensa-102052",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-05-29T13:06:49.947568",
+        "timestamp": "2026-05-30T12:27:25.175277",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "tribunal de justicia",
-        "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "13.6 horas",
+        "title": "premio",
+        "traffic": "1000+",
+        "growth": "300%",
+        "activity_time": "19.6 horas",
         "topics": [
-            "Law and Government"
+            "Other"
         ],
         "news": [
             {
-                "title": "Juez acepta pruebas en caso del secuestro del odontólogo Julio Amílcar Martínez y tribunal debe fijar fecha de debate",
-                "url": "https://www.prensalibre.com/guatemala/justicia/juez-acepta-pruebas-en-caso-del-secuestro-del-odontologo-julio-amilcar-martinez-y-tribunal-debe-fijar-fecha-de-debate-breaking/",
-                "source": "Prensa Libre"
+                "title": "“Que este premio sea también un grito: el Gazacidio no pasará”",
+                "url": "https://vientosur.info/que-este-premio-sea-tambien-un-grito-el-gazacidio-no-pasara/",
+                "source": "Viento Sur"
             },
             {
-                "title": "28 de mayo: un año de desesperanza, un año de incertidumbre y un año exigiendo la aparición de Julio Martínez",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/05/28/28-de-mayo-un-ano-de-desesperanza-un-ano-de-incertidumbre-y-un-ano-exigiendo-la-aparicion-de-julio-martinez/",
-                "source": "La Hora"
+                "title": "Paloma del Río recibirá el XXIII Premio Nacional de Periodismo Pedro Antonio de Alarcón en Guadix",
+                "url": "https://www.granadahoy.com/provincia/paloma-rio-recibira-xxiii-premio-nacional-periodismo-pedro-antonio-de-alarcon_0_2006896011.html",
+                "source": "Granada Hoy"
             },
             {
-                "title": "Inicia audiencia de ofrecimiento de pruebas por el caso del secuestro del odontólogo Julio Amílcar Martínez",
-                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/inicia-audiencia-de-ofrecimiento-de-pruebas-por-el-caso-del-secuestro-del-odontologo-julio-amilcar-martinez/",
-                "source": "Prensa Libre"
+                "title": "Comprobar Lotería Nacional: resultados de hoy, sábado 30 de mayo de 2026",
+                "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-30-mayo-2026_6977094_0.html",
+                "source": "20Minutos"
             }
         ],
-        "timestamp": "2026-05-29T13:06:50.187243",
+        "timestamp": "2026-05-30T12:27:25.228744",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
