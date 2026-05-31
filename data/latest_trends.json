@@ -1,87 +1,84 @@
 [
     {
-        "title": "rector",
-        "traffic": "200+",
-        "growth": "700%",
-        "activity_time": "1.8 horas",
+        "title": "calzada roosevelt",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "11.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Juzgado suspende en definitiva segundo fraude de Walter Mazariegos en la rectoría de la Usac",
-                "url": "https://lahora.gt/nacionales/la-hora/2026/05/29/juzgado-suspende-en-definitiva-segundo-fraude-de-walter-mazariegos-en-la-rectoria-de-la-usac/",
-                "source": "La Hora"
+                "title": "\"Planifique su recorrido\": Anuncian cierre temporal en la calzada Roosevelt",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/planifique-su-recorrido-anuncian-cierre-temporal-de-la-calzada-roosevelt/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Dejan sin efecto elección de Walter Mazariegos como rector de la USAC",
-                "url": "https://www.soy502.com/articulo/dejan-sin-efecto-eleccion-mazariegos-como-rector-usac-101902",
+                "title": "¡No habrá paso! Anuncian cierre vial en la Calzada Roosevelt",
+                "url": "https://www.soy502.com/articulo/no-habra-paso-anuncian-cierre-vial-zona-11-102084",
                 "source": "Soy502"
             },
             {
-                "title": "Juzgado deja en suspenso elección de Walter Mazariegos y otorga amparo definitivo a opositores",
-                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/juzgado-deja-en-suspenso-eleccion-de-walter-mazariegos-y-otorga-amparo-definitivo-a-opositores/",
-                "source": "Prensa Libre"
+                "title": "Paso a desnivel de la Calzada Roosevelt en atrasos constantes mientras pocos trabajos faltan para ser entregado",
+                "url": "https://lahora.gt/nacionales/kjordan/2026/05/25/paso-a-desnivel-de-la-calzada-roosevelt-en-atrasos-constantes-mientras-pocos-trabajos-faltan-para-ser-entregado/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-05-30T12:27:25.018303",
+        "timestamp": "2026-05-31T12:30:19.891117",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "tribunal supremo electoral de guatemala",
-        "traffic": "200+",
-        "growth": "500%",
+        "title": "salario mínimo",
+        "traffic": "2000+",
+        "growth": "1000%",
         "activity_time": "23.8 horas",
         "topics": [
             "Law and Government",
-            "Technology"
+            "Politics",
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Surgen dudas por las nuevas disposiciones de seguridad en las instalaciones del TSE",
-                "url": "https://www.prensalibre.com/guatemala/politica/surgen-dudas-por-las-nuevas-disposiciones-de-seguridad-en-las-instalaciones-del-tse/",
-                "source": "Prensa Libre"
+                "title": "MLB owners already pushing back on players' first CBA proposal as work stoppage looms after 2026 season",
+                "url": "https://noticias.foxnews.com/outkick-sports/mlb-owners-already-pushing-back-players-first-cba-proposal-work-stoppage-looms-2026-season",
+                "source": "Fox News"
             },
             {
-                "title": "TSE prohíbe ingreso de celulares y dispositivos electrónicos",
-                "url": "https://www.publinews.gt/noticias/2026/05/25/tse-prohibe-ingreso-de-celulares-y-dispositivos-electronicos/",
-                "source": "Publinews"
-            },
-            {
-                "title": "TSE asegura que restricción de dispositivos no limitará fiscalización ni prensa",
-                "url": "https://www.soy502.com/articulo/tse-asegura-restriccion-no-limitara-fiscalizacion-ni-prensa-102052",
-                "source": "Soy502"
+                "title": "MLBPA opens CBA negotiations with plan to punish low-spending teams and raise luxury-tax threshold to $300M",
+                "url": "https://noticias.foxnews.com/sports/mlbpa-cba-negotiations-low-spending-teams-luxury-tax",
+                "source": "Fox News"
             }
         ],
-        "timestamp": "2026-05-30T12:27:25.175277",
+        "timestamp": "2026-05-31T12:30:20.149321",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "premio",
+        "title": "gasolina",
         "traffic": "1000+",
-        "growth": "300%",
-        "activity_time": "19.6 horas",
+        "growth": "1000%",
+        "activity_time": "17.2 horas",
         "topics": [
-            "Other"
+            "Business and Finance",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "“Que este premio sea también un grito: el Gazacidio no pasará”",
-                "url": "https://vientosur.info/que-este-premio-sea-tambien-un-grito-el-gazacidio-no-pasara/",
-                "source": "Viento Sur"
+                "title": "Hacen pruebas con el E10: el combustible que comenzará a usarse en Guatemala a partir del 30 de junio",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/05/31/hacen-pruebas-con-el-e10-el-combustible-que-comenzara-a-usarse-en-guatemala-a-partir-del-30-de-junio/",
+                "source": "La Hora"
             },
             {
-                "title": "Paloma del Río recibirá el XXIII Premio Nacional de Periodismo Pedro Antonio de Alarcón en Guadix",
-                "url": "https://www.granadahoy.com/provincia/paloma-rio-recibira-xxiii-premio-nacional-periodismo-pedro-antonio-de-alarcon_0_2006896011.html",
-                "source": "Granada Hoy"
+                "title": "Gasolina E10 en Guatemala: prueba de UVG no detecta daños en motos, pero importadores piden que sea opcional",
+                "url": "https://www.prensalibre.com/economia/gasolina-e10-en-guatemala-prueba-de-uvg-no-detecta-danos-en-motos-pero-importadores-piden-que-sea-opcional/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Comprobar Lotería Nacional: resultados de hoy, sábado 30 de mayo de 2026",
-                "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-30-mayo-2026_6977094_0.html",
-                "source": "20Minutos"
+                "title": "Guatemala: El Ministerio de Energía y Minas ajusta controles para la transición al E10",
+                "url": "https://www.infobae.com/guatemala/2026/05/25/guatemala-el-ministerio-de-energia-y-minas-ajusta-controles-para-la-transicion-al-e10/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-05-30T12:27:25.228744",
+        "timestamp": "2026-05-31T12:30:20.313122",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
