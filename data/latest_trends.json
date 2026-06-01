@@ -1,84 +1,73 @@
 [
     {
-        "title": "calzada roosevelt",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "11.5 horas",
+        "title": "whatsapp",
+        "traffic": "200+",
+        "growth": "75%",
+        "activity_time": "0.7 horas",
         "topics": [
-            "Law and Government"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "\"Planifique su recorrido\": Anuncian cierre temporal en la calzada Roosevelt",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/planifique-su-recorrido-anuncian-cierre-temporal-de-la-calzada-roosevelt/",
-                "source": "Prensa Libre"
+                "title": "Mandelson files to be published as ministers brace for 'embarrassing' release of messages - live updates",
+                "url": "https://www.bbc.com/news/live/cy02zzl4wknt",
+                "source": "BBC"
             },
             {
-                "title": "¡No habrá paso! Anuncian cierre vial en la Calzada Roosevelt",
-                "url": "https://www.soy502.com/articulo/no-habra-paso-anuncian-cierre-vial-zona-11-102084",
-                "source": "Soy502"
+                "title": "UK releases second batch of files on Mandelson's appointment as US ambassador",
+                "url": "https://www.reuters.com/world/uk/uk-releases-second-batch-files-mandelsons-appointment-us-ambassador-2026-06-01/",
+                "source": "Reuters"
             },
             {
-                "title": "Paso a desnivel de la Calzada Roosevelt en atrasos constantes mientras pocos trabajos faltan para ser entregado",
-                "url": "https://lahora.gt/nacionales/kjordan/2026/05/25/paso-a-desnivel-de-la-calzada-roosevelt-en-atrasos-constantes-mientras-pocos-trabajos-faltan-para-ser-entregado/",
-                "source": "La Hora"
+                "title": "U.K. Braces for More Files About Mandelson, Ambassador Tied to Epstein",
+                "url": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
+                "source": "The New York Times"
             }
         ],
-        "timestamp": "2026-05-31T12:30:19.891117",
+        "timestamp": "2026-06-01T14:03:19.054746",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
+        "title": "brasil",
+        "traffic": "200+",
+        "growth": "900%",
+        "activity_time": "17.2 horas",
+        "topics": [
+            "Politics"
+        ],
+        "news": [
+            {
+                "title": "Por que a direita tradicional naufragou em eleição na Colômbia",
+                "url": "https://exame.com/mundo/por-que-a-direita-tradicional-naufragou-em-eleicao-na-colombia/",
+                "source": "Exame"
+            },
+            {
+                "title": "Cepeda denuncia irregularidades eleitorais e alerta para interferência estrangeira na Colômbia",
+                "url": "https://movimentorevista.com.br/2026/06/cepeda-denuncia-irregularidades-eleitorais-e-alerta-para-interferencia-estrangeira-na-colombia/",
+                "source": "Revista Movimento"
+            },
+            {
+                "title": "\"El Tigre\" vence a primeira volta na Colômbia e esquerda contesta resultados. Segunda volta é a 21 de junho",
+                "url": "https://sapo.pt/artigo/el-tigre-vence-a-primeira-volta-na-colombia-e-esquerda-contesta-resultados-segunda-volta-e-a-21-de-junho-6a1d6829bd4691ffdc4c39ab",
+                "source": "SAPO"
+            }
+        ],
+        "timestamp": "2026-06-01T14:03:19.477510",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
         "title": "salario mínimo",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "23.8 horas",
+        "traffic": "100+",
+        "growth": "500%",
+        "activity_time": "11.9 horas",
         "topics": [
             "Law and Government",
             "Politics",
             "Business and Finance"
         ],
-        "news": [
-            {
-                "title": "MLB owners already pushing back on players' first CBA proposal as work stoppage looms after 2026 season",
-                "url": "https://noticias.foxnews.com/outkick-sports/mlb-owners-already-pushing-back-players-first-cba-proposal-work-stoppage-looms-2026-season",
-                "source": "Fox News"
-            },
-            {
-                "title": "MLBPA opens CBA negotiations with plan to punish low-spending teams and raise luxury-tax threshold to $300M",
-                "url": "https://noticias.foxnews.com/sports/mlbpa-cba-negotiations-low-spending-teams-luxury-tax",
-                "source": "Fox News"
-            }
-        ],
-        "timestamp": "2026-05-31T12:30:20.149321",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "gasolina",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "17.2 horas",
-        "topics": [
-            "Business and Finance",
-            "Autos and Vehicles"
-        ],
-        "news": [
-            {
-                "title": "Hacen pruebas con el E10: el combustible que comenzará a usarse en Guatemala a partir del 30 de junio",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/05/31/hacen-pruebas-con-el-e10-el-combustible-que-comenzara-a-usarse-en-guatemala-a-partir-del-30-de-junio/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Gasolina E10 en Guatemala: prueba de UVG no detecta daños en motos, pero importadores piden que sea opcional",
-                "url": "https://www.prensalibre.com/economia/gasolina-e10-en-guatemala-prueba-de-uvg-no-detecta-danos-en-motos-pero-importadores-piden-que-sea-opcional/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Guatemala: El Ministerio de Energía y Minas ajusta controles para la transición al E10",
-                "url": "https://www.infobae.com/guatemala/2026/05/25/guatemala-el-ministerio-de-energia-y-minas-ajusta-controles-para-la-transicion-al-e10/",
-                "source": "Infobae"
-            }
-        ],
-        "timestamp": "2026-05-31T12:30:20.313122",
+        "news": [],
+        "timestamp": "2026-06-01T14:03:19.766792",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
