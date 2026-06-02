@@ -1,73 +1,88 @@
 [
     {
         "title": "whatsapp",
-        "traffic": "200+",
+        "traffic": "1000+",
         "growth": "75%",
-        "activity_time": "0.7 horas",
+        "activity_time": "24.0 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Politics",
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Mandelson files to be published as ministers brace for 'embarrassing' release of messages - live updates",
-                "url": "https://www.bbc.com/news/live/cy02zzl4wknt",
+                "title": "Five questions left unanswered by the Mandelson files",
+                "url": "https://www.bbc.com/news/articles/cn4p9pv13kdo",
                 "source": "BBC"
             },
             {
-                "title": "UK releases second batch of files on Mandelson's appointment as US ambassador",
-                "url": "https://www.reuters.com/world/uk/uk-releases-second-batch-files-mandelsons-appointment-us-ambassador-2026-06-01/",
-                "source": "Reuters"
+                "title": "Epstein survivor urges Starmer to meet victims after latest Mandelson files released",
+                "url": "https://news.sky.com/story/epstein-survivor-urges-starmer-to-meet-victims-after-latest-mandelson-files-released-13550045",
+                "source": "Sky News"
             },
             {
-                "title": "U.K. Braces for More Files About Mandelson, Ambassador Tied to Epstein",
-                "url": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
-                "source": "The New York Times"
+                "title": "UK Publishes New Mandelson Files, Raising Heat on Starmer",
+                "url": "https://www.bloomberg.com/news/articles/2026-06-01/uk-publishes-new-mandelson-files-raising-heat-on-starmer",
+                "source": "Bloomberg.com"
             }
         ],
-        "timestamp": "2026-06-01T14:03:19.054746",
+        "timestamp": "2026-06-02T13:17:39.290467",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "brasil",
-        "traffic": "200+",
-        "growth": "900%",
-        "activity_time": "17.2 horas",
+        "title": "sat",
+        "traffic": "500+",
+        "growth": "50%",
+        "activity_time": "23.8 horas",
         "topics": [
-            "Politics"
+            "Business and Finance",
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Por que a direita tradicional naufragou em eleição na Colômbia",
-                "url": "https://exame.com/mundo/por-que-a-direita-tradicional-naufragou-em-eleicao-na-colombia/",
-                "source": "Exame"
+                "title": "SAT inicia el fin de Declaraguate: desde este 2 de junio contribuyentes especiales migran a la Agencia Virtual",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/01/sat-inicia-el-fin-de-declaraguate-desde-este-2-de-junio-contribuyentes-especiales-migran-a-la-agencia-virtual/",
+                "source": "La Hora"
             },
             {
-                "title": "Cepeda denuncia irregularidades eleitorais e alerta para interferência estrangeira na Colômbia",
-                "url": "https://movimentorevista.com.br/2026/06/cepeda-denuncia-irregularidades-eleitorais-e-alerta-para-interferencia-estrangeira-na-colombia/",
-                "source": "Revista Movimento"
+                "title": "SAT inicia cambios en Declaraguate: contribuyentes deberán presentar formularios desde la Agencia Virtual",
+                "url": "https://agn.gt/sat-inicia-cambios-en-declaraguate-contribuyentes-deberan-presentar-formularios-desde-la-agencia-virtual/",
+                "source": "Agencia Guatemalteca de Noticias"
             },
             {
-                "title": "\"El Tigre\" vence a primeira volta na Colômbia e esquerda contesta resultados. Segunda volta é a 21 de junho",
-                "url": "https://sapo.pt/artigo/el-tigre-vence-a-primeira-volta-na-colombia-e-esquerda-contesta-resultados-segunda-volta-e-a-21-de-junho-6a1d6829bd4691ffdc4c39ab",
-                "source": "SAPO"
+                "title": "Efecto de las declaraciones sugeridas por la SAT",
+                "url": "https://www.prensalibre.com/opinion/columnasdiarias/efecto-de-las-declaraciones-sugeridas-por-la-sat/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-06-01T14:03:19.477510",
+        "timestamp": "2026-06-02T13:17:39.337042",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "salario mínimo",
-        "traffic": "100+",
-        "growth": "500%",
-        "activity_time": "11.9 horas",
+        "title": "el niño",
+        "traffic": "500+",
+        "growth": "300%",
+        "activity_time": "5.1 horas",
         "topics": [
-            "Law and Government",
-            "Politics",
-            "Business and Finance"
+            "Science"
         ],
-        "news": [],
-        "timestamp": "2026-06-01T14:03:19.766792",
+        "news": [
+            {
+                "title": "El Super Niño que viene ¿Nos preparamos o nos lamentamos?",
+                "url": "https://www.infobae.com/opinion/2026/06/02/el-super-nino-que-viene-nos-preparamos-o-nos-lamentamos/",
+                "source": "Infobae"
+            },
+            {
+                "title": "El Niño se acerca y llevará a un planeta ya sobrecalentado aún más al límite",
+                "url": "https://climatica.coop/el-nino-80-probabilidad-proximos-meses/",
+                "source": "Climática"
+            },
+            {
+                "title": "Así afectará a América Latina el nuevo episodio de El Niño",
+                "url": "https://www.rfi.fr/es/medioambiente/20260602-as%C3%AD-afectar%C3%A1-a-am%C3%A9rica-latina-el-nuevo-episodio-de-el-ni%C3%B1o",
+                "source": "RFI"
+            }
+        ],
+        "timestamp": "2026-06-02T13:17:39.375769",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
