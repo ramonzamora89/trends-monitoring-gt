@@ -1,87 +1,86 @@
 [
     {
-        "title": "gasolina",
-        "traffic": "5000+",
-        "growth": "1000%",
-        "activity_time": "20.2 horas",
-        "topics": [
-            "Autos and Vehicles",
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Gasolina y diésel bajan en Guatemala: estos son los precios vigentes del 2 al 8 de junio",
-                "url": "https://www.prensalibre.com/economia/gasolina-y-diesel-bajan-en-guatemala-estos-son-los-precios-vigentes-del-2-al-8-de-junio-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Gasolinas y diésel presentan significativa baja en sus precios",
-                "url": "https://canalantigua.tv/2026/06/02/gasolinas-y-diesel-presentan-significativa-baja-en-sus-precios/",
-                "source": "Canal Antigua"
-            },
-            {
-                "title": "Precios de los combustibles bajan para esta semana",
-                "url": "https://www.soy502.com/articulo/baja-gasolinas-reflejan-baja-q344-diesel-q262-102123",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-06-03T13:39:16.323012",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "walmart",
-        "traffic": "500+",
-        "growth": "300%",
-        "activity_time": "2.7 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Why Walmart Stock Dropped 12% in May",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-walmart-stock-dropped-12-094722007.html",
-                "source": "Yahoo Finance"
-            },
-            {
-                "title": "Walmart Tumbles While Investors’ Attention Is Laser-Focused on Tech",
-                "url": "https://pro.thestreet.com/posts/walmart-tumbles-while-investors-attention-is-laser-focused-on-tech",
-                "source": "TheStreet Pro"
-            },
-            {
-                "title": "Walmart’s Valuation Still Looks Stretched Despite the Sharp Pullback",
-                "url": "https://www.investing.com/analysis/walmarts-valuation-still-looks-stretched-despite-the-sharp-pullback-200681370",
-                "source": "Investing.com"
-            }
-        ],
-        "timestamp": "2026-06-03T13:39:16.363401",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "maría consuelo porras",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "16.5 horas",
+        "title": "guatemala",
+        "traffic": "100+",
+        "growth": "200%",
+        "activity_time": "2.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Cambios en el MP: trasladan a fiscales contra Corrupción, Secuestros y Trata de Personas",
-                "url": "https://www.prensalibre.com/guatemala/justicia/cambios-en-el-mp-trasladan-a-fiscales-contra-corrupcion-secuestros-y-trata-de-personas/",
+                "title": "Nueva ley antilavado: amplía controles a criptomonedas, profesionales, inmobiliarias y empresas",
+                "url": "https://www.prensalibre.com/economia/nueva-ley-antilavado-amplia-controles-a-criptomonedas-profesionales-inmobiliarias-y-empresas/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Cinthia Monterroso deja la Fiscalía Metropolitana y dirigirá la Regional de Occidente",
-                "url": "https://www.soy502.com/articulo/cinthia-monterroso-dirigira-fiscalia-regional-occidente-102154",
-                "source": "Soy502"
+                "title": "Congreso aprueba Ley Antilavado de Dinero y renueva reglas para combatir delitos financieros en Guatemala",
+                "url": "https://www.infobae.com/guatemala/2026/06/03/congreso-de-guatemala-aprueba-ley-antilavado-de-dinero-en-favor-de-la-transparencia-financiera/",
+                "source": "Infobae"
             },
             {
-                "title": "Siguen los cambios el MP y García Luna traslada a esposo de Porras y otros dos fiscales cercanos",
-                "url": "https://lahora.gt/nacionales/engelberth-blanco/2026/06/02/siguen-los-cambios-el-mp-y-garcia-luna-traslada-a-esposo-de-porras-y-otros-dos-fiscales-cercanos/",
+                "title": "Presidente Arévalo señala que ley antilavado quita el poder económico al narcotráfico y la corrupción",
+                "url": "https://lahora.gt/nacionales/ralvarado/2026/06/03/presidente-arevalo-senala-que-ley-antilavado-quita-el-poder-economico-al-narcotrafico-y-la-corrupcion/",
                 "source": "La Hora"
             }
         ],
-        "timestamp": "2026-06-03T13:39:16.403606",
+        "timestamp": "2026-06-04T13:05:41.869645",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "sanción",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "12.6 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Diputados. Avanzan con reformas impositivas y proyectos de inversión",
+                "url": "https://www.continentalcorrientes.com/noticia/79126_diputados-avanzan-con-reformas-impositivas-y-proyectos-de-inversin-.htm",
+                "source": "Radio Continental Corrientes FM 97.3 MHz"
+            },
+            {
+                "title": "Diputados dio media sanción a la Ley de Mecenazgo Educativo",
+                "url": "https://www.cadenaderadios.com.ar/noticia/84608_diputados-dio-media-sancin-a-la-ley-de-mecenazgo-educativo.htm",
+                "source": "Cadena de Radios"
+            },
+            {
+                "title": "Media sanción a leyes de índole tributaria, culturales y de salud",
+                "url": "https://www.republicadecorrientes.com/72451-media-sancion-a-leyes-de-indole-tributaria-culturales-y-de-salud",
+                "source": "República de Corrientes"
+            }
+        ],
+        "timestamp": "2026-06-04T13:05:42.069109",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "junio",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "18.6 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [
+            {
+                "title": "Clima en Ciudad de Guatemala: Prepárese para lluvias y tormentas esta tarde",
+                "url": "https://www.publinews.gt/noticias/2026/06/03/clima-en-ciudad-de-guatemala-preparese-para-lluvias-y-tormentas-esta-tarde/",
+                "source": "Publinews"
+            },
+            {
+                "title": "Clima: las temperaturas que predominarán este 2 de junio en Ciudad de Guatemala",
+                "url": "https://www.infobae.com/noticias/2026/06/02/clima-las-temperaturas-que-predominaran-este-2-de-junio-en-ciudad-de-guatemala/",
+                "source": "Infobae"
+            },
+            {
+                "title": "Clima hoy en Ciudad de Guatemala, Guatemala: el pronóstico del tiempo para este jueves 4 junio de 2026",
+                "url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guatemala-guatemala-pronostico-tiempo-jueves-4-junio-2026_0_K8VmpY9MkA.html",
+                "source": "Clarin.com"
+            }
+        ],
+        "timestamp": "2026-06-04T13:05:42.258105",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
