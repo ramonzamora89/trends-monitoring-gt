@@ -1,86 +1,84 @@
 [
     {
-        "title": "guatemala",
+        "title": "maría consuelo porras",
         "traffic": "100+",
         "growth": "200%",
-        "activity_time": "2.8 horas",
+        "activity_time": "2.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Nueva ley antilavado: amplía controles a criptomonedas, profesionales, inmobiliarias y empresas",
-                "url": "https://www.prensalibre.com/economia/nueva-ley-antilavado-amplia-controles-a-criptomonedas-profesionales-inmobiliarias-y-empresas/",
+                "title": "García Luna libera información de salarios que Consuelo Porras mantuvo bajo reserva : Esto ganó la exfiscal durante los últimos meses de su gestión",
+                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/04/garcia-luna-libera-informacion-de-salarios-que-consuelo-porras-mantuvo-bajo-reserva-esto-gano-la-exfiscal-durante-los-ultimos-dias-de-su-gestion/",
+                "source": "La Hora"
+            },
+            {
+                "title": "MP publica cuál fue el sueldo de exfiscal general y otros funcionarios",
+                "url": "https://www.prensalibre.com/guatemala/justicia/mp-publica-cual-fue-el-sueldo-de-exfiscal-general-y-otros-funcionarios-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Congreso aprueba Ley Antilavado de Dinero y renueva reglas para combatir delitos financieros en Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/06/03/congreso-de-guatemala-aprueba-ley-antilavado-de-dinero-en-favor-de-la-transparencia-financiera/",
-                "source": "Infobae"
-            },
-            {
-                "title": "Presidente Arévalo señala que ley antilavado quita el poder económico al narcotráfico y la corrupción",
-                "url": "https://lahora.gt/nacionales/ralvarado/2026/06/03/presidente-arevalo-senala-que-ley-antilavado-quita-el-poder-economico-al-narcotrafico-y-la-corrupcion/",
-                "source": "La Hora"
+                "title": "García Luna revela el salario de Consuelo Porras y el de sus allegados",
+                "url": "https://www.soy502.com/articulo/garcia-luna-revela-cual-era-salario-consuelo-porras-101902",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-06-04T13:05:41.869645",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-06-05T13:02:37.822921"
     },
     {
-        "title": "sanción",
+        "title": "fiscal general",
         "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "12.6 horas",
+        "growth": "800%",
+        "activity_time": "17.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Diputados. Avanzan con reformas impositivas y proyectos de inversión",
-                "url": "https://www.continentalcorrientes.com/noticia/79126_diputados-avanzan-con-reformas-impositivas-y-proyectos-de-inversin-.htm",
-                "source": "Radio Continental Corrientes FM 97.3 MHz"
+                "title": "Reestructuración de García Luna en el MP debilita y reduce el poder del círculo cercano de Consuelo Porras",
+                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/04/reestructuracion-de-garcia-luna-en-el-mp-debilita-y-reduce-el-poder-del-circulo-cercano-de-consuelo-porras/",
+                "source": "La Hora"
             },
             {
-                "title": "Diputados dio media sanción a la Ley de Mecenazgo Educativo",
-                "url": "https://www.cadenaderadios.com.ar/noticia/84608_diputados-dio-media-sancin-a-la-ley-de-mecenazgo-educativo.htm",
-                "source": "Cadena de Radios"
+                "title": "Cambios y traslados de fiscales marcan la tercera semana de nueva gestión en el MP",
+                "url": "https://prensacomunitaria.org/2026/06/cambios-y-traslados-de-fiscales-marcan-la-tercera-semana-de-nueva-gestion-en-el-mp/",
+                "source": "Prensa Comunitaria"
             },
             {
-                "title": "Media sanción a leyes de índole tributaria, culturales y de salud",
-                "url": "https://www.republicadecorrientes.com/72451-media-sancion-a-leyes-de-indole-tributaria-culturales-y-de-salud",
-                "source": "República de Corrientes"
+                "title": "Cambios en el MP: trasladan a fiscales contra Corrupción, Secuestros y Trata de Personas",
+                "url": "https://www.prensalibre.com/guatemala/justicia/cambios-en-el-mp-trasladan-a-fiscales-contra-corrupcion-secuestros-y-trata-de-personas/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-06-04T13:05:42.069109",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-06-05T13:02:37.989784"
     },
     {
-        "title": "junio",
+        "title": "españa",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "18.6 horas",
+        "activity_time": "18.2 horas",
         "topics": [
-            "Climate"
+            "Other"
         ],
         "news": [
             {
-                "title": "Clima en Ciudad de Guatemala: Prepárese para lluvias y tormentas esta tarde",
-                "url": "https://www.publinews.gt/noticias/2026/06/03/clima-en-ciudad-de-guatemala-preparese-para-lluvias-y-tormentas-esta-tarde/",
-                "source": "Publinews"
+                "title": "Del laicismo militante a una sociedad donde Dios “ya no es un tabú”: de Benedicto XVI a León XIV en España",
+                "url": "https://www.aciprensa.com/noticias/125705/del-laicismo-militante-a-una-sociedad-donde-dios-ya-no-es-un-tabu-de-benedicto-xvi-a-leon-xiv-en-espana",
+                "source": "ACI Prensa"
             },
             {
-                "title": "Clima: las temperaturas que predominarán este 2 de junio en Ciudad de Guatemala",
-                "url": "https://www.infobae.com/noticias/2026/06/02/clima-las-temperaturas-que-predominaran-este-2-de-junio-en-ciudad-de-guatemala/",
-                "source": "Infobae"
+                "title": "¿Donde dormirá el Papa León XIV durante su viaje a España?",
+                "url": "https://elpais.com/videos/2026-06-05/donde-dormira-el-papa-leon-xiv-durante-su-viaje-a-espana.html",
+                "source": "EL PAÍS"
             },
             {
-                "title": "Clima hoy en Ciudad de Guatemala, Guatemala: el pronóstico del tiempo para este jueves 4 junio de 2026",
-                "url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guatemala-guatemala-pronostico-tiempo-jueves-4-junio-2026_0_K8VmpY9MkA.html",
-                "source": "Clarin.com"
+                "title": "Las Estadísticas de la Iglesia católica en España",
+                "url": "https://www.infoans.org/es/secciones/para-conocer/item/28259-las-estadisticas-de-la-iglesia-catolica-en-espana",
+                "source": "ANS - Agenzia iNfo Salesiana"
             }
         ],
-        "timestamp": "2026-06-04T13:05:42.258105",
+        "timestamp": "2026-06-05T13:02:38.036690",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
