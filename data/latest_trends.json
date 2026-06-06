@@ -1,84 +1,30 @@
 [
     {
-        "title": "maría consuelo porras",
-        "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "2.5 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "García Luna libera información de salarios que Consuelo Porras mantuvo bajo reserva : Esto ganó la exfiscal durante los últimos meses de su gestión",
-                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/04/garcia-luna-libera-informacion-de-salarios-que-consuelo-porras-mantuvo-bajo-reserva-esto-gano-la-exfiscal-durante-los-ultimos-dias-de-su-gestion/",
-                "source": "La Hora"
-            },
-            {
-                "title": "MP publica cuál fue el sueldo de exfiscal general y otros funcionarios",
-                "url": "https://www.prensalibre.com/guatemala/justicia/mp-publica-cual-fue-el-sueldo-de-exfiscal-general-y-otros-funcionarios-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "García Luna revela el salario de Consuelo Porras y el de sus allegados",
-                "url": "https://www.soy502.com/articulo/garcia-luna-revela-cual-era-salario-consuelo-porras-101902",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-06-05T13:02:37.822921"
-    },
-    {
-        "title": "fiscal general",
+        "title": "autopista",
         "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "17.9 horas",
+        "growth": "1000%",
+        "activity_time": "15.2 horas",
         "topics": [
-            "Law and Government"
+            "Travel and Transportation"
         ],
         "news": [
             {
-                "title": "Reestructuración de García Luna en el MP debilita y reduce el poder del círculo cercano de Consuelo Porras",
-                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/04/reestructuracion-de-garcia-luna-en-el-mp-debilita-y-reduce-el-poder-del-circulo-cercano-de-consuelo-porras/",
+                "title": "Corredor Xochi: Municipalidad de Mazatenango cierra tramo con rótulos de “obra cancelada” y empresa acciona legalmente",
+                "url": "https://www.prensalibre.com/economia/municipalidad-de-mazatenango-coloca-rotulos-de-obra-cancelada-en-salida-de-xochi-y-empresa-interpone-acciones-legales-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Estas son las tarifas para recorrer la autopista privada Xochi a partir del 14 de junio",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/05/estas-son-las-tarifas-para-recorrer-la-autopista-privada-xochi-a-partir-del-14-de-junio/",
                 "source": "La Hora"
             },
             {
-                "title": "Cambios y traslados de fiscales marcan la tercera semana de nueva gestión en el MP",
-                "url": "https://prensacomunitaria.org/2026/06/cambios-y-traslados-de-fiscales-marcan-la-tercera-semana-de-nueva-gestion-en-el-mp/",
-                "source": "Prensa Comunitaria"
-            },
-            {
-                "title": "Cambios en el MP: trasladan a fiscales contra Corrupción, Secuestros y Trata de Personas",
-                "url": "https://www.prensalibre.com/guatemala/justicia/cambios-en-el-mp-trasladan-a-fiscales-contra-corrupcion-secuestros-y-trata-de-personas/",
-                "source": "Prensa Libre"
+                "title": "Autopista Xochi será habilitada el 14 de junio y así quedaron los costos del peaje",
+                "url": "https://www.publinews.gt/noticias/2026/06/05/autopista-xochi-sera-habilitada-el-14-de-junio-y-asi-quedaron-los-costos-del-peaje/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-06-05T13:02:37.989784"
-    },
-    {
-        "title": "españa",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "18.2 horas",
-        "topics": [
-            "Other"
-        ],
-        "news": [
-            {
-                "title": "Del laicismo militante a una sociedad donde Dios “ya no es un tabú”: de Benedicto XVI a León XIV en España",
-                "url": "https://www.aciprensa.com/noticias/125705/del-laicismo-militante-a-una-sociedad-donde-dios-ya-no-es-un-tabu-de-benedicto-xvi-a-leon-xiv-en-espana",
-                "source": "ACI Prensa"
-            },
-            {
-                "title": "¿Donde dormirá el Papa León XIV durante su viaje a España?",
-                "url": "https://elpais.com/videos/2026-06-05/donde-dormira-el-papa-leon-xiv-durante-su-viaje-a-espana.html",
-                "source": "EL PAÍS"
-            },
-            {
-                "title": "Las Estadísticas de la Iglesia católica en España",
-                "url": "https://www.infoans.org/es/secciones/para-conocer/item/28259-las-estadisticas-de-la-iglesia-catolica-en-espana",
-                "source": "ANS - Agenzia iNfo Salesiana"
-            }
-        ],
-        "timestamp": "2026-06-05T13:02:38.036690",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-06-06T12:29:29.529770",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     }
 ]
