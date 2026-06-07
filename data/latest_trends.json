@@ -1,30 +1,59 @@
 [
     {
-        "title": "autopista",
-        "traffic": "500+",
+        "title": "rafael curruchiche",
+        "traffic": "5000+",
         "growth": "1000%",
-        "activity_time": "15.2 horas",
+        "activity_time": "22.4 horas",
         "topics": [
-            "Travel and Transportation"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "Corredor Xochi: Municipalidad de Mazatenango cierra tramo con rótulos de “obra cancelada” y empresa acciona legalmente",
-                "url": "https://www.prensalibre.com/economia/municipalidad-de-mazatenango-coloca-rotulos-de-obra-cancelada-en-salida-de-xochi-y-empresa-interpone-acciones-legales-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Estas son las tarifas para recorrer la autopista privada Xochi a partir del 14 de junio",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/05/estas-son-las-tarifas-para-recorrer-la-autopista-privada-xochi-a-partir-del-14-de-junio/",
+                "title": "Concluye la auditoría a la FECI de Rafael Curruchiche y el MP de García Luna se prepara para reordenar los casos",
+                "url": "https://lahora.gt/nacionales/diego/2026/06/06/concluye-la-auditoria-a-la-feci-de-rafael-curruchiche-y-el-mp-de-garcia-luna-se-prepara-para-reordenar-los-casos/",
                 "source": "La Hora"
             },
             {
-                "title": "Autopista Xochi será habilitada el 14 de junio y así quedaron los costos del peaje",
-                "url": "https://www.publinews.gt/noticias/2026/06/05/autopista-xochi-sera-habilitada-el-14-de-junio-y-asi-quedaron-los-costos-del-peaje/",
-                "source": "Publinews"
+                "title": "Consuelo Porras llegó a ganar Q136 mil en un mes y círculo cercano también experimentó incrementos",
+                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/06/consuelo-porras-llego-a-ganar-q136-mil-en-un-mes-y-circulo-cercano-tambien-experimento-incrementos/",
+                "source": "La Hora"
+            },
+            {
+                "title": "MP hace públicos salarios, bonos y gastos de representación de exfuncionarios",
+                "url": "https://canalantigua.tv/2026/06/05/mp-hace-publicos-salarios-bonos-y-gastos-de-representacion-de-exfuncionarios/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-06-06T12:29:29.529770",
+        "timestamp": "2026-06-07T12:34:47.410467",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "portugal",
+        "traffic": "5000+",
+        "growth": "1000%",
+        "activity_time": "19.7 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "10 de Junho. Presidente inicia festividades junto de portugueses no Luxemburgo",
+                "url": "https://www.rtp.pt/noticias/pais/10-de-junho-presidente-inicia-festividades-junto-de-portugueses-no-luxemburgo_v1745667",
+                "source": "RTP"
+            },
+            {
+                "title": "\"Portugal está de braços abertos para férias, mas também para trabalhar\"",
+                "url": "https://www.noticiasaominuto.com/pais/3001712/portugal-esta-de-bracos-abertos-para-ferias-mas-tambem-para-trabalhar",
+                "source": "Notícias ao Minuto"
+            },
+            {
+                "title": "“E salta António, olé”: Seguro recebido em festa por comunidade portuguesa no Luxemburgo",
+                "url": "https://www.msn.com/pt-pt/noticias/ultimas/e-salta-ant%C3%B3nio-ol%C3%A9-seguro-recebido-em-festa-por-comunidade-portuguesa-no-luxemburgo/vi-AA24ZZOx",
+                "source": "MSN"
+            }
+        ],
+        "timestamp": "2026-06-07T12:34:47.809260",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
