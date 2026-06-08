@@ -1,59 +1,87 @@
 [
     {
-        "title": "rafael curruchiche",
-        "traffic": "5000+",
+        "title": "gas",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "22.4 horas",
+        "activity_time": "18.8 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Business and Finance",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "Concluye la auditoría a la FECI de Rafael Curruchiche y el MP de García Luna se prepara para reordenar los casos",
-                "url": "https://lahora.gt/nacionales/diego/2026/06/06/concluye-la-auditoria-a-la-feci-de-rafael-curruchiche-y-el-mp-de-garcia-luna-se-prepara-para-reordenar-los-casos/",
-                "source": "La Hora"
+                "title": "Gas dips below $4 a gallon in South Florida. Check the prices in your area",
+                "url": "https://www.miamiherald.com/news/business/article316029951.html",
+                "source": "Miami Herald"
             },
             {
-                "title": "Consuelo Porras llegó a ganar Q136 mil en un mes y círculo cercano también experimentó incrementos",
-                "url": "https://lahora.gt/investigacion/engelberth-blanco/2026/06/06/consuelo-porras-llego-a-ganar-q136-mil-en-un-mes-y-circulo-cercano-tambien-experimento-incrementos/",
-                "source": "La Hora"
+                "title": "AAA: gas prices dip, here's how Syracuse ranks among upstate cities",
+                "url": "https://cnycentral.com/news/local/aaa-gas-prices-dip-heres-how-syracuse-ranks-among-upstate-cities",
+                "source": "WSTM"
             },
             {
-                "title": "MP hace públicos salarios, bonos y gastos de representación de exfuncionarios",
-                "url": "https://canalantigua.tv/2026/06/05/mp-hace-publicos-salarios-bonos-y-gastos-de-representacion-de-exfuncionarios/",
-                "source": "Canal Antigua"
+                "title": "Gas prices are falling despite the Iran war's impact. Will it last?",
+                "url": "https://abcnews.com/Business/gas-prices-falling-despite-iran-wars-impact/story?id=133512116",
+                "source": "ABC News - Breaking News, Latest News and Videos"
             }
         ],
-        "timestamp": "2026-06-07T12:34:47.410467",
+        "timestamp": "2026-06-08T13:29:14.379461",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "portugal",
-        "traffic": "5000+",
+        "title": "premio",
+        "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "19.7 horas",
+        "activity_time": "11.3 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Premio a la Excelencia reconoce nuevamente las obras que transforman el desarrollo de Guatemala",
+                "url": "https://newsinamerica.com/pdcc/boletin/2026/premio-a-la-excelencia-reconoce-nuevamente-las-obras-que-transforman-el-desarrollo-de-guatemala/",
+                "source": "Periódico Digital Centroamericano y del Caribe"
+            },
+            {
+                "title": "Últimas horas para aspirar al premio a la crítica de INFORMACIÓN en las Hogueras 2026",
+                "url": "https://www.informacion.es/hogueras/2026/06/08/informacion-refuerza-mirada-local-premio-alicante-129885952.html",
+                "source": "Información"
+            },
+            {
+                "title": "Convocado el XXXII Premio Europeo de Divulgación Científica Estudi General, dotado con 12.000 euros",
+                "url": "https://diarivalencia.cat/es/l-horta-de-valencia/general/convocado-el-xxxii-premio-europeo-de-divulgacion-cientifica-estudi-general-dotado-con-12000-euros",
+                "source": "diarivalencia.cat"
+            }
+        ],
+        "timestamp": "2026-06-08T13:29:14.832747",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "xochi, corredor de las flores",
+        "traffic": "100+",
+        "growth": "500%",
+        "activity_time": "2.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "10 de Junho. Presidente inicia festividades junto de portugueses no Luxemburgo",
-                "url": "https://www.rtp.pt/noticias/pais/10-de-junho-presidente-inicia-festividades-junto-de-portugueses-no-luxemburgo_v1745667",
-                "source": "RTP"
+                "title": "Caso Xochi pone a prueba la certeza jurídica y envía señales de alerta a los inversionistas",
+                "url": "https://www.prensalibre.com/economia/caso-xochi-pone-a-prueba-la-certeza-juridica-y-envia-senales-de-alerta-a-los-inversionistas/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "\"Portugal está de braços abertos para férias, mas também para trabalhar\"",
-                "url": "https://www.noticiasaominuto.com/pais/3001712/portugal-esta-de-bracos-abertos-para-ferias-mas-tambem-para-trabalhar",
-                "source": "Notícias ao Minuto"
+                "title": "Guatemala: La municipalidad de Mazatenango canceló la licencia de construcción de Xochi antes de su inauguración",
+                "url": "https://www.infobae.com/guatemala/2026/06/07/guatemala-la-municipalidad-de-mazatenango-cancelo-la-licencia-de-construccion-de-xochi-antes-de-su-inauguracion/",
+                "source": "Infobae"
             },
             {
-                "title": "“E salta António, olé”: Seguro recebido em festa por comunidade portuguesa no Luxemburgo",
-                "url": "https://www.msn.com/pt-pt/noticias/ultimas/e-salta-ant%C3%B3nio-ol%C3%A9-seguro-recebido-em-festa-por-comunidade-portuguesa-no-luxemburgo/vi-AA24ZZOx",
-                "source": "MSN"
+                "title": "Carlos Villagrán: el alcalde de Vamos que mantiene detenido el proyecto Xochi en Mazatenango",
+                "url": "https://lahora.gt/nacionales/kjordan/2026/06/07/carlos-villagran-el-alcalde-de-vamos-que-mantiene-detenido-el-proyecto-xochi-en-mazatenango/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-06-07T12:34:47.809260",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-06-08T13:29:14.868126",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
