@@ -1,87 +1,86 @@
 [
     {
-        "title": "gas",
+        "title": "congreso",
         "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "18.8 horas",
+        "activity_time": "23.0 horas",
         "topics": [
-            "Business and Finance",
-            "Autos and Vehicles"
+            "Politics"
         ],
         "news": [
             {
-                "title": "Gas dips below $4 a gallon in South Florida. Check the prices in your area",
-                "url": "https://www.miamiherald.com/news/business/article316029951.html",
-                "source": "Miami Herald"
+                "title": "El discurso del Papa en el Congreso, en 10 frases",
+                "url": "https://conelpapa.es/noticias/cronica/",
+                "source": "Con el Papa"
             },
             {
-                "title": "AAA: gas prices dip, here's how Syracuse ranks among upstate cities",
-                "url": "https://cnycentral.com/news/local/aaa-gas-prices-dip-heres-how-syracuse-ranks-among-upstate-cities",
-                "source": "WSTM"
+                "title": "El aplauso más largo de la democracia",
+                "url": "https://www.omnesmag.com/firmas/el-aplauso-mas-largo-de-la-democracia/",
+                "source": "Omnes"
             },
             {
-                "title": "Gas prices are falling despite the Iran war's impact. Will it last?",
-                "url": "https://abcnews.com/Business/gas-prices-falling-despite-iran-wars-impact/story?id=133512116",
-                "source": "ABC News - Breaking News, Latest News and Videos"
+                "title": "León XIV lanza un alegato por la paz en el Congreso español",
+                "url": "https://www.dw.com/es/le%C3%B3n-xiv-lanza-un-alegato-por-la-paz-en-el-congreso-espa%C3%B1ol/a-77460390",
+                "source": "DW"
             }
         ],
-        "timestamp": "2026-06-08T13:29:14.379461",
+        "timestamp": "2026-06-09T13:01:52.734324",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "premio",
+        "title": "ministerio público",
         "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "11.3 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Premio a la Excelencia reconoce nuevamente las obras que transforman el desarrollo de Guatemala",
-                "url": "https://newsinamerica.com/pdcc/boletin/2026/premio-a-la-excelencia-reconoce-nuevamente-las-obras-que-transforman-el-desarrollo-de-guatemala/",
-                "source": "Periódico Digital Centroamericano y del Caribe"
-            },
-            {
-                "title": "Últimas horas para aspirar al premio a la crítica de INFORMACIÓN en las Hogueras 2026",
-                "url": "https://www.informacion.es/hogueras/2026/06/08/informacion-refuerza-mirada-local-premio-alicante-129885952.html",
-                "source": "Información"
-            },
-            {
-                "title": "Convocado el XXXII Premio Europeo de Divulgación Científica Estudi General, dotado con 12.000 euros",
-                "url": "https://diarivalencia.cat/es/l-horta-de-valencia/general/convocado-el-xxxii-premio-europeo-de-divulgacion-cientifica-estudi-general-dotado-con-12000-euros",
-                "source": "diarivalencia.cat"
-            }
-        ],
-        "timestamp": "2026-06-08T13:29:14.832747",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "xochi, corredor de las flores",
-        "traffic": "100+",
-        "growth": "500%",
-        "activity_time": "2.0 horas",
+        "growth": "800%",
+        "activity_time": "17.7 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Caso Xochi pone a prueba la certeza jurídica y envía señales de alerta a los inversionistas",
-                "url": "https://www.prensalibre.com/economia/caso-xochi-pone-a-prueba-la-certeza-juridica-y-envia-senales-de-alerta-a-los-inversionistas/",
+                "title": "MP desiste de persecución penal contra periodistas de El Periódico",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/06/08/mp-desiste-de-persecucion-penal-contra-periodistas-de-el-periodico/",
+                "source": "La Hora"
+            },
+            {
+                "title": "MP afirma que desiste de continuar proceso contra periodistas y columnistas de elPeriódico",
+                "url": "https://www.prensalibre.com/guatemala/justicia/mp-afirma-que-desiste-de-continuar-proceso-contra-periodistas-y-columnitas-de-elperiodico-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Guatemala: La municipalidad de Mazatenango canceló la licencia de construcción de Xochi antes de su inauguración",
-                "url": "https://www.infobae.com/guatemala/2026/06/07/guatemala-la-municipalidad-de-mazatenango-cancelo-la-licencia-de-construccion-de-xochi-antes-de-su-inauguracion/",
-                "source": "Infobae"
-            },
-            {
-                "title": "Carlos Villagrán: el alcalde de Vamos que mantiene detenido el proyecto Xochi en Mazatenango",
-                "url": "https://lahora.gt/nacionales/kjordan/2026/06/07/carlos-villagran-el-alcalde-de-vamos-que-mantiene-detenido-el-proyecto-xochi-en-mazatenango/",
-                "source": "La Hora"
+                "title": "Tres años en el exilio: «Se trata de defender el trabajo de todos»",
+                "url": "https://www.agenciaocote.com/blog/2026/06/03/se-trata-de-defender-el-trabajo-periodistico-de-todos/",
+                "source": "Agencia Ocote"
             }
         ],
-        "timestamp": "2026-06-08T13:29:14.868126",
+        "timestamp": "2026-06-09T13:01:53.052799",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "tormenta tropical cristina",
+        "traffic": "100000+",
+        "growth": "1000%",
+        "activity_time": "4.4 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [
+            {
+                "title": "TORMENTA TROPICAL CRISTINA MANTIENE INGRESO DE HUMEDADEL TERRITORIO NACIONAL",
+                "url": "https://conred.gob.gt/tormenta-tropical-cristina-mantiene-ingreso-de-humedadel-territorio-nacional/",
+                "source": "CONRED"
+            },
+            {
+                "title": "Conred declara alerta anaranjada por la tormenta tropical Cristina y sus posibles efectos en Guatemala",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/conred-declara-alerta-anaranjada-por-la-tormenta-tropical-cristina-y-sus-posibles-efectos-en-guatemala-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Tormenta tropical Cristina: Conred declara alerta anaranjada por acercamiento a Guatemala",
+                "url": "https://www.guatemala.com/noticias/comunidad/tormenta-tropical-cristina-efectos-guatemala-2026.html",
+                "source": "Guatemala.com"
+            }
+        ],
+        "timestamp": "2026-06-09T13:01:53.088120",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
