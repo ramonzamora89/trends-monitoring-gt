@@ -1,87 +1,72 @@
 [
     {
-        "title": "elecciones",
-        "traffic": "200+",
-        "growth": "300%",
-        "activity_time": "3.0 horas",
+        "title": "gabriel garcía luna",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "15.0 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Observadores internacionales critican el abuso de amparos en las elecciones de segundo grado del 2026",
-                "url": "https://www.prensalibre.com/guatemala/politica/observadores-internacionales-critican-el-abuso-de-amparos-en-las-elecciones-de-segundo-grado-del-2026/",
+                "title": "Fiscal general y ministro de Gobernación se reúnen con el Departamento de Justicia de EE. UU. para fortalecer cooperación",
+                "url": "https://www.prensalibre.com/guatemala/justicia/fiscal-general-y-ministro-de-gobernacion-se-reunen-con-el-departamento-de-justicia-de-ee-uu-para-fortalecer-cooperacion-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Elecciones de segundo grado son analizadas",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/elecciones-de-segundo-grado-son-analizadas/",
-                "source": "Diario de Centro América"
-            },
-            {
-                "title": "Observadores señalan que “hay continuidad de poderes fácticos” tras elecciones de segundo grado",
-                "url": "https://prensacomunitaria.org/2026/06/observadores-senalan-que-hay-continuidad-de-poderes-facticos-tras-elecciones-de-segundo-grado/",
-                "source": "Prensa Comunitaria"
-            }
-        ],
-        "timestamp": "2026-06-11T13:19:28.845511",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "depresión tropical cristina",
-        "traffic": "10000+",
-        "growth": "1000%",
-        "activity_time": "14.7 horas",
-        "topics": [
-            "Other"
-        ],
-        "news": [
-            {
-                "title": "CRISTINA SE DEBILITA A DEPRESIÓN TROPICAL",
-                "url": "https://conred.gob.gt/cristina-se-debilita-a-depresion-tropical/",
-                "source": "CONRED"
-            },
-            {
-                "title": "Clima en Guatemala: sigue en tiempo real la trayectoria de la depresión tropical Cristina",
-                "url": "https://lahora.gt/nacionales/ypena/2026/06/09/clima-en-guatemala-sigue-en-tiempo-real-la-trayectoria-de-la-tormenta-tropical-cristina/",
+                "title": "García Luna recibe reconocimiento de agencia de EE. UU. por cooperación interinstitucional",
+                "url": "https://lahora.gt/nacionales/diego/2026/06/11/garcia-luna-recibe-reconocimiento-de-agencia-de-ee-uu-por-cooperacion-interinstitucional-now/",
                 "source": "La Hora"
             },
             {
-                "title": "Llamado a pescadores del Pacífico ante la Tormenta Tropical Cristina",
-                "url": "https://guatemala.gob.gt/llamado-a-pescadores-del-pacifico-ante-la-tormenta-tropical-cristina/",
-                "source": "Gobierno de Guatemala"
+                "title": "Ministro de Gobernación y fiscal general se reúnen con autoridades de Estados Unidos",
+                "url": "https://canalantigua.tv/2026/06/11/ministro-de-gobernacion-y-fiscal-general-se-reunen-con-autoridades-de-estados-unidos/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-06-11T13:19:29.103425",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-06-12T13:10:40.504390",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "copa mundial de fútbol",
-        "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "1.3 horas",
+        "title": "vix",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "19.5 horas",
         "topics": [
-            "Other"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "La Copa Mundial de Fútbol es una oportunidad para la igualdad de género: ONU Mujeres",
-                "url": "https://lawebdelasalud.com/la-copa-mundial-de-futbol-es-una-oportunidad-para-la-igualdad-de-genero-onu-mujeres/",
-                "source": "La Web de la Salud"
+                "title": "Investors pull $64.5m from VIX-based volatility ETFs By Investing.com",
+                "url": "https://uk.investing.com/news/stock-market-news/investors-pull-645m-from-vixbased-volatility-etfs-93CH-4724000",
+                "source": "Investing.com UK"
             },
             {
-                "title": "El partido de las mujeres sigue en juego",
-                "url": "https://imco.org.mx/el-partido-de-las-mujeres-sigue-en-juego/",
-                "source": "IMCO"
+                "title": "Investors pull $64.5m from VIX-based volatility ETFs By Investing.com",
+                "url": "https://www.investing.com/news/stock-market-news/investors-pull-645m-from-vixbased-volatility-etfs-93CH-4737624",
+                "source": "Investing.com"
             },
             {
-                "title": "Participan empresarias de Tijuana en Foro Global Empresarial realizado en el Senado",
-                "url": "https://el-mexicano.com/estatal/participan-empresarias-de-tijuana-en-foro-global-empresarial/2255351",
-                "source": "El Mexicano Gran Diario Regional"
+                "title": "India VIX Falls 5.77% to 14.71 as Easing Ge‌opoliti‌‌c‌a‌l Tensions Drive Market Relief",
+                "url": "https://hdfcsky.com/news/india-vix-falls-5-77percent-to-14-71-as-volatility-eases",
+                "source": "HDFC Sky"
             }
         ],
-        "timestamp": "2026-06-11T13:19:29.139735",
+        "timestamp": "2026-06-12T13:10:40.692289",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "emisoras unidas",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "18.0 horas",
+        "topics": [
+            "Business and Finance",
+            "Law and Government",
+            "Autos and Vehicles"
+        ],
+        "news": [],
+        "timestamp": "2026-06-12T13:10:40.988923",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
