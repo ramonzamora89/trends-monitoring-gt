@@ -1,72 +1,86 @@
 [
     {
-        "title": "gabriel garcía luna",
-        "traffic": "1000+",
+        "title": "estados unidos",
+        "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "15.0 horas",
+        "activity_time": "11.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Fiscal general y ministro de Gobernación se reúnen con el Departamento de Justicia de EE. UU. para fortalecer cooperación",
-                "url": "https://www.prensalibre.com/guatemala/justicia/fiscal-general-y-ministro-de-gobernacion-se-reunen-con-el-departamento-de-justicia-de-ee-uu-para-fortalecer-cooperacion-breaking/",
-                "source": "Prensa Libre"
+                "title": "Trump anuncia la muerte del \"Niño Guerrero\", líder del Tren de Aragua, en una operación militar de EE.UU.",
+                "url": "https://www.bbc.com/mundo/articles/c75yw52yq5yo",
+                "source": "BBC"
             },
             {
-                "title": "García Luna recibe reconocimiento de agencia de EE. UU. por cooperación interinstitucional",
-                "url": "https://lahora.gt/nacionales/diego/2026/06/11/garcia-luna-recibe-reconocimiento-de-agencia-de-ee-uu-por-cooperacion-interinstitucional-now/",
-                "source": "La Hora"
+                "title": "Trump anuncia que el ejército de Estados Unidos ha matado en Venezuela al Niño Guerrero, líder del Tren de Aragua",
+                "url": "https://elpais.com/america/2026-06-13/trump-anuncia-que-el-ejercito-de-estados-unidos-ha-matado-al-nino-guerrero-lider-del-tren-de-aragua.html",
+                "source": "EL PAÍS"
             },
             {
-                "title": "Ministro de Gobernación y fiscal general se reúnen con autoridades de Estados Unidos",
-                "url": "https://canalantigua.tv/2026/06/11/ministro-de-gobernacion-y-fiscal-general-se-reunen-con-autoridades-de-estados-unidos/",
-                "source": "Canal Antigua"
+                "title": "Estados Unidos abatió a “Niño Guerrero”, líder del cártel criminal Tren de Aragua, durante un bombardeo en Venezuela",
+                "url": "https://www.infobae.com/america/america-latina/2026/06/13/donald-trump-anuncio-que-un-bombardeo-estadounidense-abatio-a-nino-guerrero-el-lider-del-cartel-criminal-tren-de-aragua/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-06-12T13:10:40.504390",
+        "timestamp": "2026-06-13T12:38:05.353325",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "vix",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "19.5 horas",
+        "title": "copa mundial de fútbol",
+        "traffic": "500+",
+        "growth": "600%",
+        "activity_time": "16.3 horas",
         "topics": [
-            "Business and Finance"
+            "Other"
         ],
         "news": [
             {
-                "title": "Investors pull $64.5m from VIX-based volatility ETFs By Investing.com",
-                "url": "https://uk.investing.com/news/stock-market-news/investors-pull-645m-from-vixbased-volatility-etfs-93CH-4724000",
-                "source": "Investing.com UK"
+                "title": "Mundial 2026, en directo: noticias de la Copa del Mundo y última hora de las selecciones, hoy en vivo",
+                "url": "https://as.com/futbol/mundial/mundial-2026-en-directo-noticias-de-la-copa-del-mundo-y-ultima-hora-de-las-selecciones-hoy-en-vivo-f202606-d-4/",
+                "source": "Diario AS"
             },
             {
-                "title": "Investors pull $64.5m from VIX-based volatility ETFs By Investing.com",
-                "url": "https://www.investing.com/news/stock-market-news/investors-pull-645m-from-vixbased-volatility-etfs-93CH-4737624",
-                "source": "Investing.com"
+                "title": "Hallan un cadáver junto al centro de entrenamiento de Irán",
+                "url": "https://www.mundodeportivo.com/futbol/mundial-de-clubes/20260613/1004194527/hallan-cadaver-centro-entrenamiento-iran.html",
+                "source": "Mundo Deportivo"
             },
             {
-                "title": "India VIX Falls 5.77% to 14.71 as Easing Ge‌opoliti‌‌c‌a‌l Tensions Drive Market Relief",
-                "url": "https://hdfcsky.com/news/india-vix-falls-5-77percent-to-14-71-as-volatility-eases",
-                "source": "HDFC Sky"
+                "title": "Un olor fétido delató lo que se ocultaba... Conmoción en el campamento de Irán tras el hallazgo de un cadáver",
+                "url": "https://es-us.noticias.yahoo.com/deportes/olor-f%C3%A9tido-delat%C3%B3-ocultaba-conmoci%C3%B3n-073919183.html",
+                "source": "Yahoo"
             }
         ],
-        "timestamp": "2026-06-12T13:10:40.692289",
+        "timestamp": "2026-06-13T12:38:05.694789",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "emisoras unidas",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "18.0 horas",
+        "title": "remnants of cristina",
+        "traffic": "100+",
+        "growth": "100%",
+        "activity_time": "1.6 horas",
         "topics": [
-            "Business and Finance",
-            "Law and Government",
-            "Autos and Vehicles"
+            "Climate"
         ],
-        "news": [],
-        "timestamp": "2026-06-12T13:10:40.988923",
+        "news": [
+            {
+                "title": "Tropical Storm Cristina remnants moving through Central America, could cross into Gulf",
+                "url": "https://www.wesh.com/article/tropical-storm-cristina-path-el-salvador-gulf/71556982",
+                "source": "WESH"
+            },
+            {
+                "title": "Guatemala’s Pacific Graves Show Climate Crisis Eating Latin America’s Shoreline",
+                "url": "https://latinamericanpost.com/americas/environment-en/guatemalas-pacific-graves-show-climate-crisis-eating-latin-americas-shoreline/",
+                "source": "LatinAmerican Post"
+            },
+            {
+                "title": "Beachfront",
+                "url": "https://www.taipeitimes.com/News/world/archives/2026/06/12/2003858984",
+                "source": "Taipei Times"
+            }
+        ],
+        "timestamp": "2026-06-13T12:38:05.829792",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
