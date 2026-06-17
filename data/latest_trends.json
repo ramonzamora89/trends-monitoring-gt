@@ -1,68 +1,86 @@
 [
     {
-        "title": "combustible",
+        "title": "di maria",
+        "traffic": "100+",
+        "growth": "800%",
+        "activity_time": "10.8 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Maria Rita Sechi entra nel Consiglio di Amministrazione dell’Istituto Italiano per la Privacy e la Valorizzazione dei Dati",
+                "url": "https://www.imille.com/2026/06/17/maria-rita-sechi-entra-nel-consiglio-di-amministrazione-dellistituto-italiano-per-la-privacy-e-la-valorizzazione-dei-dati/",
+                "source": "iMille"
+            },
+            {
+                "title": "Inaugurazione Centro di Animazione Multimediale Mazzarello – INM",
+                "url": "https://www.cgfmanet.org/infosfera/educomunicazione/inaugurazione-centro-di-animazione-multimediale-mazzarello-inm/",
+                "source": "Istituto Figlie di Maria Ausiliatrice"
+            },
+            {
+                "title": "La battaglia di Maria Dea: \"Mio fratello parcheggiato in un reparto psichiatrico da 7 mesi, ora basta. È un ragazzo intelligente e buono”",
+                "url": "https://www.ilrestodelcarlino.it/fermo/cronaca/la-battaglia-di-maria-dea-c9725639",
+                "source": "Il Resto del Carlino"
+            }
+        ],
+        "timestamp": "2026-06-17T13:17:03.213615",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "terremoto",
         "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "12.1 horas",
+        "growth": "500%",
+        "activity_time": "17.5 horas",
         "topics": [
-            "Business and Finance",
-            "Autos and Vehicles"
+            "Climate"
         ],
         "news": [
             {
-                "title": "Combustibles vuelven a bajar en Guatemala a partir de mañana: diésel registra caída de casi Q2 por galón",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/15/combustibles-vuelven-a-bajar-en-guatemala-a-partir-de-manana-diesel-registra-caida-de-casi-q2-por-galon/",
-                "source": "La Hora"
+                "title": "Un terremoto de magnitud 6.3 golpeó la provincia de Qinghai y causó una muerte",
+                "url": "https://canaln.pe/internacionales/terremoto-magnitud-63-china-al-menos-muerto-n492792",
+                "source": "Canal N"
             },
             {
-                "title": "Así amanecieron los precios de los combustibles este martes 16 de junio",
-                "url": "https://www.soy502.com/articulo/asi-amanecieron-precios-combustibles-este-martes-16-102123",
-                "source": "Soy502"
+                "title": "Tres fuertes sismos sacuden Asia en menos de un día",
+                "url": "https://mimorelia.com/mundo/tres-fuertes-sismos-sacuden-asia-menos-un-dia-n5585167",
+                "source": "MiMorelia.com"
             },
             {
-                "title": "Gasolinas super y regular amanecen este martes con 22 centavos a la baja",
-                "url": "https://www.publinews.gt/noticias/2026/06/16/gasolinas-super-y-regular-amanecen-este-martes-con-22-centavos-a-la-baja/",
-                "source": "Publinews"
+                "title": "Sismo de magnitud 6.3 sacude Qinghai, en el noroeste de China",
+                "url": "https://mx.investing.com/news/economy-news/sismo-de-magnitud-63-sacude-qinghai-en-el-noroeste-de-china-93CH-3655204",
+                "source": "Investing.com México - Finanzas, Bolsa y Forex"
             }
         ],
-        "timestamp": "2026-06-16T13:47:19.984006"
+        "timestamp": "2026-06-17T13:17:03.412600",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "roberto molina barreto",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "12.8 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [],
-        "timestamp": "2026-06-16T13:47:20.097049"
-    },
-    {
-        "title": "marco antonio villeda",
+        "title": "iphone 17",
         "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "13.5 horas",
+        "growth": "500%",
+        "activity_time": "19.1 horas",
         "topics": [
-            "Law and Government"
+            "Technology"
         ],
         "news": [
             {
-                "title": "Arévalo mantiene cautela ante declaraciones de EE. UU.; analistas ven una estrategia diplomática",
-                "url": "https://www.prensalibre.com/guatemala/politica/arevalo-mantiene-cautela-ante-declaraciones-de-ee-uu-analistas-ven-una-estrategia-diplomatica/",
-                "source": "Prensa Libre"
+                "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+                "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+                "source": "Apple"
             },
             {
-                "title": "Retransmisión: Ministro de Gobernación informa de resultados de gira de trabajo a Estados Unidos",
-                "url": "https://lahora.gt/nacionales/hbeteta/2026/06/15/retransmision-ministro-de-gobernacion-informa-de-resultados-de-gira-de-trabajo-a-estados-unidos-now/",
-                "source": "La Hora"
+                "title": "Apple’s big Siri update is here. Now the real challenge begins",
+                "url": "https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update",
+                "source": "CNN"
             },
             {
-                "title": "Guatemala y EE. UU. refuerzan colaboración militar contra el narcotráfico",
-                "url": "https://www.publinews.gt/noticias/2026/06/15/guatemala-y-ee-uu-refuerzan-colaboracion-militar-contra-el-narcotrafico/",
-                "source": "Publinews"
+                "title": "iPhone 17 Siri AI Features Missing: iOS 27's 12GB RAM Requirement Explained",
+                "url": "https://apple.gadgethacks.com/news/iphone-17-siri-ai-features-missing-ios-27s-12gb-ram-requirement-explained/",
+                "source": "Gadget Hacks"
             }
         ],
-        "timestamp": "2026-06-16T13:47:20.144495"
+        "timestamp": "2026-06-17T13:17:03.756105",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
