@@ -1,70 +1,70 @@
 [
     {
-        "title": "yulan adonay archaga carias",
+        "title": "banco de guatemala",
+        "traffic": "1000+",
+        "growth": "300%",
+        "activity_time": "20.5 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Presentan moneda conmemorativa de los 80 años del Banco de Guatemala",
+                "url": "https://agn.gt/presentan-moneda-conmemorativa-de-los-80-anos-del-banco-de-guatemala/",
+                "source": "Agencia Guatemalteca de Noticias"
+            },
+            {
+                "title": "Moneda de los 80 años del Banguat: costará Q750 y así podrá comprarla en línea",
+                "url": "https://lahora.gt/lh-economia/mherrera/2026/06/18/moneda-de-los-80-anos-del-banguat-costara-q750-y-asi-podra-comprarla-en-linea/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Banguat celebra su 80 aniversario con moneda",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/banguat-celebra-su-80-aniversario-con-moneda/",
+                "source": "Diario de Centro América"
+            }
+        ],
+        "timestamp": "2026-06-20T12:38:07.223943",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "denuncia",
         "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "12.8 horas",
+        "growth": "500%",
+        "activity_time": "21.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [],
-        "timestamp": "2026-06-19T13:15:49.055330",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "ministerio de salud pública y asistencia social de guatemala",
-        "traffic": "200+",
-        "growth": "500%",
-        "activity_time": "16.9 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Salud denuncia \"estructura\" que funcionó en el gobierno de Giammattei para compra de medicamentos para el covid-19",
-                "url": "https://www.prensalibre.com/guatemala/salud-denuncia-una-estructura-organizada-que-funciono-en-el-gobierno-de-giammattei-para-compra-de-medicamentos-durante-la-covid-19/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Retransmisión: Ministerio de Salud presenta avances del caso Remdesivir",
-                "url": "https://lahora.gt/nacionales/ralvarado/2026/06/17/retransmision-ministerio-de-salud-presenta-avances-del-caso-remdesivir/",
-                "source": "La Hora"
-            },
-            {
-                "title": "El Ministerio de Salud de Guatemala presenta una nueva denuncia por el caso del retroviral Remdesivir",
-                "url": "https://www.infobae.com/guatemala/2026/06/17/el-ministerio-de-salud-de-guatemala-presenta-una-nueva-denuncia-por-el-caso-del-retroviral-remdesivir/",
-                "source": "Infobae"
-            }
-        ],
-        "timestamp": "2026-06-19T13:15:49.304866",
+        "timestamp": "2026-06-20T12:38:08.005991",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "contraloría",
-        "traffic": "1000+",
-        "growth": "600%",
-        "activity_time": "22.4 horas",
+        "title": "totonicapán",
+        "traffic": "100+",
+        "growth": "500%",
+        "activity_time": "13.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Walter Mazariegos activa apoyos para presidir elección de Contralor; por ahora hay tres bandos",
-                "url": "https://lahora.gt/investigacion/kgutierrez/2026/06/18/walter-mazariegos-activa-apoyos-para-presidir-la-comision-que-nominara-al-proximo-contralor/",
+                "title": "48 Cantones exige investigar a guardias tras fuga de reo en centro carcelario de Totonicapán",
+                "url": "https://lahora.gt/nacionales/ralvarado/2026/06/19/48-cantones-exige-investigar-a-guardias-tras-fuga-de-reo-en-centro-carcelario-de-totonicapan-now/",
                 "source": "La Hora"
             },
             {
-                "title": "Colegios profesionales convocan a elecciones para integrar la Comisión de Postulación del Contralor",
-                "url": "https://www.prensalibre.com/guatemala/colegios-profesionales-convocan-a-elecciones-para-integrar-la-comision-de-postulacion-del-contralor/",
+                "title": "PNC se pronuncia por fuga de reo del preventivo de la cabecera departamental de Totonicapán",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/pnc-se-pronuncia-por-fuga-de-reo-del-preventivo-de-la-cabecera-departamental-de-totonicapan/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Postuladora se define en julio",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/postuladora-se-define-en-julio/",
-                "source": "Diario de Centro América"
+                "title": "Guatemala: Los 48 Cantones exigen al Ministerio Público una pesquisa por la evasión de un reo en Totonicapán",
+                "url": "https://www.infobae.com/guatemala/2026/06/19/guatemala-los-48-cantones-exigen-al-ministerio-publico-una-pesquisa-por-la-evasion-de-un-reo-en-totonicapan/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-06-19T13:15:49.850887",
+        "timestamp": "2026-06-20T12:38:08.339187",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
