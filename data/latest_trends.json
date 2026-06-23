@@ -1,76 +1,85 @@
 [
     {
-        "title": "elecciones colombia",
-        "traffic": "1000+",
-        "growth": "800%",
-        "activity_time": "16.7 horas",
+        "title": "philadelphia",
+        "traffic": "100+",
+        "growth": "1000%",
+        "activity_time": "14.1 horas",
         "topics": [
-            "Politics"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Trump-backed 'El Tigre' looks to crush cartels, end Colombia's socialist era in pivotal election",
-                "url": "https://noticias.foxnews.com/world/trump-backed-el-tigre-looks-crush-cartels-end-colombias-socialist-era-pivotal-election",
-                "source": "Fox News"
+                "title": "Police: 3 women found dead in Philly home after apparent double murder, suicide",
+                "url": "https://6abc.com/post/police-3-women-found-dead-philadelphia-home-apparent-double-murder-suicide/19358606/",
+                "source": "6abc Philadelphia"
+            },
+            {
+                "title": "3 dead after double murder, suicide in South Philly on Monday, police say",
+                "url": "https://www.nbcphiladelphia.com/news/local/3-dead-after-double-murder-suicide-in-south-philly-on-monday-police-say/4421445/",
+                "source": "NBC10 Philadelphia"
+            },
+            {
+                "title": "3 women found dead in apparent murder-suicide in South Philly",
+                "url": "https://www.inquirer.com/crime/south-philly-murder-suicide-three-women-20260622.html",
+                "source": "Inquirer.com"
             }
         ],
-        "timestamp": "2026-06-22T13:54:26.959279",
+        "timestamp": "2026-06-23T12:58:50.649149",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "2027",
+        "title": "bernardo arévalo",
         "traffic": "100+",
-        "growth": "100%",
-        "activity_time": "3.1 horas",
+        "growth": "200%",
+        "activity_time": "13.3 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Will Social Security Recipients Get a History-Making COLA in 2027? Here's What the Experts Say.",
-                "url": "https://finance.yahoo.com/economy/policy/articles/social-security-recipients-history-making-075600714.html",
-                "source": "Yahoo Finance"
+                "title": "Guatemala arriesga su papel estratégico en la región ante EE. UU., advierten expertos",
+                "url": "https://www.prensalibre.com/guatemala/guatemala-arriesga-su-papel-estrategico-en-la-region-ante-ee-uu-advierten-expertos/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Social Security COLA Estimates for 2027 Are Getting a \"Trump Bump\": Here's How Much Extra You Could Receive",
-                "url": "https://www.fool.com/retirement/2026/06/21/social-security-cola-estimates-for-2027-are-gettin/",
-                "source": "The Motley Fool"
+                "title": "Arévalo no ve viable pedir autorización para acciones militares conjuntas con EE. UU.",
+                "url": "https://www.soy502.com/articulo/arevalo-no-preve-pedir-aval-acciones-militares-ee-uu-102052",
+                "source": "Soy502"
             },
             {
-                "title": "2027 Social Security COLA Projection - What Early Estimates Suggest Ahead of the Official Announcement",
-                "url": "https://capitolskyline.com/2027-social-security-cola-projection/",
-                "source": "https://capitolskyline.com/"
+                "title": "Gobierno de Guatemala fija el marco legal para la ayuda de Washington y descarta mensajes por la vía pública",
+                "url": "https://www.infobae.com/guatemala/2026/06/15/gobierno-de-guatemala-fija-el-marco-legal-para-la-ayuda-de-washington-y-descarta-mensajes-por-la-via-publica/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-06-22T13:54:26.998250",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-06-23T12:58:50.684632"
     },
     {
-        "title": "iran",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "18.6 horas",
+        "title": "clima guatemala",
+        "traffic": "200+",
+        "growth": "300%",
+        "activity_time": "15.0 horas",
         "topics": [
-            "Politics"
+            "Climate"
         ],
         "news": [
             {
-                "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-                "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo",
-                "source": "BBC"
+                "title": "LLUVIAS Y AMBIENTE CÁLIDO PREDOMINARÁN DURANTE LA SEMANA",
+                "url": "https://conred.gob.gt/lluvias-y-ambiente-calido-predominaran-durante-la-semana/",
+                "source": "CONRED"
             },
             {
-                "title": "US-Iran talks strained as Trump threats spark Iranian walkout",
-                "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
-                "source": "The Guardian"
+                "title": "Dos ondas del este aumentarán las lluvias y el riesgo de emergencias en Guatemala",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/dos-ondas-del-este-aumentaran-las-lluvias-y-el-riesgo-de-emergencias-en-guatemala-breaking/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Live updates: Iran and US make ‘encouraging progress’ in crucial talks, mediators say",
-                "url": "https://www.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon",
-                "source": "CNN"
+                "title": "Insivumeh pronostica temperaturas de hasta 38°C y lluvias del 22 al 26 de junio 2026",
+                "url": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-22-al-26-junio-2026.html",
+                "source": "Guatemala.com"
             }
         ],
-        "timestamp": "2026-06-22T13:54:27.525065",
+        "timestamp": "2026-06-23T12:58:50.855707",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
