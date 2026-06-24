@@ -1,85 +1,87 @@
 [
     {
-        "title": "philadelphia",
-        "traffic": "100+",
+        "title": "carretera",
+        "traffic": "200+",
         "growth": "1000%",
-        "activity_time": "14.1 horas",
+        "activity_time": "14.8 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance",
+            "Travel and Transportation"
         ],
         "news": [
             {
-                "title": "Police: 3 women found dead in Philly home after apparent double murder, suicide",
-                "url": "https://6abc.com/post/police-3-women-found-dead-philadelphia-home-apparent-double-murder-suicide/19358606/",
-                "source": "6abc Philadelphia"
+                "title": "Carretera Xochi: Cinco formas de pago, tarifa actual y reglamento para utilizar en la nueva ruta entre Suchitepéquez y Retalhuleu",
+                "url": "https://www.prensalibre.com/economia/carretera-xochi-cinco-formas-de-pago-tarifa-actual-y-reglamento-para-utilizar-en-la-nueva-ruta-entre-suchitepequez-y-retalhuleu/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "3 dead after double murder, suicide in South Philly on Monday, police say",
-                "url": "https://www.nbcphiladelphia.com/news/local/3-dead-after-double-murder-suicide-in-south-philly-on-monday-police-say/4421445/",
-                "source": "NBC10 Philadelphia"
+                "title": "Corte total en la BA-075 entre Granja de Torrehermosa y la EX-111",
+                "url": "http://www.canalextremadura.es/noticias/provinciadebadajoz/corte-total-en-la-ba-075-entre-granja-de-torrehermosa-y-la-ex-111",
+                "source": "Canal Extremadura"
             },
             {
-                "title": "3 women found dead in apparent murder-suicide in South Philly",
-                "url": "https://www.inquirer.com/crime/south-philly-murder-suicide-three-women-20260622.html",
-                "source": "Inquirer.com"
+                "title": "La carretera entre Granja y Campillo quedará cerrada por obras",
+                "url": "https://www.campitur.com/noticias/la-carretera-entre-granja-y-campillo-quedara-cerrada-por-obras.html",
+                "source": "Campitur"
             }
         ],
-        "timestamp": "2026-06-23T12:58:50.649149",
+        "timestamp": "2026-06-24T12:46:34.876720",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "bernardo arévalo",
+        "title": "diésel",
         "traffic": "100+",
         "growth": "200%",
-        "activity_time": "13.3 horas",
+        "activity_time": "12.9 horas",
         "topics": [
-            "Law and Government"
+            "Autos and Vehicles",
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Guatemala arriesga su papel estratégico en la región ante EE. UU., advierten expertos",
-                "url": "https://www.prensalibre.com/guatemala/guatemala-arriesga-su-papel-estrategico-en-la-region-ante-ee-uu-advierten-expertos/",
-                "source": "Prensa Libre"
+                "title": "El precio de la gasolina en EE.UU. cae por debajo de US$ 4 por primera vez desde marzo",
+                "url": "https://cnnespanol.cnn.com/2026/06/18/economia/precio-gasolina-ee-uu-4-dolares-trax",
+                "source": "CNN en Español"
             },
             {
-                "title": "Arévalo no ve viable pedir autorización para acciones militares conjuntas con EE. UU.",
-                "url": "https://www.soy502.com/articulo/arevalo-no-preve-pedir-aval-acciones-militares-ee-uu-102052",
-                "source": "Soy502"
+                "title": "Los precios de la gasolina en EEUU caen por sexta semana consecutiva",
+                "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L8N42U24B:0/",
+                "source": "TradingView"
             },
             {
-                "title": "Gobierno de Guatemala fija el marco legal para la ayuda de Washington y descarta mensajes por la vía pública",
-                "url": "https://www.infobae.com/guatemala/2026/06/15/gobierno-de-guatemala-fija-el-marco-legal-para-la-ayuda-de-washington-y-descarta-mensajes-por-la-via-publica/",
-                "source": "Infobae"
+                "title": "Trump afirma que el precio de la gasolina cae 60 centavos por galón tras el fin de la guerra con Irán",
+                "url": "https://www.moncloa.com/2026/06/24/caida-gasolina-trump-60-centavos-iran-3389194/",
+                "source": "MONCLOA.COM"
             }
         ],
-        "timestamp": "2026-06-23T12:58:50.684632"
+        "timestamp": "2026-06-24T12:46:35.010882"
     },
     {
-        "title": "clima guatemala",
-        "traffic": "200+",
-        "growth": "300%",
-        "activity_time": "15.0 horas",
+        "title": "rector",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "14.8 horas",
         "topics": [
-            "Climate"
+            "Other"
         ],
         "news": [
             {
-                "title": "LLUVIAS Y AMBIENTE CÁLIDO PREDOMINARÁN DURANTE LA SEMANA",
-                "url": "https://conred.gob.gt/lluvias-y-ambiente-calido-predominaran-durante-la-semana/",
-                "source": "CONRED"
+                "title": "Juzgado da cumplimiento a orden de CC para dejar en firme fraude de Walter Mazariegos",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/06/23/juzgado-da-cumplimiento-a-orden-de-cc-para-dejar-en-firme-fraude-de-walter-mazariegos/",
+                "source": "La Hora"
             },
             {
-                "title": "Dos ondas del este aumentarán las lluvias y el riesgo de emergencias en Guatemala",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/dos-ondas-del-este-aumentaran-las-lluvias-y-el-riesgo-de-emergencias-en-guatemala-breaking/",
+                "title": "Tres escenarios para la Usac a una semana de la renovación de la rectoría",
+                "url": "https://www.prensalibre.com/guatemala/politica/tres-escenarios-para-la-usac-a-una-semana-de-la-renovacion-de-la-rectoria/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Insivumeh pronostica temperaturas de hasta 38°C y lluvias del 22 al 26 de junio 2026",
-                "url": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-22-al-26-junio-2026.html",
-                "source": "Guatemala.com"
+                "title": "Arévalo resalta falta de finiquito y denuncias frente a nuevo periodo de Walter Mazariegos",
+                "url": "https://canalantigua.tv/2026/06/23/arevalo-resalta-falta-de-finiquito-y-denuncias-frente-a-nuevo-periodo-de-walter-mazariegos/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-06-23T12:58:50.855707",
+        "timestamp": "2026-06-24T12:46:35.131251",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
