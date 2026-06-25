@@ -1,87 +1,83 @@
 [
     {
-        "title": "carretera",
-        "traffic": "200+",
+        "title": "24 de junio",
+        "traffic": "5000+",
         "growth": "1000%",
-        "activity_time": "14.8 horas",
+        "activity_time": "11.0 horas",
         "topics": [
-            "Business and Finance",
-            "Travel and Transportation"
+            "Climate"
         ],
         "news": [
             {
-                "title": "Carretera Xochi: Cinco formas de pago, tarifa actual y reglamento para utilizar en la nueva ruta entre Suchitepéquez y Retalhuleu",
-                "url": "https://www.prensalibre.com/economia/carretera-xochi-cinco-formas-de-pago-tarifa-actual-y-reglamento-para-utilizar-en-la-nueva-ruta-entre-suchitepequez-y-retalhuleu/",
+                "title": "Temblor de magnitud 5.4 fue sensible en algunas regiones de Guatemala este 24 de junio",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-24-de-junio-de-2026-en-guatemala-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Corte total en la BA-075 entre Granja de Torrehermosa y la EX-111",
-                "url": "http://www.canalextremadura.es/noticias/provinciadebadajoz/corte-total-en-la-ba-075-entre-granja-de-torrehermosa-y-la-ex-111",
-                "source": "Canal Extremadura"
+                "title": "Fuerte temblor sorprende a los guatemaltecos este martes",
+                "url": "https://www.soy502.com/articulo/fuerte-temblor-sorprende-guatemaltecos-este-martes-101026",
+                "source": "Soy502"
             },
             {
-                "title": "La carretera entre Granja y Campillo quedará cerrada por obras",
-                "url": "https://www.campitur.com/noticias/la-carretera-entre-granja-y-campillo-quedara-cerrada-por-obras.html",
-                "source": "Campitur"
+                "title": "Insivumeh registró un sismo en las primeras horas de este martes",
+                "url": "https://emisorasunidas.com/nacional/2026/06/23/temblor-sismo-guatemala-martes-23-junio/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-06-24T12:46:34.876720",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-06-25T12:49:56.153064"
     },
     {
-        "title": "diésel",
-        "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "12.9 horas",
+        "title": "venezuela",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "13.0 horas",
         "topics": [
-            "Autos and Vehicles",
-            "Business and Finance"
+            "Climate"
         ],
         "news": [
             {
-                "title": "El precio de la gasolina en EE.UU. cae por debajo de US$ 4 por primera vez desde marzo",
-                "url": "https://cnnespanol.cnn.com/2026/06/18/economia/precio-gasolina-ee-uu-4-dolares-trax",
-                "source": "CNN en Español"
+                "title": "EN VIDEO | El momento en el que dos terremotos golpean Venezuela provocando graves daños",
+                "url": "https://www.bbc.com/mundo/articles/crr8jr4w7v8o",
+                "source": "BBC"
             },
             {
-                "title": "Los precios de la gasolina en EEUU caen por sexta semana consecutiva",
-                "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L8N42U24B:0/",
-                "source": "TradingView"
+                "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dejando al menos 164 muertos y un millar de heridos",
+                "url": "https://elpais.com/america/2026-06-24/el-terremoto-en-venezuela-en-vivo.html",
+                "source": "EL PAÍS"
             },
             {
-                "title": "Trump afirma que el precio de la gasolina cae 60 centavos por galón tras el fin de la guerra con Irán",
-                "url": "https://www.moncloa.com/2026/06/24/caida-gasolina-trump-60-centavos-iran-3389194/",
-                "source": "MONCLOA.COM"
+                "title": "Terremoto en Venezuela: se emiten alertas de tsunami tras un sismo de magnitud 7,2",
+                "url": "https://www.nytimes.com/es/interactive/2026/06/24/espanol/terremoto-caracas.html",
+                "source": "The New York Times"
             }
         ],
-        "timestamp": "2026-06-24T12:46:35.010882"
+        "timestamp": "2026-06-25T12:49:56.452908"
     },
     {
-        "title": "rector",
-        "traffic": "1000+",
+        "title": "mexico vs",
+        "traffic": "10000+",
         "growth": "1000%",
-        "activity_time": "14.8 horas",
+        "activity_time": "11.8 horas",
         "topics": [
             "Other"
         ],
         "news": [
             {
-                "title": "Juzgado da cumplimiento a orden de CC para dejar en firme fraude de Walter Mazariegos",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/06/23/juzgado-da-cumplimiento-a-orden-de-cc-para-dejar-en-firme-fraude-de-walter-mazariegos/",
-                "source": "La Hora"
+                "title": "Evitar incidentes y controlar la pasión de los fanáticos: Las medidas de seguridad para el Mundial en Ciudad de México",
+                "url": "https://cnnespanol.cnn.com/2026/06/24/mexico/video/cdmx-mundial-medidas-seguridad-perspectivas-mexico-tv",
+                "source": "CNN en Español"
             },
             {
-                "title": "Tres escenarios para la Usac a una semana de la renovación de la rectoría",
-                "url": "https://www.prensalibre.com/guatemala/politica/tres-escenarios-para-la-usac-a-una-semana-de-la-renovacion-de-la-rectoria/",
-                "source": "Prensa Libre"
+                "title": "Ley seca por el México vs Chequia: vigencia, sanciones, multas y más; explicado Con Peras y Manzanas",
+                "url": "https://www.tvazteca.com/aztecauno/venga-la-alegria/ley-seca-mexico-chequia-hoy-24-junio-2026-vigencia-sanciones-multas/",
+                "source": "TV Azteca"
             },
             {
-                "title": "Arévalo resalta falta de finiquito y denuncias frente a nuevo periodo de Walter Mazariegos",
-                "url": "https://canalantigua.tv/2026/06/23/arevalo-resalta-falta-de-finiquito-y-denuncias-frente-a-nuevo-periodo-de-walter-mazariegos/",
-                "source": "Canal Antigua"
+                "title": "Multa por tomar u orinar en la calle durante el Mundial 2026: ¿qué pasa si te detienen y cuánto cuesta la falta?",
+                "url": "https://www.infobae.com/mexico/2026/06/24/multa-por-tomar-u-orinar-en-la-calle-durante-el-mundial-2026-que-pasa-si-te-detienen-y-cuanto-cuesta-la-falta/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-06-24T12:46:35.131251",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-06-25T12:49:56.697911"
     }
 ]
