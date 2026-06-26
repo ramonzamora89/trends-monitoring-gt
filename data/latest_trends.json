@@ -1,83 +1,59 @@
 [
     {
-        "title": "24 de junio",
-        "traffic": "5000+",
-        "growth": "1000%",
-        "activity_time": "11.0 horas",
+        "title": "alejandro sinibaldi",
+        "traffic": "1000+",
+        "growth": "800%",
+        "activity_time": "13.9 horas",
         "topics": [
-            "Climate"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "Temblor de magnitud 5.4 fue sensible en algunas regiones de Guatemala este 24 de junio",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-24-de-junio-de-2026-en-guatemala-breaking/",
+                "title": "CC ratifica fallo favorable para Alejandro Sinibaldi y no enfrentará juicio por corrupción",
+                "url": "https://prensacomunitaria.org/2026/06/cc-ratifica-fallo-favorable-para-alejandro-sinibaldi-y-no-enfrentara-juicio-por-corrupcion/",
+                "source": "Prensa Comunitaria"
+            },
+            {
+                "title": "CC libra a Alejandro Sinibaldi de enfrentar juicio por el caso Odebrecht al confirmar amparo a su favor",
+                "url": "https://www.prensalibre.com/guatemala/justicia/cc-libra-a-alejandro-sinibaldi-de-enfrentar-juicio-por-el-caso-odebrecht-al-confirmar-amparo-a-su-favor-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Fuerte temblor sorprende a los guatemaltecos este martes",
-                "url": "https://www.soy502.com/articulo/fuerte-temblor-sorprende-guatemaltecos-este-martes-101026",
+                "title": "Sinibaldi queda fuera del caso Odebrecht por resolución de CC",
+                "url": "https://www.soy502.com/articulo/cc-confirma-sinibaldi-no-ira-juicio-caso-odebrecht-102154",
                 "source": "Soy502"
-            },
-            {
-                "title": "Insivumeh registró un sismo en las primeras horas de este martes",
-                "url": "https://emisorasunidas.com/nacional/2026/06/23/temblor-sismo-guatemala-martes-23-junio/",
-                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-06-25T12:49:56.153064"
+        "timestamp": "2026-06-26T12:45:09.014142",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "venezuela",
+        "title": "terremoto",
         "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "13.0 horas",
+        "activity_time": "2.4 horas",
         "topics": [
             "Climate"
         ],
         "news": [
             {
-                "title": "EN VIDEO | El momento en el que dos terremotos golpean Venezuela provocando graves daños",
-                "url": "https://www.bbc.com/mundo/articles/crr8jr4w7v8o",
+                "title": "Terremotos en Venezuela: la ayuda internacional rumbo al país tras los devastadores sismos",
+                "url": "https://www.bbc.com/mundo/articles/c70yj62krleo",
                 "source": "BBC"
             },
             {
-                "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dejando al menos 164 muertos y un millar de heridos",
-                "url": "https://elpais.com/america/2026-06-24/el-terremoto-en-venezuela-en-vivo.html",
-                "source": "EL PAÍS"
-            },
-            {
-                "title": "Terremoto en Venezuela: se emiten alertas de tsunami tras un sismo de magnitud 7,2",
-                "url": "https://www.nytimes.com/es/interactive/2026/06/24/espanol/terremoto-caracas.html",
-                "source": "The New York Times"
-            }
-        ],
-        "timestamp": "2026-06-25T12:49:56.452908"
-    },
-    {
-        "title": "mexico vs",
-        "traffic": "10000+",
-        "growth": "1000%",
-        "activity_time": "11.8 horas",
-        "topics": [
-            "Other"
-        ],
-        "news": [
-            {
-                "title": "Evitar incidentes y controlar la pasión de los fanáticos: Las medidas de seguridad para el Mundial en Ciudad de México",
-                "url": "https://cnnespanol.cnn.com/2026/06/24/mexico/video/cdmx-mundial-medidas-seguridad-perspectivas-mexico-tv",
+                "title": "Qué es un “doblete” sísmico, el raro fenómeno que pudo causar los terremotos en Venezuela",
+                "url": "https://cnnespanol.cnn.com/2026/06/25/venezuela/terremotos-dobles-venezuela-importancia-trax",
                 "source": "CNN en Español"
             },
             {
-                "title": "Ley seca por el México vs Chequia: vigencia, sanciones, multas y más; explicado Con Peras y Manzanas",
-                "url": "https://www.tvazteca.com/aztecauno/venga-la-alegria/ley-seca-mexico-chequia-hoy-24-junio-2026-vigencia-sanciones-multas/",
-                "source": "TV Azteca"
-            },
-            {
-                "title": "Multa por tomar u orinar en la calle durante el Mundial 2026: ¿qué pasa si te detienen y cuánto cuesta la falta?",
-                "url": "https://www.infobae.com/mexico/2026/06/24/multa-por-tomar-u-orinar-en-la-calle-durante-el-mundial-2026-que-pasa-si-te-detienen-y-cuanto-cuesta-la-falta/",
-                "source": "Infobae"
+                "title": "Terremoto en Venezuela, en directo | Exteriores eleva a tres los españoles fallecidos y 99 los desaparecidos",
+                "url": "https://www.elmundo.es/internacional/2026/06/26/6a3e09eb3e9f6f8c5239912f-directo.html",
+                "source": "El Mundo"
             }
         ],
-        "timestamp": "2026-06-25T12:49:56.697911"
+        "timestamp": "2026-06-26T12:45:09.205116",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
