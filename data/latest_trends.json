@@ -1,59 +1,70 @@
 [
     {
-        "title": "alejandro sinibaldi",
-        "traffic": "1000+",
-        "growth": "800%",
-        "activity_time": "13.9 horas",
-        "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [
-            {
-                "title": "CC ratifica fallo favorable para Alejandro Sinibaldi y no enfrentará juicio por corrupción",
-                "url": "https://prensacomunitaria.org/2026/06/cc-ratifica-fallo-favorable-para-alejandro-sinibaldi-y-no-enfrentara-juicio-por-corrupcion/",
-                "source": "Prensa Comunitaria"
-            },
-            {
-                "title": "CC libra a Alejandro Sinibaldi de enfrentar juicio por el caso Odebrecht al confirmar amparo a su favor",
-                "url": "https://www.prensalibre.com/guatemala/justicia/cc-libra-a-alejandro-sinibaldi-de-enfrentar-juicio-por-el-caso-odebrecht-al-confirmar-amparo-a-su-favor-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Sinibaldi queda fuera del caso Odebrecht por resolución de CC",
-                "url": "https://www.soy502.com/articulo/cc-confirma-sinibaldi-no-ira-juicio-caso-odebrecht-102154",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-06-26T12:45:09.014142",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "terremoto",
-        "traffic": "1000+",
+        "title": "iran",
+        "traffic": "200+",
         "growth": "1000%",
-        "activity_time": "2.4 horas",
+        "activity_time": "7.5 horas",
         "topics": [
-            "Climate"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Terremotos en Venezuela: la ayuda internacional rumbo al país tras los devastadores sismos",
-                "url": "https://www.bbc.com/mundo/articles/c70yj62krleo",
+                "title": "US strikes Iran after attack on cargo ship",
+                "url": "https://www.bbc.com/news/articles/ckg590wqxwpo",
                 "source": "BBC"
             },
             {
-                "title": "Qué es un “doblete” sísmico, el raro fenómeno que pudo causar los terremotos en Venezuela",
-                "url": "https://cnnespanol.cnn.com/2026/06/25/venezuela/terremotos-dobles-venezuela-importancia-trax",
-                "source": "CNN en Español"
+                "title": "IMO pauses evacuation in Strait of Hormuz following attack",
+                "url": "https://www.imo.org/en/mediacentre/pressbriefings/pages/statement-on-the-attack-in-strait-of-hormuz-evacuation-plan-pause.aspx",
+                "source": "International Maritime Organization"
             },
             {
-                "title": "Terremoto en Venezuela, en directo | Exteriores eleva a tres los españoles fallecidos y 99 los desaparecidos",
-                "url": "https://www.elmundo.es/internacional/2026/06/26/6a3e09eb3e9f6f8c5239912f-directo.html",
-                "source": "El Mundo"
+                "title": "Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait",
+                "url": "https://www.wsj.com/world/middle-east/iran-attacks-cargo-ship-testing-trumps-deal-to-reopen-strait-d3cf454c",
+                "source": "WSJ"
             }
         ],
-        "timestamp": "2026-06-26T12:45:09.205116",
+        "timestamp": "2026-06-27T12:29:11.827695",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "vinted",
+        "traffic": "2000+",
+        "growth": "800%",
+        "activity_time": "22.7 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "France opens probe into suspected child trafficking on resale app Vinted",
+                "url": "https://www.straitstimes.com/world/europe/france-opens-probe-into-suspected-child-trafficking-on-resale-app-vinted",
+                "source": "The Straits Times"
+            },
+            {
+                "title": "Vinted listings under scrutiny, as French authorities start inquiry over allegations",
+                "url": "https://fashionunited.in/news/fashion/vinted-listings-under-scrutiny-as-french-authorities-start-inquiry-over-allegations/2026062655079",
+                "source": "Fashion United"
+            },
+            {
+                "title": "France investigates several strange ads on Vinted under suspicion of child trafficking",
+                "url": "https://www.msn.com/en-gb/money/technology/france-investigates-several-strange-ads-on-vinted-under-suspicion-of-child-trafficking/ar-AA26rcKM?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+                "source": "MSN"
+            }
+        ],
+        "timestamp": "2026-06-27T12:29:11.983049",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "información de seguridad sobre sismos",
+        "traffic": "2000+",
+        "growth": "300%",
+        "activity_time": "14.7 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [],
+        "timestamp": "2026-06-27T12:29:12.144752",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
