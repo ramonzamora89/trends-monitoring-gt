@@ -1,70 +1,58 @@
 [
     {
-        "title": "iran",
-        "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "7.5 horas",
+        "title": "instituto superior interamericano de ciencias sociales",
+        "traffic": "2000+",
+        "growth": "800%",
+        "activity_time": "22.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "US strikes Iran after attack on cargo ship",
-                "url": "https://www.bbc.com/news/articles/ckg590wqxwpo",
-                "source": "BBC"
+                "title": "Allanan instituto por 300 supuestos títulos falsos",
+                "url": "https://www.abc.com.py/nacionales/2026/06/26/fiscalia-allana-instituto-que-emitio-300-supuestos-titulos-falsos-con-aval-del-mec/",
+                "source": "ABC Color"
             },
             {
-                "title": "IMO pauses evacuation in Strait of Hormuz following attack",
-                "url": "https://www.imo.org/en/mediacentre/pressbriefings/pages/statement-on-the-attack-in-strait-of-hormuz-evacuation-plan-pause.aspx",
-                "source": "International Maritime Organization"
+                "title": "Detectan 500 accesos irregulares y 130.000 actuaciones en revisión",
+                "url": "https://www.latribuna.com.py/nacionales/locales/2026/06/28/detectan-500-accesos-irregulares-y-130000-actuaciones-en-revision/",
+                "source": "https://www.latribuna.com.py/"
             },
             {
-                "title": "Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait",
-                "url": "https://www.wsj.com/world/middle-east/iran-attacks-cargo-ship-testing-trumps-deal-to-reopen-strait-d3cf454c",
-                "source": "WSJ"
+                "title": "Avanzan investigaciones sobre presuntas irregularidades en títulos de educación superior",
+                "url": "https://www.senado.gov.py/index.php/noticias/noticias-comisiones/16785-avanzan-investigaciones-sobre-presuntas-irregularidades-en-titulos-de-educacion-superior-2026-06-25-16-42-19",
+                "source": "www.senado.gov.py"
             }
         ],
-        "timestamp": "2026-06-27T12:29:11.827695",
+        "timestamp": "2026-06-28T12:30:01.083063",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "vinted",
-        "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "22.7 horas",
+        "title": "portugal",
+        "traffic": "5000+",
+        "growth": "1000%",
+        "activity_time": "11.5 horas",
         "topics": [
-            "Other"
+            "Climate"
         ],
         "news": [
             {
-                "title": "France opens probe into suspected child trafficking on resale app Vinted",
-                "url": "https://www.straitstimes.com/world/europe/france-opens-probe-into-suspected-child-trafficking-on-resale-app-vinted",
-                "source": "The Straits Times"
+                "title": "Homem baleado na cabeça na Cova da Moura",
+                "url": "https://www.cmjornal.pt/portugal/detalhe/homem-baleado-na-cabeca-na-cova-da-moura",
+                "source": "Correio da Manhã"
             },
             {
-                "title": "Vinted listings under scrutiny, as French authorities start inquiry over allegations",
-                "url": "https://fashionunited.in/news/fashion/vinted-listings-under-scrutiny-as-french-authorities-start-inquiry-over-allegations/2026062655079",
-                "source": "Fashion United"
+                "title": "Um dos mercados medievais mais autênticos de Portugal arranca em julho",
+                "url": "https://www.nit.pt/fora-de-casa/na-cidade/um-dos-mercados-medievais-mais-autenticos-de-portugal-arranca-em-julho",
+                "source": "NiT New in Town"
             },
             {
-                "title": "France investigates several strange ads on Vinted under suspicion of child trafficking",
-                "url": "https://www.msn.com/en-gb/money/technology/france-investigates-several-strange-ads-on-vinted-under-suspicion-of-child-trafficking/ar-AA26rcKM?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-                "source": "MSN"
+                "title": "Todos os concertos marcados para 2026 em Portugal",
+                "url": "https://expresso.pt/blitz/agenda/2026-06-28-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+                "source": "Expresso"
             }
         ],
-        "timestamp": "2026-06-27T12:29:11.983049",
+        "timestamp": "2026-06-28T12:30:01.630162",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "información de seguridad sobre sismos",
-        "traffic": "2000+",
-        "growth": "300%",
-        "activity_time": "14.7 horas",
-        "topics": [
-            "Other"
-        ],
-        "news": [],
-        "timestamp": "2026-06-27T12:29:12.144752",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
