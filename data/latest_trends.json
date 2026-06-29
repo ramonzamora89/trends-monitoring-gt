@@ -1,58 +1,58 @@
 [
     {
-        "title": "instituto superior interamericano de ciencias sociales",
+        "title": "polvo",
         "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "22.5 horas",
+        "growth": "1000%",
+        "activity_time": "13.7 horas",
         "topics": [
-            "Law and Government"
+            "Other"
         ],
         "news": [
             {
-                "title": "Allanan instituto por 300 supuestos títulos falsos",
-                "url": "https://www.abc.com.py/nacionales/2026/06/26/fiscalia-allana-instituto-que-emitio-300-supuestos-titulos-falsos-con-aval-del-mec/",
-                "source": "ABC Color"
+                "title": "Polvo Del Sahara Alcanzará A Guatemala: Estas Son Las Fechas Y Sus Efectos",
+                "url": "https://www.lared1061.com/posts/polvo-del-sahara-alcanzara-a-guatemala-estas-son-las-fechas-y-sus-efectos",
+                "source": "La Red 106.1 FM"
             },
             {
-                "title": "Detectan 500 accesos irregulares y 130.000 actuaciones en revisión",
-                "url": "https://www.latribuna.com.py/nacionales/locales/2026/06/28/detectan-500-accesos-irregulares-y-130000-actuaciones-en-revision/",
-                "source": "https://www.latribuna.com.py/"
+                "title": "Polvo del Sahara volverá a Guatemala: así afectará la calidad del aire esta semana",
+                "url": "https://www.prensalibre.com/guatemala/el-polvo-del-sahara-volvera-a-guatemala-asi-afectara-la-calidad-del-aire-esta-semana/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Avanzan investigaciones sobre presuntas irregularidades en títulos de educación superior",
-                "url": "https://www.senado.gov.py/index.php/noticias/noticias-comisiones/16785-avanzan-investigaciones-sobre-presuntas-irregularidades-en-titulos-de-educacion-superior-2026-06-25-16-42-19",
-                "source": "www.senado.gov.py"
+                "title": "Medio Ambiente alerta por altas concentraciones de polvo del Sahara en El Salvador",
+                "url": "https://diario.elmundo.sv/nacionales/medio-ambiente-alerta-por-altas-concentraciones-de-polvo-del-sahara-en-el-salvador",
+                "source": "Diario El Mundo"
             }
         ],
-        "timestamp": "2026-06-28T12:30:01.083063",
+        "timestamp": "2026-06-29T13:29:51.329489",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "portugal",
-        "traffic": "5000+",
+        "title": "canada",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "11.5 horas",
+        "activity_time": "17.2 horas",
         "topics": [
-            "Climate"
+            "Hobbies and Leisure"
         ],
         "news": [
             {
-                "title": "Homem baleado na cabeça na Cova da Moura",
-                "url": "https://www.cmjornal.pt/portugal/detalhe/homem-baleado-na-cabeca-na-cova-da-moura",
-                "source": "Correio da Manhã"
+                "title": "What's open and closed on Canada Day 2026 in Toronto",
+                "url": "https://www.blogto.com/city/2026/06/whats-open-canada-day-2026-toronto/",
+                "source": "blogTO"
             },
             {
-                "title": "Um dos mercados medievais mais autênticos de Portugal arranca em julho",
-                "url": "https://www.nit.pt/fora-de-casa/na-cidade/um-dos-mercados-medievais-mais-autenticos-de-portugal-arranca-em-julho",
-                "source": "NiT New in Town"
+                "title": "You don't need a 3-day weekend to catch an incredible Canada Day celebration. Here's where",
+                "url": "https://www.insidehalton.com/things-to-do/canada-day-2026-events-ontario/article_374c89b4-ac18-5b43-bb93-f9401bfb51d7.html",
+                "source": "Inside Halton"
             },
             {
-                "title": "Todos os concertos marcados para 2026 em Portugal",
-                "url": "https://expresso.pt/blitz/agenda/2026-06-28-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
-                "source": "Expresso"
+                "title": "14 Fun Ways to Celebrate Canada Day with Family and Friends",
+                "url": "https://www.cmfmag.ca/family_unit/14-fun-ways-to-celebrate-canada-day-with-family-and-friends/",
+                "source": "Canadian Military Family Magazine"
             }
         ],
-        "timestamp": "2026-06-28T12:30:01.630162",
+        "timestamp": "2026-06-29T13:29:51.462530",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
