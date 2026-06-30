@@ -1,58 +1,56 @@
 [
     {
-        "title": "polvo",
-        "traffic": "2000+",
+        "title": "brasil",
+        "traffic": "5000+",
         "growth": "1000%",
-        "activity_time": "13.7 horas",
+        "activity_time": "18.4 horas",
         "topics": [
-            "Other"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Polvo Del Sahara Alcanzará A Guatemala: Estas Son Las Fechas Y Sus Efectos",
-                "url": "https://www.lared1061.com/posts/polvo-del-sahara-alcanzara-a-guatemala-estas-son-las-fechas-y-sus-efectos",
-                "source": "La Red 106.1 FM"
+                "title": "Ministro viaja à Venezuela para acelerar envio de oxigênio ao Amazonas",
+                "url": "https://tmc.com.br/politica/ministro-viaja-a-venezuela-para-acelerar-envio-de-oxigenio-ao-amazonas/",
+                "source": "tmc.com.br"
             },
             {
-                "title": "Polvo del Sahara volverá a Guatemala: así afectará la calidad del aire esta semana",
-                "url": "https://www.prensalibre.com/guatemala/el-polvo-del-sahara-volvera-a-guatemala-asi-afectara-la-calidad-del-aire-esta-semana/",
-                "source": "Prensa Libre"
+                "title": "Cooperativas avançam e redesenham o financiamento do agro brasileiro",
+                "url": "https://www.cnnbrasil.com.br/agro/cooperativas-avancam-e-redesenham-o-financiamento-do-agro-brasileiro/",
+                "source": "CNN Brasil"
             },
             {
-                "title": "Medio Ambiente alerta por altas concentraciones de polvo del Sahara en El Salvador",
-                "url": "https://diario.elmundo.sv/nacionales/medio-ambiente-alerta-por-altas-concentraciones-de-polvo-del-sahara-en-el-salvador",
-                "source": "Diario El Mundo"
+                "title": "Consórcio Bancorbrás cresce 42% até abril de 2026",
+                "url": "https://radardigitalbrasilia.com.br/noticias-corporativas-dino/328057-consorcio-bancorbras-cresce-42-ate-abril-de-2026/",
+                "source": "RADAR DIGITAL BRASÍLIA"
             }
         ],
-        "timestamp": "2026-06-29T13:29:51.329489",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-06-30T12:42:41.510471"
     },
     {
-        "title": "canada",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "17.2 horas",
+        "title": "dia del ejercito",
+        "traffic": "200+",
+        "growth": "200%",
+        "activity_time": "23.9 horas",
         "topics": [
-            "Hobbies and Leisure"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "What's open and closed on Canada Day 2026 in Toronto",
-                "url": "https://www.blogto.com/city/2026/06/whats-open-canada-day-2026-toronto/",
-                "source": "blogTO"
+                "title": "Día del Ejército: tradicional desfile conmemora 155 años",
+                "url": "https://canalantigua.tv/2026/06/29/dia-del-ejercito-tradicional-desfile-conmemora-155-anos/",
+                "source": "Canal Antigua"
             },
             {
-                "title": "You don't need a 3-day weekend to catch an incredible Canada Day celebration. Here's where",
-                "url": "https://www.insidehalton.com/things-to-do/canada-day-2026-events-ontario/article_374c89b4-ac18-5b43-bb93-f9401bfb51d7.html",
-                "source": "Inside Halton"
+                "title": "Estos cambios viales se prevén para este lunes y martes, por el Día del Ejército",
+                "url": "https://lahora.gt/nacionales/kgutierrez/2026/06/28/toma-nota-de-los-cambios-viales-para-este-lunes-y-martes-por-el-dia-del-ejercito/",
+                "source": "La Hora"
             },
             {
-                "title": "14 Fun Ways to Celebrate Canada Day with Family and Friends",
-                "url": "https://www.cmfmag.ca/family_unit/14-fun-ways-to-celebrate-canada-day-with-family-and-friends/",
-                "source": "Canadian Military Family Magazine"
+                "title": "Un Ejército para las amenazas de hoy",
+                "url": "https://www.prensalibre.com/opinion/columnasdiarias/un-ejercito-para-las-amenazas-de-hoy/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-06-29T13:29:51.462530",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-06-30T12:42:41.688145"
     }
 ]
