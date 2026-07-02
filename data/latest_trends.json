@@ -1,59 +1,89 @@
 [
     {
-        "title": "embajador",
-        "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "13.1 horas",
+        "title": "salario mínimo",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "19.9 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Cómo cambiaría el salario mínimo en Guatemala con un modelo multianual",
+                "url": "https://www.prensalibre.com/economia/como-cambiaria-el-salario-minimo-en-guatemala-con-un-modelo-multianual/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Mientras se discute el salario mínimo 2027, Guatemala deja sin empleo formal a 3 de cada 4 jóvenes",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/07/01/mientras-se-discute-el-salario-minimo-2027-guatemala-deja-sin-empleo-formal-a-3-de-cada-4-jovenes-now/",
+                "source": "La Hora"
+            },
+            {
+                "title": "¿Habrá aumento al salario mínimo en 2027? Arranca el proceso que definirá el pago de miles de trabajadores",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/30/habra-aumento-al-salario-minimo-en-2027-arranca-el-proceso-que-definira-el-pago-de-miles-de-trabajadores/",
+                "source": "La Hora"
+            }
+        ],
+        "timestamp": "2026-07-02T12:41:12.173964",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "maría consuelo porras",
+        "traffic": "1000+",
+        "growth": "800%",
+        "activity_time": "2.9 horas",
         "topics": [
             "Law and Government",
             "Politics"
         ],
         "news": [
             {
-                "title": "En giro inesperado, Juan Rodríguez desiste de ser embajador de EE. UU. en Guatemala",
-                "url": "https://lahora.gt/nacionales/la-hora/2026/06/30/en-giro-inesperado-juan-rodriguez-desiste-de-ser-embajador-de-ee-uu-en-guatemala-now/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Juan Rodríguez retira su nominación para ser embajador de EE. UU. en Guatemala",
-                "url": "https://www.prensalibre.com/ahora/guatemala/politica/juan-rodriguez-retira-su-nominacion-para-ser-embajador-de-ee-uu-en-guatemala/",
+                "title": "Destituyen a Gilberto Porres de Paz, esposo de Consuelo Porras, y a otros ocho fiscales del MP",
+                "url": "https://www.prensalibre.com/guatemala/justicia/destituyen-a-gilberto-porres-de-paz-esposo-de-consuelo-porras-y-a-otros-ocho-fiscales-del-mp-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Arévalo dice no tener información oficial de la supuesta declinación del embajador Juan Rodríguez, propuesto por Trump",
-                "url": "https://www.publinews.gt/noticias/2026/06/30/bernardo-arevalo-ante-renuncia-de-juan-rodriguez-como-embajador-de-estados-unidos/",
-                "source": "Publinews"
+                "title": "García Luna considera que reconstruir el MP no será suficiente sin reformas al sistema de justicia",
+                "url": "https://lahora.gt/investigacion/diego/2026/07/02/garcia-luna-considera-que-reconstruir-el-mp-no-sera-suficiente-sin-reformas-al-sistema-de-justicia/",
+                "source": "La Hora"
+            },
+            {
+                "title": "MP Remueve A 9 Fiscales Del Círculo De Porras Y Curruchiche",
+                "url": "https://www.lared1061.com/posts/mp-remueve-a-9-fiscales-del-circulo-de-porras-y-curruchiche",
+                "source": "La Red 106.1 FM"
             }
         ],
-        "timestamp": "2026-07-01T12:58:45.618040",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-07-02T12:41:12.236033",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "méxico",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "11.5 horas",
+        "title": "multas",
+        "traffic": "200+",
+        "growth": "100%",
+        "activity_time": "21.7 horas",
         "topics": [
-            "Other"
+            "Law and Government",
+            "Autos and Vehicles",
+            "Jobs and Education"
         ],
         "news": [
             {
-                "title": "Nueva tragedia en el Mundial: varios muertos",
-                "url": "https://www.mundodeportivo.com/futbol/mundial/20260701/1004201468/mexico-muertos.html",
-                "source": "Mundo Deportivo"
+                "title": "Consignan moto por tener 17 multas de tránsito sin pagar",
+                "url": "https://www.publinews.gt/noticias/2026/07/01/consignan-moto-por-tener-17-multas-de-transito-sin-pagar/",
+                "source": "Publinews"
             },
             {
-                "title": "Mueren 2 aficionados en festejos en el Ángel de la Independencia por el pase de México",
-                "url": "https://www.mediotiempo.com/futbol/copa-mundial/mueren-2-aficionados-festejos-pase-mexico-angel-independencia",
-                "source": "Mediotiempo"
+                "title": "PNC Desplegará operativos de alcoholemia y seguridad vial por pago de bono 14",
+                "url": "https://www.soy502.com/articulo/pnc-desplegara-operativos-alcoholemia-seguridad-vial-102123",
+                "source": "Soy502"
             },
             {
-                "title": "Tragedia en la Zona Rosa: fallecen un hombre y una joven durante festejos mundialistas",
-                "url": "https://www.diariodemexico.com/mi-ciudad/tragedia-en-zona-rosa-fallecen-hombre-joven-durante-festejos-mundialistas",
-                "source": "Diario De México"
+                "title": "PNC reforzará seguridad por pago del Bono 14",
+                "url": "https://emisorasunidas.com/nacional/2026/07/01/pnc-operativos-seguridad-pago-del-bono-14/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-07-01T12:58:45.755229",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-07-02T12:41:12.529014",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
