@@ -1,89 +1,58 @@
 [
     {
-        "title": "salario mínimo",
-        "traffic": "2000+",
+        "title": "portugal",
+        "traffic": "10000+",
         "growth": "1000%",
-        "activity_time": "19.9 horas",
+        "activity_time": "12.8 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Cómo cambiaría el salario mínimo en Guatemala con un modelo multianual",
-                "url": "https://www.prensalibre.com/economia/como-cambiaria-el-salario-minimo-en-guatemala-con-un-modelo-multianual/",
-                "source": "Prensa Libre"
+                "title": "Primeiros seis meses de 2026 com consumo recorde de eletricidade",
+                "url": "https://www.ren.pt/media/noticias/primeiros-seis-meses-de-2026-com-consumo-recorde-de-eletricidade",
+                "source": "REN | Redes Energéticas Nacionais"
             },
             {
-                "title": "Mientras se discute el salario mínimo 2027, Guatemala deja sin empleo formal a 3 de cada 4 jóvenes",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/07/01/mientras-se-discute-el-salario-minimo-2027-guatemala-deja-sin-empleo-formal-a-3-de-cada-4-jovenes-now/",
-                "source": "La Hora"
+                "title": "Consumo de eletricidade em Portugal bate recorde histórico",
+                "url": "https://sol.iol.pt/economia/noticias/consumo-de-eletricidade-em-portugal-bate-recorde-historico/20260702/6a4694bb0cf2d0ed34b876f5",
+                "source": "Jornal SOL"
             },
             {
-                "title": "¿Habrá aumento al salario mínimo en 2027? Arranca el proceso que definirá el pago de miles de trabajadores",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/06/30/habra-aumento-al-salario-minimo-en-2027-arranca-el-proceso-que-definira-el-pago-de-miles-de-trabajadores/",
-                "source": "La Hora"
+                "title": "Portugal bate recorde no consumo de eletricidade no primeiro semestre de 2026",
+                "url": "https://www.brasil247.com/xinhua/portugal-bate-recorde-no-consumo-de-eletricidade-no-primeiro-semestre-de-2026/",
+                "source": "Brasil 247"
             }
         ],
-        "timestamp": "2026-07-02T12:41:12.173964",
+        "timestamp": "2026-07-03T12:39:22.013420",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "maría consuelo porras",
+        "title": "gasolina",
         "traffic": "1000+",
-        "growth": "800%",
-        "activity_time": "2.9 horas",
+        "growth": "1000%",
+        "activity_time": "17.8 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Destituyen a Gilberto Porres de Paz, esposo de Consuelo Porras, y a otros ocho fiscales del MP",
-                "url": "https://www.prensalibre.com/guatemala/justicia/destituyen-a-gilberto-porres-de-paz-esposo-de-consuelo-porras-y-a-otros-ocho-fiscales-del-mp-breaking/",
+                "title": "Sugieren en el Congreso aplazar el uso obligatorio de etanol en gasolinas",
+                "url": "https://www.prensalibre.com/economia/sugieren-en-el-congreso-aplazar-el-uso-obligatorio-de-etanol-en-gasolinas/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "García Luna considera que reconstruir el MP no será suficiente sin reformas al sistema de justicia",
-                "url": "https://lahora.gt/investigacion/diego/2026/07/02/garcia-luna-considera-que-reconstruir-el-mp-no-sera-suficiente-sin-reformas-al-sistema-de-justicia/",
-                "source": "La Hora"
-            },
-            {
-                "title": "MP Remueve A 9 Fiscales Del Círculo De Porras Y Curruchiche",
-                "url": "https://www.lared1061.com/posts/mp-remueve-a-9-fiscales-del-circulo-de-porras-y-curruchiche",
-                "source": "La Red 106.1 FM"
-            }
-        ],
-        "timestamp": "2026-07-02T12:41:12.236033",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "multas",
-        "traffic": "200+",
-        "growth": "100%",
-        "activity_time": "21.7 horas",
-        "topics": [
-            "Law and Government",
-            "Autos and Vehicles",
-            "Jobs and Education"
-        ],
-        "news": [
-            {
-                "title": "Consignan moto por tener 17 multas de tránsito sin pagar",
-                "url": "https://www.publinews.gt/noticias/2026/07/01/consignan-moto-por-tener-17-multas-de-transito-sin-pagar/",
+                "title": "EE. UU. felicita a Guatemala por uso del etanol, aunque su entrada en vigor fue aplazada al 21 de agosto",
+                "url": "https://www.publinews.gt/noticias/2026/07/02/ee-uu-felicita-a-guatemala-por-uso-del-etanol/",
                 "source": "Publinews"
             },
             {
-                "title": "PNC Desplegará operativos de alcoholemia y seguridad vial por pago de bono 14",
-                "url": "https://www.soy502.com/articulo/pnc-desplegara-operativos-alcoholemia-seguridad-vial-102123",
-                "source": "Soy502"
-            },
-            {
-                "title": "PNC reforzará seguridad por pago del Bono 14",
-                "url": "https://emisorasunidas.com/nacional/2026/07/01/pnc-operativos-seguridad-pago-del-bono-14/",
-                "source": "Emisoras Unidas"
+                "title": "El Minae retrasa el plan para vender gasolina superior con 10% de etanol en Costa Rica",
+                "url": "https://www.infobae.com/costa-rica/2026/06/30/el-minae-retrasa-el-plan-para-vender-gasolina-superior-con-10-de-etanol/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-07-02T12:41:12.529014",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-07-03T12:39:22.357279",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
