@@ -1,58 +1,72 @@
 [
     {
-        "title": "portugal",
-        "traffic": "10000+",
+        "title": "multa",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "12.8 horas",
+        "activity_time": "12.6 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "Primeiros seis meses de 2026 com consumo recorde de eletricidade",
-                "url": "https://www.ren.pt/media/noticias/primeiros-seis-meses-de-2026-com-consumo-recorde-de-eletricidade",
-                "source": "REN | Redes Energéticas Nacionais"
+                "title": "El 40 % de automotores ya tiene calcomanía de 2026",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-40-de-automotores-ya-tiene-calcomania-de-2026/",
+                "source": "Diario de Centro América"
             },
             {
-                "title": "Consumo de eletricidade em Portugal bate recorde histórico",
-                "url": "https://sol.iol.pt/economia/noticias/consumo-de-eletricidade-em-portugal-bate-recorde-historico/20260702/6a4694bb0cf2d0ed34b876f5",
-                "source": "Jornal SOL"
+                "title": "¿Aún no pagas el impuesto de circulación? Municipalidades ofrecen descuentos de hasta el 70% en multas",
+                "url": "https://www.lared1061.com/posts/aun-no-pagas-el-impuesto-de-circulacion-municipalidades-ofrecen-descuentos-de-hasta-el-70-en-multas",
+                "source": "La Red 106.1 FM"
             },
             {
-                "title": "Portugal bate recorde no consumo de eletricidade no primeiro semestre de 2026",
-                "url": "https://www.brasil247.com/xinhua/portugal-bate-recorde-no-consumo-de-eletricidade-no-primeiro-semestre-de-2026/",
-                "source": "Brasil 247"
+                "title": "Impuesto de Circulación: casi 6 de cada 10 vehículos aún no han pagado a un mes del vencimiento",
+                "url": "https://www.prensalibre.com/economia/impuesto-de-circulacion-casi-6-de-cada-10-vehiculos-aun-no-han-pagado-a-un-mes-del-vencimiento/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-07-03T12:39:22.013420",
+        "timestamp": "2026-07-04T12:26:08.643676",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "gasolina",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "17.8 horas",
+        "title": "magistrado",
+        "traffic": "100+",
+        "growth": "300%",
+        "activity_time": "2.6 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government",
+            "Politics"
+        ],
+        "news": [],
+        "timestamp": "2026-07-04T12:26:08.831058",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "hospital",
+        "traffic": "200+",
+        "growth": "1000%",
+        "activity_time": "17.6 horas",
+        "topics": [
+            "Other"
         ],
         "news": [
             {
-                "title": "Sugieren en el Congreso aplazar el uso obligatorio de etanol en gasolinas",
-                "url": "https://www.prensalibre.com/economia/sugieren-en-el-congreso-aplazar-el-uso-obligatorio-de-etanol-en-gasolinas/",
-                "source": "Prensa Libre"
+                "title": "Arizona toddler declared dead was found alive in the morgue",
+                "url": "https://www.nbcnews.com/news/us-news/arizona-toddler-declared-dead-was-found-alive-morgue-rcna352853",
+                "source": "NBC News"
             },
             {
-                "title": "EE. UU. felicita a Guatemala por uso del etanol, aunque su entrada en vigor fue aplazada al 21 de agosto",
-                "url": "https://www.publinews.gt/noticias/2026/07/02/ee-uu-felicita-a-guatemala-por-uso-del-etanol/",
-                "source": "Publinews"
+                "title": "Toddler found alive in hospital morgue after being mistakenly pronounced dead by doctor",
+                "url": "https://www.kold.com/2026/07/03/toddler-found-alive-hospital-morgue-after-being-mistakenly-pronounced-dead-by-doctor/",
+                "source": "KOLD"
             },
             {
-                "title": "El Minae retrasa el plan para vender gasolina superior con 10% de etanol en Costa Rica",
-                "url": "https://www.infobae.com/costa-rica/2026/06/30/el-minae-retrasa-el-plan-para-vender-gasolina-superior-con-10-de-etanol/",
-                "source": "Infobae"
+                "title": "Exclusive | Truly harrowing 911 audio of family finding toddler drowned in pool — before he came back to life",
+                "url": "https://nypost.com/2026/07/02/us-news/harrowing-911-after-family-found-toddler-drowned-in-pool-before-he-came-back-to-life/",
+                "source": "New York Post"
             }
         ],
-        "timestamp": "2026-07-03T12:39:22.357279",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-07-04T12:26:09.184815",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
