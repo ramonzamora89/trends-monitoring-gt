@@ -1,72 +1,86 @@
 [
     {
-        "title": "multa",
+        "title": "terremoto",
         "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "12.6 horas",
+        "growth": "700%",
+        "activity_time": "1.2 horas",
         "topics": [
-            "Law and Government",
-            "Autos and Vehicles"
+            "Climate"
         ],
         "news": [
             {
-                "title": "El 40 % de automotores ya tiene calcomanía de 2026",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-40-de-automotores-ya-tiene-calcomania-de-2026/",
-                "source": "Diario de Centro América"
+                "title": "\"Me da miedo lo que voy a ver allá dentro\": BBC Mundo visita la morgue improvisada de Los Silos, donde los cadáveres se acumulan al aire libre tras los terremotos en Venezuela",
+                "url": "https://www.bbc.com/mundo/articles/c4gyjxxdkxno",
+                "source": "BBC"
             },
             {
-                "title": "¿Aún no pagas el impuesto de circulación? Municipalidades ofrecen descuentos de hasta el 70% en multas",
-                "url": "https://www.lared1061.com/posts/aun-no-pagas-el-impuesto-de-circulacion-municipalidades-ofrecen-descuentos-de-hasta-el-70-en-multas",
-                "source": "La Red 106.1 FM"
+                "title": "Casi 3 mil personas han muerto tras el terremoto en Venezuela",
+                "url": "https://canalantigua.tv/2026/07/04/casi-3-mil-personas-han-muerto-tras-el-terremoto-en-venezuela/",
+                "source": "Canal Antigua"
             },
             {
-                "title": "Impuesto de Circulación: casi 6 de cada 10 vehículos aún no han pagado a un mes del vencimiento",
-                "url": "https://www.prensalibre.com/economia/impuesto-de-circulacion-casi-6-de-cada-10-vehiculos-aun-no-han-pagado-a-un-mes-del-vencimiento/",
-                "source": "Prensa Libre"
+                "title": "Suman 2 mil 954 los fallecidos y a 16 mil 592 los heridos por los terremotos en Venezuela",
+                "url": "https://lahora.gt/internacionales/agenciaefe/2026/07/04/suman-2-mil-954-los-fallecidos-y-a-16-mil-592-los-heridos-por-los-terremotos-en-venezuela/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-07-04T12:26:08.643676",
+        "timestamp": "2026-07-05T12:29:50.661288",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "magistrado",
-        "traffic": "100+",
-        "growth": "300%",
-        "activity_time": "2.6 horas",
+        "title": "whatsapp",
+        "traffic": "2000+",
+        "growth": "100%",
+        "activity_time": "22.5 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [],
-        "timestamp": "2026-07-04T12:26:08.831058",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "hospital",
-        "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "17.6 horas",
-        "topics": [
-            "Other"
+            "Technology"
         ],
         "news": [
             {
-                "title": "Arizona toddler declared dead was found alive in the morgue",
-                "url": "https://www.nbcnews.com/news/us-news/arizona-toddler-declared-dead-was-found-alive-morgue-rcna352853",
-                "source": "NBC News"
+                "title": "Meta says WhatsApp usernames are safeguarded against scams after India flags cybersecurity risks",
+                "url": "https://www.cnbc.com/2026/07/02/meta-whatsapp-usernames-scams-india.html",
+                "source": "CNBC"
             },
             {
-                "title": "Toddler found alive in hospital morgue after being mistakenly pronounced dead by doctor",
-                "url": "https://www.kold.com/2026/07/03/toddler-found-alive-hospital-morgue-after-being-mistakenly-pronounced-dead-by-doctor/",
-                "source": "KOLD"
+                "title": "It’s Time to Reserve Your WhatsApp Username",
+                "url": "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
+                "source": "Meta Store"
             },
             {
-                "title": "Exclusive | Truly harrowing 911 audio of family finding toddler drowned in pool — before he came back to life",
-                "url": "https://nypost.com/2026/07/02/us-news/harrowing-911-after-family-found-toddler-drowned-in-pool-before-he-came-back-to-life/",
-                "source": "New York Post"
+                "title": "India issues notice to Telegram, Signal on concerns over usernames, source says",
+                "url": "https://www.reuters.com/world/india/india-issues-notice-telegram-signal-concerns-over-usernames-source-says-2026-07-03/",
+                "source": "Reuters"
             }
         ],
-        "timestamp": "2026-07-04T12:26:09.184815",
+        "timestamp": "2026-07-05T12:29:50.899431",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "play store",
+        "traffic": "200+",
+        "growth": "100%",
+        "activity_time": "20.7 horas",
+        "topics": [
+            "Technology"
+        ],
+        "news": [
+            {
+                "title": "Google Play Store widgets will soon be available for individual Collections",
+                "url": "https://www.androidauthority.com/play-store-collections-widgets-3684215/",
+                "source": "Android Authority"
+            },
+            {
+                "title": "What’s new in Android’s June 2026 Google System Updates [U]",
+                "url": "https://9to5google.com/2026/06/29/june-2026-google-system-updates/",
+                "source": "9to5Google"
+            },
+            {
+                "title": "Samsung phones get new Google Play System, Google Play Services updates",
+                "url": "https://www.sammobile.com/news/samsung-phones-get-new-google-play-system-google-play-services-updates/",
+                "source": "SamMobile"
+            }
+        ],
+        "timestamp": "2026-07-05T12:29:51.102019",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
