@@ -1,86 +1,15 @@
 [
     {
-        "title": "terremoto",
+        "title": "fiscal",
         "traffic": "1000+",
-        "growth": "700%",
-        "activity_time": "1.2 horas",
+        "growth": "200%",
+        "activity_time": "13.5 horas",
         "topics": [
-            "Climate"
+            "Law and Government",
+            "Politics"
         ],
-        "news": [
-            {
-                "title": "\"Me da miedo lo que voy a ver allá dentro\": BBC Mundo visita la morgue improvisada de Los Silos, donde los cadáveres se acumulan al aire libre tras los terremotos en Venezuela",
-                "url": "https://www.bbc.com/mundo/articles/c4gyjxxdkxno",
-                "source": "BBC"
-            },
-            {
-                "title": "Casi 3 mil personas han muerto tras el terremoto en Venezuela",
-                "url": "https://canalantigua.tv/2026/07/04/casi-3-mil-personas-han-muerto-tras-el-terremoto-en-venezuela/",
-                "source": "Canal Antigua"
-            },
-            {
-                "title": "Suman 2 mil 954 los fallecidos y a 16 mil 592 los heridos por los terremotos en Venezuela",
-                "url": "https://lahora.gt/internacionales/agenciaefe/2026/07/04/suman-2-mil-954-los-fallecidos-y-a-16-mil-592-los-heridos-por-los-terremotos-en-venezuela/",
-                "source": "La Hora"
-            }
-        ],
-        "timestamp": "2026-07-05T12:29:50.661288",
+        "news": [],
+        "timestamp": "2026-07-06T13:17:42.242310",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "whatsapp",
-        "traffic": "2000+",
-        "growth": "100%",
-        "activity_time": "22.5 horas",
-        "topics": [
-            "Technology"
-        ],
-        "news": [
-            {
-                "title": "Meta says WhatsApp usernames are safeguarded against scams after India flags cybersecurity risks",
-                "url": "https://www.cnbc.com/2026/07/02/meta-whatsapp-usernames-scams-india.html",
-                "source": "CNBC"
-            },
-            {
-                "title": "It’s Time to Reserve Your WhatsApp Username",
-                "url": "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
-                "source": "Meta Store"
-            },
-            {
-                "title": "India issues notice to Telegram, Signal on concerns over usernames, source says",
-                "url": "https://www.reuters.com/world/india/india-issues-notice-telegram-signal-concerns-over-usernames-source-says-2026-07-03/",
-                "source": "Reuters"
-            }
-        ],
-        "timestamp": "2026-07-05T12:29:50.899431",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "play store",
-        "traffic": "200+",
-        "growth": "100%",
-        "activity_time": "20.7 horas",
-        "topics": [
-            "Technology"
-        ],
-        "news": [
-            {
-                "title": "Google Play Store widgets will soon be available for individual Collections",
-                "url": "https://www.androidauthority.com/play-store-collections-widgets-3684215/",
-                "source": "Android Authority"
-            },
-            {
-                "title": "What’s new in Android’s June 2026 Google System Updates [U]",
-                "url": "https://9to5google.com/2026/06/29/june-2026-google-system-updates/",
-                "source": "9to5Google"
-            },
-            {
-                "title": "Samsung phones get new Google Play System, Google Play Services updates",
-                "url": "https://www.sammobile.com/news/samsung-phones-get-new-google-play-system-google-play-services-updates/",
-                "source": "SamMobile"
-            }
-        ],
-        "timestamp": "2026-07-05T12:29:51.102019",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
