@@ -1,15 +1,59 @@
 [
     {
-        "title": "fiscal",
-        "traffic": "1000+",
-        "growth": "200%",
-        "activity_time": "13.5 horas",
+        "title": "comisión internacional contra la impunidad en guatemala",
+        "traffic": "500+",
+        "growth": "800%",
+        "activity_time": "11.0 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Sala cumple fallo definitivo de CSJ y deja sin efecto ordenes de captura contra exfiscales y exCICIG",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/06/sala-cumple-fallo-definitivo-de-csj-y-deja-sin-efecto-ordenes-de-captura-contra-exfiscales-y-excicig/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Sala deja sin efecto órdenes de captura contra Juan Francisco Sandoval, Iván Velásquez, Thelma Aldana y otros exfiscales",
+                "url": "https://www.prensalibre.com/ahora/guatemala/politica/sala-deja-sin-efecto-ordenes-de-captura-contra-juan-francisco-sandoval-ivan-velasquez-thelma-aldana-y-otros-vinculados-al-caso-odebrecht/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Guatemala anula órdenes de aprehensión contra exfiscales en el caso Odebrecht",
+                "url": "https://www.soy502.com/articulo/odebrecht-sala-tercera-anula-ordenes-captura-contra-fiscales-102154",
+                "source": "Soy502"
+            }
+        ],
+        "timestamp": "2026-07-07T12:49:47.803965",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "arancel",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "14.8 horas",
         "topics": [
             "Law and Government",
-            "Politics"
+            "Business and Finance"
         ],
-        "news": [],
-        "timestamp": "2026-07-06T13:17:42.242310",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "news": [
+            {
+                "title": "Guatemala responde a investigación de EE. UU. por trabajo forzoso y busca evitar aranceles",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/guatemala-responde-a-investigacion-de-ee-uu-por-trabajo-forzoso-y-busca-evitar-aranceles/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Sector productivo y Amcham califican de positiva firma de acuerdo que impide ingreso de productos mediante trabajo forzoso",
+                "url": "https://lahora.gt/lh-economia/esmith/2026/07/06/sector-exportador-califica-de-positiva-acuerdo-que-impide-ingreso-de-productos-mediante-trabajo-forzoso/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Guatemala prohíbe importación de bienes elaborados con trabajo forzoso",
+                "url": "https://emisorasunidas.com/nacional/2026/07/06/guatemala-prohibe-importacion-bienes-trabajo-forzoso/",
+                "source": "Emisoras Unidas"
+            }
+        ],
+        "timestamp": "2026-07-07T12:49:47.964642",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
