@@ -1,59 +1,70 @@
 [
     {
-        "title": "comisión internacional contra la impunidad en guatemala",
-        "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "11.0 horas",
+        "title": "prisión",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "18.6 horas",
         "topics": [
             "Law and Government"
         ],
-        "news": [
-            {
-                "title": "Sala cumple fallo definitivo de CSJ y deja sin efecto ordenes de captura contra exfiscales y exCICIG",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/06/sala-cumple-fallo-definitivo-de-csj-y-deja-sin-efecto-ordenes-de-captura-contra-exfiscales-y-excicig/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Sala deja sin efecto órdenes de captura contra Juan Francisco Sandoval, Iván Velásquez, Thelma Aldana y otros exfiscales",
-                "url": "https://www.prensalibre.com/ahora/guatemala/politica/sala-deja-sin-efecto-ordenes-de-captura-contra-juan-francisco-sandoval-ivan-velasquez-thelma-aldana-y-otros-vinculados-al-caso-odebrecht/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Guatemala anula órdenes de aprehensión contra exfiscales en el caso Odebrecht",
-                "url": "https://www.soy502.com/articulo/odebrecht-sala-tercera-anula-ordenes-captura-contra-fiscales-102154",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-07-07T12:49:47.803965",
+        "news": [],
+        "timestamp": "2026-07-08T12:35:17.031389",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "arancel",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "14.8 horas",
+        "title": "goat",
+        "traffic": "100+",
+        "growth": "700%",
+        "activity_time": "17.8 horas",
         "topics": [
-            "Law and Government",
             "Business and Finance"
         ],
         "news": [
             {
-                "title": "Guatemala responde a investigación de EE. UU. por trabajo forzoso y busca evitar aranceles",
-                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/guatemala-responde-a-investigacion-de-ee-uu-por-trabajo-forzoso-y-busca-evitar-aranceles/",
-                "source": "Prensa Libre"
+                "title": "Goat Planning Receives 2026 IABE Excellence Award for Regional Excellence",
+                "url": "https://www.openpr.com/news/4571461/goat-planning-receives-2026-iabe-excellence-award-for-regional",
+                "source": "openPR.com"
             },
             {
-                "title": "Sector productivo y Amcham califican de positiva firma de acuerdo que impide ingreso de productos mediante trabajo forzoso",
-                "url": "https://lahora.gt/lh-economia/esmith/2026/07/06/sector-exportador-califica-de-positiva-acuerdo-que-impide-ingreso-de-productos-mediante-trabajo-forzoso/",
-                "source": "La Hora"
+                "title": "The Real Featherweight GOAT?",
+                "url": "https://www.mmamania.com/latest-news/455566/ufc-329s-conor-mcgregor-claims-featherweight-goat-status-the-results-show-this",
+                "source": "MMA Mania"
             },
             {
-                "title": "Guatemala prohíbe importación de bienes elaborados con trabajo forzoso",
-                "url": "https://emisorasunidas.com/nacional/2026/07/06/guatemala-prohibe-importacion-bienes-trabajo-forzoso/",
-                "source": "Emisoras Unidas"
+                "title": "Conor McGregor: ‘I’m the Greatest Featherweight Since Bruce Lee’",
+                "url": "https://heavy.com/sports/ufc/conor-mcgregor-greatest-featherweight-bruce-lee/",
+                "source": "Heavy.com"
             }
         ],
-        "timestamp": "2026-07-07T12:49:47.964642",
+        "timestamp": "2026-07-08T12:35:17.154822",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "tormenta",
+        "traffic": "2000+",
+        "growth": "600%",
+        "activity_time": "14.9 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [
+            {
+                "title": "Tornado mortal arrastra a hombre fuera de su apartamento en el piso 12 de un edificio en China",
+                "url": "https://cnnespanol.cnn.com/2026/07/07/mundo/hombre-vuela-tornado-mortal-china-trax",
+                "source": "CNN en Español"
+            },
+            {
+                "title": "Tornados y tormentas en el centro de China dejan al menos 11 muertos",
+                "url": "https://apnews.com/article/china-tornado-tormenta-hubei-9f2cbe1baf397065406e10bfa80c0ffe",
+                "source": "AP News"
+            },
+            {
+                "title": "Rescatistas trasladan a residentes varados en Guangxi",
+                "url": "https://spanish.news.cn/20260708/5a73c0fbea0b4702a3a827546b03f25c/c.html",
+                "source": "新华网"
+            }
+        ],
+        "timestamp": "2026-07-08T12:35:17.347360",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
