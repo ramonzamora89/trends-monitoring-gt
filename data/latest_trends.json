@@ -1,87 +1,58 @@
 [
     {
-        "title": "sofía de borbón",
-        "traffic": "2000+",
-        "growth": "700%",
-        "activity_time": "23.4 horas",
+        "title": "calzada aguilar batres",
+        "traffic": "100+",
+        "growth": "1000%",
+        "activity_time": "10.3 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "La princesa de Asturias finaliza su formación militar y recibe de su padre la Gran Cruz del Mérito Aeronáutico",
-                "url": "https://elpais.com/espana/2026-07-10/la-princesa-de-asturias-finaliza-su-formacion-militar-y-recibe-de-su-padre-la-gran-cruz-del-merito-aeronautico.html",
-                "source": "EL PAÍS"
+                "title": "Liberan el paso en la calzada Aguilar Batres tras bloqueo por protesta de padres de familia y estudiantes",
+                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/liberan-el-paso-en-la-calzada-aguilar-batres-tras-bloqueo-por-protesta-de-padres-de-familia-y-estudiantes/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "La reina Letizia, de estreno en San Javier: rosa y encaje para acompañar a la princesa Leonor en su gran día",
-                "url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-07-10/reina-letizia-estreno-san-javier-vestido-rosa-encaje-princesa-leonor_4387779/",
-                "source": "Vanitatis"
+                "title": "Manifestantes liberan el paso en la calzada Aguilar Batres tras acuerdo con Mineduc",
+                "url": "https://lahora.gt/nacionales/hbeteta/2026/07/10/manifestantes-liberan-el-paso-en-la-calzada-aguilar-batres-tras-acuerdo-con-mineduc/",
+                "source": "La Hora"
             },
             {
-                "title": "Leonor, \"Top Gun\" definitiva: se convierte en la primera princesa piloto y paracaidista de la historia",
-                "url": "https://www.elobservador.com.uy/espana/sucede/leonor-top-gun-definitiva-se-convierte-la-primera-princesa-piloto-y-paracaidista-la-historia-n6050297",
-                "source": "El Observador"
+                "title": "Manifestación en la Aguilar Batres afecta la circulación este viernes 10 de julio",
+                "url": "https://www.publinews.gt/noticias/2026/07/10/manifestacion-en-la-aguilar-batres-afecta-la-circulacion-este-viernes-10-de-julio/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-07-10T12:46:33.044722",
+        "timestamp": "2026-07-11T12:19:48.401640",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "juez",
-        "traffic": "200+",
-        "growth": "700%",
-        "activity_time": "9.9 horas",
+        "title": "tiempo de mañana",
+        "traffic": "20000+",
+        "growth": "50%",
+        "activity_time": "9.7 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Climate"
         ],
         "news": [
             {
-                "title": "El juez Pedraz imputa al exjefe de gabinete de Pedro Sánchez en el caso cloacas",
-                "url": "https://www.elconfidencial.com/espana/2026-07-10/anticorrupcion-pide-investigar-al-exjefe-de-gabinete-de-pedro-sanchez-en-el-caso-cloacas_4387730/",
-                "source": "El Confidencial"
+                "title": "Tiempo: Nublado y fresco por la mañana con probables chaparrones, mejora por la tarde",
+                "url": "https://noticiasdel6.com/tiempo-nublado-y-fresco-por-la-manana-con-probables-chaparrones-mejora-por-la-tarde/",
+                "source": "Noticiasdel6.com"
             },
             {
-                "title": "La UCO coloca ahora el foco en la gerente del PSOE y en dos trabajadoras por el ‘caso Leire Díez’",
-                "url": "https://elpais.com/espana/2026-07-10/la-uco-coloca-ahora-el-foco-en-la-gerente-del-psoe-y-en-dos-trabajadoras-por-el-caso-leire-diez.html",
-                "source": "EL PAÍS"
+                "title": "Tiempo: Nublado y fresco por la mañana con lluvias aisladas. Bueno y templado por la tarde",
+                "url": "https://noticiasdel6.com/tiempo-nublado-y-fresco-por-la-manana-con-lluvias-aisladas-bueno-y-templado-por-la-tarde/",
+                "source": "Noticiasdel6.com"
             },
             {
-                "title": "El Gobierno reitera su total colaboración con la Justicia tras el último informe de la UCO",
-                "url": "https://www.infobae.com/espana/agencias/2026/07/10/el-gobierno-reitera-su-total-colaboracion-con-la-justicia-tras-el-ultimo-informe-de-la-uco/",
-                "source": "Infobae"
+                "title": "Fin de semana con mañanas frescas y mejora del tiempo por la tarde en Posadas",
+                "url": "https://misionescuatro.com/general/clima/fin-de-semana-con-mananas-frescas-y-mejora-del-tiempo-por-la-tarde-en-posadas/",
+                "source": "Misiones Cuatro"
             }
         ],
-        "timestamp": "2026-07-10T12:46:33.428661",
+        "timestamp": "2026-07-11T12:19:48.575435",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "rania de jordania",
-        "traffic": "100+",
-        "growth": "700%",
-        "activity_time": "3.4 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Rania de Jordania anuncia que será abuela por tercera vez: \"El club de los nietos crece\"",
-                "url": "https://www.hola.com/realeza/casa_jordana/20260709911867/rania-de-jordania-anuncia-abuela-tercera-vez/",
-                "source": "HOLA"
-            },
-            {
-                "title": "Reina Rania anuncia embarazo de princesa Iman y Jamil",
-                "url": "https://dailybeirut.com/es/estilo-de-vida/la-reina-rania-anuncia-una-nueva-alegr%C3%ADa-en-camino/",
-                "source": "Daily Beirut"
-            },
-            {
-                "title": "La reina Rania de Jordania (55 años): \"Me encanta el chocolate, la crema de cacahuete con mermelada y el hummus, tengo bastante apetito. No soy quisquillosa con la comida\"",
-                "url": "https://woman.elperiodico.com/celebrities/reina-rania-jordania-55-anos-encanta-chocolate-crema-cacahuete-mermelada-hummus-alimentacion-132302321",
-                "source": "Woman Madame Figaro"
-            }
-        ],
-        "timestamp": "2026-07-10T12:46:33.534055",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
