@@ -1,58 +1,86 @@
 [
     {
-        "title": "calzada aguilar batres",
-        "traffic": "100+",
-        "growth": "1000%",
-        "activity_time": "10.3 horas",
+        "title": "china",
+        "traffic": "1000+",
+        "growth": "900%",
+        "activity_time": "16.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Liberan el paso en la calzada Aguilar Batres tras bloqueo por protesta de padres de familia y estudiantes",
-                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/liberan-el-paso-en-la-calzada-aguilar-batres-tras-bloqueo-por-protesta-de-padres-de-familia-y-estudiantes/",
-                "source": "Prensa Libre"
+                "title": "Licensable video: Philippines says 2016 South China Sea arbitration ruling is a permanent anchor",
+                "url": "https://www.reutersconnect.com/item/philippines-says-2016-south-china-sea-arbitration-ruling-is-a-permanent-anchor/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNjg2MzEwMDcyMDI2UlAx",
+                "source": "Reuters Connect"
             },
             {
-                "title": "Manifestantes liberan el paso en la calzada Aguilar Batres tras acuerdo con Mineduc",
-                "url": "https://lahora.gt/nacionales/hbeteta/2026/07/10/manifestantes-liberan-el-paso-en-la-calzada-aguilar-batres-tras-acuerdo-con-mineduc/",
-                "source": "La Hora"
+                "title": "Marcos urged to issue executive order declaring July 12 WPS ‘victory day’",
+                "url": "https://www.inquirer.net/480378/marcos-urged-to-issue-executive-order-declaring-july-12-wps-victory-day/",
+                "source": "Inquirer.net"
             },
             {
-                "title": "Manifestación en la Aguilar Batres afecta la circulación este viernes 10 de julio",
-                "url": "https://www.publinews.gt/noticias/2026/07/10/manifestacion-en-la-aguilar-batres-afecta-la-circulacion-este-viernes-10-de-julio/",
-                "source": "Publinews"
+                "title": "Philippines Gains United States, Japan, Australia and Canada Backing for West Philippine Sea Rights as China and Asia Pacific Airlines Face Growing Travel Watch Over Island Destinations, Cruise Tourism and Regional Connectivity",
+                "url": "https://www.travelandtourworld.com/news/article/2hqpsykg3em9/",
+                "source": "Travel And Tour World"
             }
         ],
-        "timestamp": "2026-07-11T12:19:48.401640",
+        "timestamp": "2026-07-12T12:19:57.653734",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "tiempo de mañana",
-        "traffic": "20000+",
-        "growth": "50%",
-        "activity_time": "9.7 horas",
+        "title": "tormenta",
+        "traffic": "100+",
+        "growth": "800%",
+        "activity_time": "1.0 horas",
         "topics": [
             "Climate"
         ],
         "news": [
             {
-                "title": "Tiempo: Nublado y fresco por la mañana con probables chaparrones, mejora por la tarde",
-                "url": "https://noticiasdel6.com/tiempo-nublado-y-fresco-por-la-manana-con-probables-chaparrones-mejora-por-la-tarde/",
-                "source": "Noticiasdel6.com"
+                "title": "Aemet señala dónde se esperan tormentas de verano con granizo este domingo 12 de julio en la Comunidad Valenciana",
+                "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260711/aemet-senala-donde-esperan-tormentas-verano-granizo-este-domingo-12-julio-comunidad-valenciana_438676.html",
+                "source": "El Debate"
             },
             {
-                "title": "Tiempo: Nublado y fresco por la mañana con lluvias aisladas. Bueno y templado por la tarde",
-                "url": "https://noticiasdel6.com/tiempo-nublado-y-fresco-por-la-manana-con-lluvias-aisladas-bueno-y-templado-por-la-tarde/",
-                "source": "Noticiasdel6.com"
+                "title": "Fuertes granizadas en el interior de Castellón",
+                "url": "https://www.elperiodicomediterraneo.com/videos/2026/07/10/fuertes-granizadas-interior-castellon-132343976.html",
+                "source": "El Periódico Mediterráneo"
             },
             {
-                "title": "Fin de semana con mañanas frescas y mejora del tiempo por la tarde en Posadas",
-                "url": "https://misionescuatro.com/general/clima/fin-de-semana-con-mananas-frescas-y-mejora-del-tiempo-por-la-tarde-en-posadas/",
-                "source": "Misiones Cuatro"
+                "title": "El tiempo en Valencia: desaparecen las alertas tras las tormentas con granizo y fuertes rachas de viento",
+                "url": "https://actualidadvalencia.com/el-tiempo-en-valencia-desaparecen-las-alertas-tras-las-tormentas-con-granizo-y-fuertes-rachas-de-viento/",
+                "source": "Actualidad Valencia"
             }
         ],
-        "timestamp": "2026-07-11T12:19:48.575435",
+        "timestamp": "2026-07-12T12:19:57.784802",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "estadísticas de selección de fútbol de argentina contra selección de fútbol de suiza",
+        "traffic": "200+",
+        "growth": "1000%",
+        "activity_time": "9.5 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "Historial de Argentina vs. Suiza: quién ganó más y los enfrentamientos",
+                "url": "https://www.tycsports.com/seleccion-argentina/historial-de-argentina-vs-suiza-quien-gano-mas-y-todos-los-partidos-id748655.html",
+                "source": "TyC Sports"
+            },
+            {
+                "title": "SUIZA: LOS ALPES, CHOCOLATES Y LA TUMBA DE BORGES EN EL PAÍS QUE ES SEDE DE LA FIFA",
+                "url": "https://provinciaradio.com.ar/noticia.php?noti_id=22479",
+                "source": "Radio Provincia"
+            },
+            {
+                "title": "Más allá del Mundial: Argentina y un intercambio comercial récord con Suiza",
+                "url": "https://www.sur24.com.ar/noticias/mas-alla-del-mundial-argentina-y-un-intercambio-comercial-record-con-suiza",
+                "source": "Sur 24 Noticias"
+            }
+        ],
+        "timestamp": "2026-07-12T12:19:57.931435",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
