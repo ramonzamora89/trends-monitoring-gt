@@ -1,86 +1,85 @@
 [
     {
-        "title": "china",
-        "traffic": "1000+",
-        "growth": "900%",
-        "activity_time": "16.8 horas",
+        "title": "combustible",
+        "traffic": "100+",
+        "growth": "600%",
+        "activity_time": "1.7 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Cinco importadoras de hidrocarburos están listas y autorizadas para almacenar y distribuir etanol para la mezcla con gasolina",
+                "url": "https://www.prensalibre.com/economia/cinco-importadoras-de-hidrocarburos-estan-listas-y-autorizadas-para-almacenar-y-distribuir-etanol-para-la-mezcla-con-gasolina/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Ejecutivo emite acuerdo acerca del suministro del etanol en Guatemala",
+                "url": "https://www.publinews.gt/noticias/2026/07/10/ejecutivo-emite-acuerdo-acerca-del-suministro-del-etanol-en-guatemala/",
+                "source": "Publinews"
+            },
+            {
+                "title": "¿Qué deben saber los consumidores sobre la gasolina E10?",
+                "url": "https://newsinamerica.com/pdcc/boletin/2026/que-deben-saber-los-consumidores-sobre-la-gasolina-e10/",
+                "source": "Periódico Digital Centroamericano y del Caribe"
+            }
+        ],
+        "timestamp": "2026-07-13T12:50:19.581476",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "wimbledon",
+        "traffic": "500+",
+        "growth": "200%",
+        "activity_time": "23.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Licensable video: Philippines says 2016 South China Sea arbitration ruling is a permanent anchor",
-                "url": "https://www.reutersconnect.com/item/philippines-says-2016-south-china-sea-arbitration-ruling-is-a-permanent-anchor/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNjg2MzEwMDcyMDI2UlAx",
+                "title": "Kate Middleton Wraps Up Wimbledon in an Elegant Green Dress",
+                "url": "https://www.townandcountrymag.com/society/tradition/a71899429/kate-middleton-wimbledon-mens-finals-2026-outfit-photos/",
+                "source": "Town & Country Magazine"
+            },
+            {
+                "title": "Kate Middleton & Prince William Bring Prince George & Princess Charlotte to Men’s Wimbledon Final",
+                "url": "https://www.imdb.com/es/news/ni65925236/?ref_=nwc_art_perm",
+                "source": "IMDb"
+            },
+            {
+                "title": "Wimbledon",
+                "url": "https://www.reutersconnect.com/item/wimbledon/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNN0MxSTJWTEg",
                 "source": "Reuters Connect"
-            },
-            {
-                "title": "Marcos urged to issue executive order declaring July 12 WPS ‘victory day’",
-                "url": "https://www.inquirer.net/480378/marcos-urged-to-issue-executive-order-declaring-july-12-wps-victory-day/",
-                "source": "Inquirer.net"
-            },
-            {
-                "title": "Philippines Gains United States, Japan, Australia and Canada Backing for West Philippine Sea Rights as China and Asia Pacific Airlines Face Growing Travel Watch Over Island Destinations, Cruise Tourism and Regional Connectivity",
-                "url": "https://www.travelandtourworld.com/news/article/2hqpsykg3em9/",
-                "source": "Travel And Tour World"
             }
         ],
-        "timestamp": "2026-07-12T12:19:57.653734",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "tormenta",
-        "traffic": "100+",
-        "growth": "800%",
-        "activity_time": "1.0 horas",
-        "topics": [
-            "Climate"
-        ],
-        "news": [
-            {
-                "title": "Aemet señala dónde se esperan tormentas de verano con granizo este domingo 12 de julio en la Comunidad Valenciana",
-                "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260711/aemet-senala-donde-esperan-tormentas-verano-granizo-este-domingo-12-julio-comunidad-valenciana_438676.html",
-                "source": "El Debate"
-            },
-            {
-                "title": "Fuertes granizadas en el interior de Castellón",
-                "url": "https://www.elperiodicomediterraneo.com/videos/2026/07/10/fuertes-granizadas-interior-castellon-132343976.html",
-                "source": "El Periódico Mediterráneo"
-            },
-            {
-                "title": "El tiempo en Valencia: desaparecen las alertas tras las tormentas con granizo y fuertes rachas de viento",
-                "url": "https://actualidadvalencia.com/el-tiempo-en-valencia-desaparecen-las-alertas-tras-las-tormentas-con-granizo-y-fuertes-rachas-de-viento/",
-                "source": "Actualidad Valencia"
-            }
-        ],
-        "timestamp": "2026-07-12T12:19:57.784802",
+        "timestamp": "2026-07-13T12:50:19.815164",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "estadísticas de selección de fútbol de argentina contra selección de fútbol de suiza",
-        "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "9.5 horas",
+        "title": "senador lindsey graham",
+        "traffic": "100+",
+        "growth": "700%",
+        "activity_time": "15.3 horas",
         "topics": [
-            "Other"
+            "Politics"
         ],
         "news": [
             {
-                "title": "Historial de Argentina vs. Suiza: quién ganó más y los enfrentamientos",
-                "url": "https://www.tycsports.com/seleccion-argentina/historial-de-argentina-vs-suiza-quien-gano-mas-y-todos-los-partidos-id748655.html",
-                "source": "TyC Sports"
+                "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
+                "url": "https://apnews.com/article/trump-graham-fierce-critical-close-ally-iran-abce65fdea00e13e34b8cb6380b4f8c9",
+                "source": "AP News"
             },
             {
-                "title": "SUIZA: LOS ALPES, CHOCOLATES Y LA TUMBA DE BORGES EN EL PAÍS QUE ES SEDE DE LA FIFA",
-                "url": "https://provinciaradio.com.ar/noticia.php?noti_id=22479",
-                "source": "Radio Provincia"
+                "title": "Lindsey Graham died of aortic dissection, preliminary medical report says",
+                "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
+                "source": "The Washington Post"
             },
             {
-                "title": "Más allá del Mundial: Argentina y un intercambio comercial récord con Suiza",
-                "url": "https://www.sur24.com.ar/noticias/mas-alla-del-mundial-argentina-y-un-intercambio-comercial-record-con-suiza",
-                "source": "Sur 24 Noticias"
+                "title": "Heart condition tied to Lindsey Graham's death can strike without warning — what to know",
+                "url": "https://www.foxnews.com/health/heart-condition-tied-lindsey-grahams-death-can-strike-without-warning-what-know",
+                "source": "Fox News"
             }
         ],
-        "timestamp": "2026-07-12T12:19:57.931435",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-07-13T12:50:19.853339"
     }
 ]
