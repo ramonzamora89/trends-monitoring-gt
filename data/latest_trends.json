@@ -1,82 +1,88 @@
 [
     {
-        "title": "contraloría",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "14.8 horas",
+        "title": "corte suprema",
+        "traffic": "1000+",
+        "growth": "700%",
+        "activity_time": "22.8 horas",
         "topics": [
             "Law and Government",
             "Politics"
         ],
         "news": [
             {
-                "title": "Walter Mazariegos responde a señalamientos sobre la postuladora para Contralor: \"Vamos a asistir únicamente a votar\"",
-                "url": "https://www.prensalibre.com/guatemala/politica/walter-mazariegos-responde-a-senalamientos-sobre-la-postuladora-para-contralor-vamos-a-asistir-unicamente-a-votar/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Contraloría: Mazariegos señalado de fraude, asegura que papel de la Usac será elegir \"democráticamente\"",
-                "url": "https://lahora.gt/nacionales/hloarca/2026/07/13/contraloria-mazariegos-senalado-de-fraude-asegura-que-papel-de-la-usac-sera-elegir-democraticamente/",
+                "title": "Magistrado Cárdenas convierte una fotografía en el retrato de la fractura de la Corte Suprema",
+                "url": "https://lahora.gt/investigacion/diego/2026/07/14/magistrado-cardenas-convierte-una-fotografia-en-el-retrato-de-la-fractura-de-la-corte-suprema/",
                 "source": "La Hora"
             },
             {
-                "title": "Walter Mazariegos dice no tener interés en la presidencia de postuladora para contralor",
-                "url": "https://canalantigua.tv/2026/07/13/walter-mazariegos-dice-no-tener-interes-en-la-presidencia-de-postuladora-para-contralor/",
-                "source": "Canal Antigua"
+                "title": "Se refuerza alianza con la CIDH",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/se-refuerza-alianza-con-la-cidh/",
+                "source": "Diario de Centro América"
+            },
+            {
+                "title": "La CIDH realiza una visita de seguimiento a Guatemala para revisar sus recomendaciones",
+                "url": "https://www.infobae.com/guatemala/2026/07/14/la-cidh-realiza-una-visita-de-seguimiento-a-guatemala-para-revisar-sus-recomendaciones/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-07-14T12:28:32.039937",
+        "timestamp": "2026-07-15T12:30:23.180900",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "policía nacional civil de guatemala",
+        "title": "leonor de borbón",
         "traffic": "100+",
-        "growth": "100%",
-        "activity_time": "1.5 horas",
+        "growth": "700%",
+        "activity_time": "3.2 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Gobierno reporta reducción de 10% en homicidios y de 38% en denuncias de extorsión hasta junio",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/gobierno-reporta-reduccion-de-10-en-homicidios-y-de-38-en-denuncias-de-extorsion-hasta-junio-breaking/",
-                "source": "Prensa Libre"
+                "title": "La infanta Sofía rompe sus propias normas de estilo en Barcelona con un conjunto frambuesa y brillante brazalete catalán",
+                "url": "https://www.hola.com/moda/20260714912754/infanta-sofia-look-barcelona-premios-princesa-girona-conjunto-frambuesa-brazalete/",
+                "source": "HOLA"
             },
             {
-                "title": "Retransmisión: Presidente Arévalo ofrece conferencia de prensa junto al Ministro de Gobernación",
-                "url": "https://lahora.gt/nacionales/hgodinez/2026/07/13/retransmision-presidente-arevalo-ofrece-conferencia-de-prensa-junto-al-ministro-de-gobernacion/",
-                "source": "La Hora"
+                "title": "El entusiasmo de la reina Letizia cantando con Luz Casal, las espontáneas palabras de Leonor y otros detalles de los Princesa de Girona",
+                "url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-07-14/entusiasmo-reina-letizia-luz-casal-palabras-leonor-discurso_4390103/",
+                "source": "Vanitatis"
             },
             {
-                "title": "Tendencia de homicidios: esto dice Arévalo sobre el primer semestre de 2026",
-                "url": "https://www.soy502.com/articulo/homicidios-bajan-10-guatemala-primer-semestre-2026-102154",
-                "source": "Soy502"
+                "title": "El Rey defiende el talento joven y que \"progresar juntos\" es un ejercicio de responsabilidad",
+                "url": "https://www.infosalus.com/videos/video-rey-defiende-talento-joven-progresar-juntos-ejercicio-responsabilidad-20260714201640.html",
+                "source": "Infosalus"
             }
         ],
-        "timestamp": "2026-07-14T12:28:32.195418",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-07-15T12:30:23.433027"
     },
     {
-        "title": "eclipse solar",
-        "traffic": "10000+",
-        "growth": "1000%",
-        "activity_time": "14.1 horas",
+        "title": "chatgpt",
+        "traffic": "2000+",
+        "growth": "75%",
+        "activity_time": "12.2 horas",
         "topics": [
-            "Other"
+            "Technology",
+            "Business and Finance",
+            "Science"
         ],
         "news": [
             {
-                "title": "Falta un mes para el eclipse solar en España; la cuenta atrás inicia este domingo",
-                "url": "https://www.diarioenpositivo.com/mundo/cuenta-atras-eclipse-solar-comienza-domingo-cuando-quedara-mes-historico-evento-espana/20260710145143086068.html",
-                "source": "Diario en Positivo"
+                "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
+                "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion",
+                "source": "Bloomberg.com"
             },
             {
-                "title": "MONREAL DE ARIZA EMPIEZA A PREPARARSE PARA EL ECLIPSE TOTAL DE SOL CON UNA REUNIÓN ABIERTA A TODOS LOS VECINOS",
-                "url": "https://www.elaltojalon.es/texto-diario/mostrar/5949522/monreal-ariza-empieza-prepararse-eclipse-total-sol-reunion-abierta-todos-vecinos",
-                "source": "El Alto Jalón"
+                "title": "We Now Know What OpenAI’s First Gadget Might Look Like. It’s a Direct Challenge to Apple and Amazon",
+                "url": "https://www.inc.com/georgia-fearn/we-now-know-what-openais-first-gadget-might-look-like-its-a-direct-challenge-to-apple-and-amazon/91374331",
+                "source": "Inc.com"
+            },
+            {
+                "title": "OpenAI’s First Consumer Device Will Be A Smart Speaker, Report Says",
+                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/14/openais-first-consumer-device-will-be-a-smart-speaker-report-says/",
+                "source": "Forbes"
             }
         ],
-        "timestamp": "2026-07-14T12:28:32.778084",
+        "timestamp": "2026-07-15T12:30:23.469404",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
