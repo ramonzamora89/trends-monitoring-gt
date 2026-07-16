@@ -1,88 +1,47 @@
 [
     {
-        "title": "corte suprema",
-        "traffic": "1000+",
-        "growth": "700%",
-        "activity_time": "22.8 horas",
+        "title": "lluvia",
+        "traffic": "100+",
+        "growth": "400%",
+        "activity_time": "1.1 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Climate"
         ],
         "news": [
             {
-                "title": "Magistrado Cárdenas convierte una fotografía en el retrato de la fractura de la Corte Suprema",
-                "url": "https://lahora.gt/investigacion/diego/2026/07/14/magistrado-cardenas-convierte-una-fotografia-en-el-retrato-de-la-fractura-de-la-corte-suprema/",
-                "source": "La Hora"
+                "title": "Clima hoy en Cusco, Perú: el pronóstico del tiempo para este jueves 16 julio de 2026",
+                "url": "https://www.clarin.com/informacion-general/clima-hoy-cusco-peru-pronostico-tiempo-jueves-16-julio-2026_0_1zhByTii0N.html",
+                "source": "Clarin.com"
             },
             {
-                "title": "Se refuerza alianza con la CIDH",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/se-refuerza-alianza-con-la-cidh/",
-                "source": "Diario de Centro América"
+                "title": "Clima en Perú: temperatura y probabilidad de lluvia para Cuzco este 16 de julio",
+                "url": "https://www.infobae.com/peru/2026/07/16/clima-en-peru-temperatura-y-probabilidad-de-lluvia-para-cuzco-este-16-de-julio/",
+                "source": "Infobae"
             },
             {
-                "title": "La CIDH realiza una visita de seguimiento a Guatemala para revisar sus recomendaciones",
-                "url": "https://www.infobae.com/guatemala/2026/07/14/la-cidh-realiza-una-visita-de-seguimiento-a-guatemala-para-revisar-sus-recomendaciones/",
+                "title": "Prepárate antes de salir: conoce el pronóstico del clima en Cuzco",
+                "url": "https://www.infobae.com/peru/2026/07/14/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-cuzco/",
                 "source": "Infobae"
             }
         ],
-        "timestamp": "2026-07-15T12:30:23.180900",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-07-16T12:33:57.708523"
     },
     {
-        "title": "leonor de borbón",
-        "traffic": "100+",
-        "growth": "700%",
-        "activity_time": "3.2 horas",
+        "title": "telemundo",
+        "traffic": "200+",
+        "growth": "600%",
+        "activity_time": "16.9 horas",
         "topics": [
-            "Law and Government"
+            "Travel and Transportation"
         ],
         "news": [
             {
-                "title": "La infanta Sofía rompe sus propias normas de estilo en Barcelona con un conjunto frambuesa y brillante brazalete catalán",
-                "url": "https://www.hola.com/moda/20260714912754/infanta-sofia-look-barcelona-premios-princesa-girona-conjunto-frambuesa-brazalete/",
-                "source": "HOLA"
-            },
-            {
-                "title": "El entusiasmo de la reina Letizia cantando con Luz Casal, las espontáneas palabras de Leonor y otros detalles de los Princesa de Girona",
-                "url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-07-14/entusiasmo-reina-letizia-luz-casal-palabras-leonor-discurso_4390103/",
-                "source": "Vanitatis"
-            },
-            {
-                "title": "El Rey defiende el talento joven y que \"progresar juntos\" es un ejercicio de responsabilidad",
-                "url": "https://www.infosalus.com/videos/video-rey-defiende-talento-joven-progresar-juntos-ejercicio-responsabilidad-20260714201640.html",
-                "source": "Infosalus"
+                "title": "Muere el conductor tras un choque a bordo de un ferry en Martha’s Vineyard",
+                "url": "https://www.telemundonuevainglaterra.com/noticias/local/marthas-vineyard-ferry-choque-mortal/2596053/",
+                "source": "Telemundo Nueva Inglaterra"
             }
         ],
-        "timestamp": "2026-07-15T12:30:23.433027"
-    },
-    {
-        "title": "chatgpt",
-        "traffic": "2000+",
-        "growth": "75%",
-        "activity_time": "12.2 horas",
-        "topics": [
-            "Technology",
-            "Business and Finance",
-            "Science"
-        ],
-        "news": [
-            {
-                "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
-                "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion",
-                "source": "Bloomberg.com"
-            },
-            {
-                "title": "We Now Know What OpenAI’s First Gadget Might Look Like. It’s a Direct Challenge to Apple and Amazon",
-                "url": "https://www.inc.com/georgia-fearn/we-now-know-what-openais-first-gadget-might-look-like-its-a-direct-challenge-to-apple-and-amazon/91374331",
-                "source": "Inc.com"
-            },
-            {
-                "title": "OpenAI’s First Consumer Device Will Be A Smart Speaker, Report Says",
-                "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/14/openais-first-consumer-device-will-be-a-smart-speaker-report-says/",
-                "source": "Forbes"
-            }
-        ],
-        "timestamp": "2026-07-15T12:30:23.469404",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-07-16T12:33:57.980110",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     }
 ]
