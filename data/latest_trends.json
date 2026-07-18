@@ -1,54 +1,86 @@
 [
     {
-        "title": "denuncia",
+        "title": "juicio",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "13.5 horas",
+        "activity_time": "20.3 horas",
         "topics": [
             "Law and Government"
-        ],
-        "news": [],
-        "timestamp": "2026-07-17T12:27:44.877808",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "combustible",
-        "traffic": "100+",
-        "growth": "700%",
-        "activity_time": "2.0 horas",
-        "topics": [
-            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Precios de los combustibles aceleran alza en Guatemala una semana después del fin del subsidio",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/07/16/precios-de-los-combustibles-aceleran-alza-en-guatemala-una-semana-despues-del-fin-del-subsidio/",
+                "title": "Caso Motorista zona 9: Jueza que liberó a Carlos Acevedo solo cubría vacaciones de jueza titular a cargo del juicio",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/16/caso-motorista-zona-9-jueza-que-libero-a-carlos-acevedo-solo-cubria-vacaciones-de-jueza-titular-a-cargo-del-juicio/",
                 "source": "La Hora"
             },
             {
-                "title": "Gobierno no prevé otro subsidio, mientras combustibles siguen al alza",
-                "url": "https://www.prensalibre.com/economia/gobierno-no-preve-otro-subsidio-mientras-combustibles-siguen-al-alza/",
-                "source": "Prensa Libre"
+                "title": "MP apela medidas sustitutivas a acusado de atropellar a Larkin Morales",
+                "url": "https://canalantigua.tv/2026/07/10/mp-apela-medidas-sustitutivas-a-acusado-de-atropellar-a-larkin-morales/",
+                "source": "Canal Antigua"
             },
             {
-                "title": "Tres puntos para entender el incremento del precio de los combustibles en Guatemala",
-                "url": "https://www.soy502.com/articulo/diesel-sube-q2-guatemala-alza-precios-internacionales-102154",
-                "source": "Soy502"
+                "title": "MP apela medidas sustitutivas otorgadas a señalado de embestir a motorista",
+                "url": "https://emisorasunidas.com/nacional/2026/07/10/ministerio-publico-apela-medidas-sustitutivas-carlos-acevedo-motorista/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-07-17T12:27:45.038350",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-07-18T12:19:03.774456",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "tiempo",
-        "traffic": "500+",
-        "growth": "400%",
-        "activity_time": "23.3 horas",
+        "title": "sofía de borbón",
+        "traffic": "1000+",
+        "growth": "700%",
+        "activity_time": "13.7 horas",
         "topics": [
             "Law and Government"
         ],
-        "news": [],
-        "timestamp": "2026-07-17T12:27:45.331830",
+        "news": [
+            {
+                "title": "La princesa Leonor y la infanta Sofía, tras los pasos de la reina Letizia: los detalles de su inesperado encuentro con cuatro jóvenes con discapacidad",
+                "url": "https://www.hola.com/realeza/casa_espanola/20260717913473/princesa-leonor-infanta-sofia-jovenes-encuentro-discapacidad/",
+                "source": "HOLA"
+            },
+            {
+                "title": "Jóvenes con discapacidad comparten con la Princesa Leonor y la Infanta Sofía las dificultades de su día a día",
+                "url": "https://www.infobae.com/espana/agencias/2026/07/17/jovenes-con-discapacidad-comparten-con-la-princesa-leonor-y-la-infanta-sofia-las-dificultades-de-su-dia-a-dia/",
+                "source": "Infobae"
+            },
+            {
+                "title": "Leonor y Sofía y su intensa actividad social: acuden a un taller de jóvenes con discapacidad",
+                "url": "https://www.20minutos.es/gente/leonor-sofia-su-intensa-actividad-social-acuden-un-taller-jovenes-con-discapacidad_7016085_0.html",
+                "source": "20Minutos"
+            }
+        ],
+        "timestamp": "2026-07-18T12:19:03.880267",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "guatemala",
+        "traffic": "100000+",
+        "growth": "1000%",
+        "activity_time": "21.3 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [
+            {
+                "title": "SISTEMA CONRED VERIFICA POSIBLES DAÑOS TRAS SISMO REGISTRADO EN EL OCCIDENTE DEL PAÍS",
+                "url": "https://conred.gob.gt/sistema-conred-verifica-posibles-danos-tras-sismo-registrado-en-el-occidente-del-pais/",
+                "source": "CONRED"
+            },
+            {
+                "title": "Cuánto duró el temblor de este 17 de julio: Servicio Sismológico de Guatemala lo explica",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/cuanto-duro-el-temblor-de-este-17-de-julio-servicio-sismologico-de-guatemala-lo-explica/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Mineduc suspende clases presenciales en cuatro departamentos este 17 de julio por fuerte temblor",
+                "url": "https://lahora.gt/nacionales/amtorres/2026/07/17/mineduc-suspende-clases-presenciales-en-cuatro-departamentos-este-17-de-julio-por-fuerte-sismo/",
+                "source": "La Hora"
+            }
+        ],
+        "timestamp": "2026-07-18T12:19:04.281356",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
