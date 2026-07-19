@@ -1,86 +1,87 @@
 [
     {
-        "title": "juicio",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "20.3 horas",
+        "title": "servicio de control de inmigración y aduanas",
+        "traffic": "500+",
+        "growth": "300%",
+        "activity_time": "17.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Caso Motorista zona 9: Jueza que liberó a Carlos Acevedo solo cubría vacaciones de jueza titular a cargo del juicio",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/16/caso-motorista-zona-9-jueza-que-libero-a-carlos-acevedo-solo-cubria-vacaciones-de-jueza-titular-a-cargo-del-juicio/",
-                "source": "La Hora"
+                "title": "Primera crisis como líder de seguridad nacional",
+                "url": "https://www.kget.com/telemundo/noticias/inmigracion-y-ciudadania/primera-crisis-como-lider-de-seguridad-nacional/",
+                "source": "KGET.com"
             },
             {
-                "title": "MP apela medidas sustitutivas a acusado de atropellar a Larkin Morales",
-                "url": "https://canalantigua.tv/2026/07/10/mp-apela-medidas-sustitutivas-a-acusado-de-atropellar-a-larkin-morales/",
-                "source": "Canal Antigua"
+                "title": "ICE han recibido la orden de dejar de realizar la mayoría de las paradas de vehículos, en un importante cambio de política",
+                "url": "https://noticias.foxnews.com/politics/ice-agents-instructed-end-most-vehicle-stops-major-policy-shift",
+                "source": "Fox News"
             },
             {
-                "title": "MP apela medidas sustitutivas otorgadas a señalado de embestir a motorista",
-                "url": "https://emisorasunidas.com/nacional/2026/07/10/ministerio-publico-apela-medidas-sustitutivas-carlos-acevedo-motorista/",
-                "source": "Emisoras Unidas"
+                "title": "Tres migrantes muertos en menos de 15 días",
+                "url": "https://www.kget.com/telemundo/noticias/inmigracion-y-ciudadania/tres-migrantes-muertos-en-menos-de-15-dias/",
+                "source": "KGET.com"
             }
         ],
-        "timestamp": "2026-07-18T12:19:03.774456",
+        "timestamp": "2026-07-19T12:19:07.930814",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "sofía de borbón",
-        "traffic": "1000+",
-        "growth": "700%",
-        "activity_time": "13.7 horas",
+        "title": "el niño",
+        "traffic": "100+",
+        "growth": "400%",
+        "activity_time": "3.3 horas",
         "topics": [
-            "Law and Government"
+            "Other"
         ],
         "news": [
             {
-                "title": "La princesa Leonor y la infanta Sofía, tras los pasos de la reina Letizia: los detalles de su inesperado encuentro con cuatro jóvenes con discapacidad",
-                "url": "https://www.hola.com/realeza/casa_espanola/20260717913473/princesa-leonor-infanta-sofia-jovenes-encuentro-discapacidad/",
-                "source": "HOLA"
+                "title": "Ya hay señales de El Niño en el océano Atlántico",
+                "url": "https://cnnespanol.cnn.com/2026/07/18/clima-y-tiempo/el-nino-senales-oceano-atlantico-trax",
+                "source": "CNN en Español"
             },
             {
-                "title": "Jóvenes con discapacidad comparten con la Princesa Leonor y la Infanta Sofía las dificultades de su día a día",
-                "url": "https://www.infobae.com/espana/agencias/2026/07/17/jovenes-con-discapacidad-comparten-con-la-princesa-leonor-y-la-infanta-sofia-las-dificultades-de-su-dia-a-dia/",
-                "source": "Infobae"
+                "title": "La anomalía térmica más rara en 40 años en el Atlántico: descubren una ‘Niña’ oculta que congelará la temporada de huracanes",
+                "url": "https://www.eluniverso.com/estados-unidos/servicio/la-anomalia-termica-mas-rara-en-40-anos-en-el-atlantico-descubren-una-nina-oculta-que-congelara-la-temporada-de-huracanes-nota/",
+                "source": "El Universo"
             },
             {
-                "title": "Leonor y Sofía y su intensa actividad social: acuden a un taller de jóvenes con discapacidad",
-                "url": "https://www.20minutos.es/gente/leonor-sofia-su-intensa-actividad-social-acuden-un-taller-jovenes-con-discapacidad_7016085_0.html",
-                "source": "20Minutos"
+                "title": "El Niño del Pacífico se encuentra con la Niña del Atlántico: ¿en qué cambia esto la temporada de huracanes para EE.UU.?",
+                "url": "https://albertonews.com/internacionales/el-nino-del-pacifico-se-encuentra-con-la-nina-del-atlantico-en-que-cambia-esto-la-temporada-de-huracanes-para-eeuu/",
+                "source": "AlbertoNews - Periodismo sin censura"
             }
         ],
-        "timestamp": "2026-07-18T12:19:03.880267",
+        "timestamp": "2026-07-19T12:19:08.122910",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "guatemala",
-        "traffic": "100000+",
-        "growth": "1000%",
-        "activity_time": "21.3 horas",
+        "title": "google",
+        "traffic": "200+",
+        "growth": "100%",
+        "activity_time": "9.5 horas",
         "topics": [
-            "Climate"
+            "Science",
+            "Technology"
         ],
         "news": [
             {
-                "title": "SISTEMA CONRED VERIFICA POSIBLES DAÑOS TRAS SISMO REGISTRADO EN EL OCCIDENTE DEL PAÍS",
-                "url": "https://conred.gob.gt/sistema-conred-verifica-posibles-danos-tras-sismo-registrado-en-el-occidente-del-pais/",
-                "source": "CONRED"
+                "title": "EU forces Google to share search data and open Android to rival AI companies",
+                "url": "https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45",
+                "source": "AP News"
             },
             {
-                "title": "Cuánto duró el temblor de este 17 de julio: Servicio Sismológico de Guatemala lo explica",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/cuanto-duro-el-temblor-de-este-17-de-julio-servicio-sismologico-de-guatemala-lo-explica/",
-                "source": "Prensa Libre"
+                "title": "Google is better than Apple at playing the AI regulations game",
+                "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+                "source": "The Verge"
             },
             {
-                "title": "Mineduc suspende clases presenciales en cuatro departamentos este 17 de julio por fuerte temblor",
-                "url": "https://lahora.gt/nacionales/amtorres/2026/07/17/mineduc-suspende-clases-presenciales-en-cuatro-departamentos-este-17-de-julio-por-fuerte-sismo/",
-                "source": "La Hora"
+                "title": "EU Gives Google Binding Instructions to Open Android to AI Rivals",
+                "url": "https://www.wsj.com/tech/eu-gives-google-binding-instructions-to-open-android-search-engine-data-to-ai-rivals-ad5004fb",
+                "source": "WSJ"
             }
         ],
-        "timestamp": "2026-07-18T12:19:04.281356",
+        "timestamp": "2026-07-19T12:19:08.157265",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
