@@ -1,84 +1,84 @@
 [
     {
-        "title": "congreso",
-        "traffic": "100+",
+        "title": "cártel de jalisco nueva generación",
+        "traffic": "1000+",
+        "growth": "900%",
+        "activity_time": "12.6 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Cae en México otro líder del Cartel Jalisco Nueva Generación",
+                "url": "https://www.dw.com/es/cae-en-m%C3%A9xico-otro-l%C3%ADder-del-cartel-jalisco-nueva-generaci%C3%B3n/a-78030853",
+                "source": "DW.com"
+            },
+            {
+                "title": "Trabajo interinstitucional coordinado logra asegurar en diferentes municipios de Nayarit",
+                "url": "https://nayaritnoticias.com/2026/07/20/trabajo-interinstitucional-coordinado-logra-asegurar-en-diferentes-municipios-de-nayarit-3/",
+                "source": "Nayarit Noticias"
+            },
+            {
+                "title": "Clave, la detención del M4",
+                "url": "https://www.parabolica.mx/2026/columnas/parabolica/item/8909-clave-la-detencion-del-m4",
+                "source": "Parabolica.mx"
+            }
+        ],
+        "timestamp": "2026-07-21T12:33:46.405945"
+    },
+    {
+        "title": "daniel ortega",
+        "traffic": "200+",
         "growth": "300%",
-        "activity_time": "3.1 horas",
+        "activity_time": "4.6 horas",
         "topics": [
             "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Congreso afina reforma al IUSI con rebaja para viviendas y compensación a municipalidades",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/19/mesa-multipartidaria-en-el-congreso-discute-mas-de-cinco-enmiendas-a-la-ley-del-iusi/",
-                "source": "La Hora"
+                "title": "Ortega declara el fin de la alternancia en Nicaragua: “Aquí no volverá a haber elecciones”",
+                "url": "https://cnnespanol.cnn.com/2026/07/20/latinoamerica/ortega-fin-elecciones-nicaragua-orix",
+                "source": "CNN en Español"
             },
             {
-                "title": "NOTICIERO LEGISLATIVO DEL 17-07-2026",
-                "url": "https://www.congreso.gob.gt/noticias_congreso/16490/2026/4",
-                "source": "Congreso de la República de Guatemala"
+                "title": "Daniel Ortega, presidente de Nicaragua, dice que planea abolir las elecciones",
+                "url": "https://www.nytimes.com/es/2026/07/20/espanol/america-latina/nicaragua-ortega-elecciones.html",
+                "source": "The New York Times"
             },
             {
-                "title": "PRINCIPALES AVANCES DE LA SEMANA",
-                "url": "https://www.congreso.gob.gt/noticias_congreso/16499/2026/4",
-                "source": "Congreso de la República de Guatemala"
+                "title": "Daniel Ortega liquida la vía electoral en Nicaragua: “Aquí no volverá a haber elecciones”",
+                "url": "https://elpais.com/america/2026-07-20/daniel-ortega-liquida-la-via-electoral-en-nicaragua-aqui-no-volvera-a-haber-elecciones.html",
+                "source": "EL PAÍS"
             }
         ],
-        "timestamp": "2026-07-20T12:44:16.531553"
+        "timestamp": "2026-07-21T12:33:46.680784"
     },
     {
-        "title": "partido",
-        "traffic": "1000+",
+        "title": "sorteo extraordinario 413 loteria santa lucia",
+        "traffic": "2000+",
         "growth": "600%",
-        "activity_time": "17.6 horas",
+        "activity_time": "23.7 horas",
         "topics": [
-            "Politics"
+            "Games"
         ],
         "news": [
             {
-                "title": "Por qué Kamala Harris sigue siendo la favorita del Partido Demócrata",
-                "url": "https://www.diario-red.com/articulo/internacional/que-kamala-harris-sigue-siendo-favorita-partido-democrata/20260717092503073064.html",
-                "source": "Diario Red"
-            },
-            {
-                "title": "\"Había un ambiente tan insoportable\": Deschamps se despide de la selección de Francia tras 14 años",
-                "url": "https://www.prensalibre.com/deportes/futbol-internacional/habia-un-ambiente-tan-insoportable-deschamps-se-despide-de-la-seleccion-de-francia-tras-14-anos-breaking/",
+                "title": "Lotería Santa Lucía: los tres números ganadores del Sorteo Extraordinario 413 y los premios para los números cercanos",
+                "url": "https://www.prensalibre.com/economia/loteria-santa-lucia-los-tres-numeros-ganadores-del-sorteo-extraordinario-413-y-los-premios-para-los-numeros-cercanos/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Quién es el máximo candidato a dirigir Francia tras el Mundial 2026",
-                "url": "https://www.directvsports.com/futbol/quien-es-el-maximo-candidato-a-dirigir-francia-tras-el-mundial-2026-20260717-0041.html",
-                "source": "DSports"
-            }
-        ],
-        "timestamp": "2026-07-20T12:44:17.005575"
-    },
-    {
-        "title": "vix",
-        "traffic": "200+",
-        "growth": "200%",
-        "activity_time": "20.7 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Brace for bumps? VIX chart hints at volatility ahead",
-                "url": "https://seekingalpha.com/news/4614942-brace-for-bumps-vix-chart-hints-at-volatility-ahead",
-                "source": "Seeking Alpha"
+                "title": "Premio mayor de Q5 millones se vende en zona 9 capitalina",
+                "url": "https://www.soy502.com/articulo/premio-mayor-q5-millones-vende-zona-9-capitalina-101337",
+                "source": "Soy502"
             },
             {
-                "title": "Khan 62",
-                "url": "https://www.binance.com/ar-AE/square/post/346049763159602",
-                "source": "Binance"
-            },
-            {
-                "title": "Wall Street’s 'fear gauge' jumps Thursday afternoon as tensions rise in Middle East",
-                "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-softer-than-expected-inflation-data-retail-sales-june/card/wall-street-s-fear-gauge-jumps-thursday-afternoon-as-tensions-rise-in-middle-east-wjSAVg0IsMM85dZZRpH1",
-                "source": "MarketWatch"
+                "title": "El billete ganador de Q5 millones ya tiene dueño: conoce el número premiado",
+                "url": "https://crnnoticias.com/el-billete-ganador-de-q5-millones-ya-tiene-dueno-conoce-el-numero-premiado/",
+                "source": "CRN Noticias"
             }
         ],
-        "timestamp": "2026-07-20T12:44:17.157239"
+        "timestamp": "2026-07-21T12:33:46.826614"
     }
 ]
