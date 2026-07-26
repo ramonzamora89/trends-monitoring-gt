@@ -1,86 +1,86 @@
 [
     {
-        "title": "subsidio",
-        "traffic": "1000+",
-        "growth": "700%",
-        "activity_time": "14.4 horas",
+        "title": "la hora",
+        "traffic": "2000+",
+        "growth": "800%",
+        "activity_time": "14.6 horas",
         "topics": [
-            "Other"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Nuevo subsidio a los combustibles: las tres medidas que anunció Arévalo",
-                "url": "https://www.prensalibre.com/economia/nuevo-subsidio-a-los-combustibles-las-tres-medidas-que-anuncio-arevalo/",
-                "source": "Prensa Libre"
+                "title": "Ataque armado en Boca del Monte deja al menos siete muertos y dos heridos",
+                "url": "https://www.soy502.com/articulo/ataque-armado-deja-al-menos-siete-muertos-dos-heridos-102052",
+                "source": "Soy502"
             },
             {
-                "title": "Presidente Arévalo presenta proyecto de ley de apoyo directo al precio del combustible",
-                "url": "https://agn.gt/presidente-arevalo-presenta-proyecto-de-ley-de-apoyo-directo-al-precio-del-combustible/",
-                "source": "Agencia Guatemalteca de Noticias"
-            },
-            {
-                "title": "Retransmisión: Presidente Bernardo Arévalo ofrece conferencia de prensa por alza a los combustibles",
-                "url": "https://lahora.gt/nacionales/jveliz/2026/07/24/retransmision-presidente-bernardo-arevalo-ofrece-conferencia-de-prensa-por-alza-a-los-combustibles/",
+                "title": "Masacre en Boca del Monte: ataque armado deja al menos seis fallecidos",
+                "url": "https://lahora.gt/nacionales/smorales/2026/07/25/masacre-en-boca-del-monte-ataque-armado-deja-al-menos-seis-fallecidos/",
                 "source": "La Hora"
+            },
+            {
+                "title": "Dos mujeres mueren a tiros en la aldea El Porvenir, Villa Canales",
+                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/dos-mujeres-mueren-a-tiros-en-la-aldea-el-porvenir-villa-canales/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-07-25T13:32:00.949762",
+        "timestamp": "2026-07-26T12:25:06.951687",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "universidad de san carlos de guatemala",
-        "traffic": "1000+",
-        "growth": "300%",
-        "activity_time": "13.4 horas",
+        "title": "prisión preventiva",
+        "traffic": "500+",
+        "growth": "400%",
+        "activity_time": "12.6 horas",
         "topics": [
-            "Jobs and Education"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Estudiantes presentan documentos emitidos en 2026 que contradicen la versión de la Usac sobre sus registros",
-                "url": "https://www.prensalibre.com/guatemala/politica/estudiantes-presentan-documentos-emitidos-en-2026-que-contradicen-la-version-de-la-usac-sobre-sus-registros/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Los expedientes de estudiantes de la Usac no pudieron perderse",
-                "url": "https://www.agenciaocote.com/blog/2026/07/24/un-analista-forense-y-los-estudiantes-explican-por-que-no-se-perdieron-sus-expedientes-en-la-usac/",
-                "source": "Agencia Ocote"
-            },
-            {
-                "title": "Represión de Mazariegos contra estudiantes deja expulsiones, órdenes de captura e información borrada",
-                "url": "https://lahora.gt/investigacion/la-hora/2026/07/25/represion-de-mazariegos-contra-estudiantes-deja-expulsiones-ordenes-de-captura-e-informacion-borrada/",
+                "title": "Comisión legislativa acuerda reformas a la ley para que prisión preventiva solo aplique en casos excepcionales",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/25/comision-legislativa-acuerda-reformas-a-la-ley-para-que-prision-preventiva-solo-aplique-en-casos-excepcionales/",
                 "source": "La Hora"
+            },
+            {
+                "title": "La comisión del Congreso avala una reforma para redefinir la prisión preventiva en Guatemala",
+                "url": "https://www.infobae.com/guatemala/2026/07/25/la-comision-del-congreso-avala-una-reforma-para-redefinir-la-prision-preventiva-en-guatemala/",
+                "source": "Infobae"
+            },
+            {
+                "title": "Avalan reformas para prisión provisional",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/avalan-reformas-para-prision-provisional/",
+                "source": "Diario de Centro América"
             }
         ],
-        "timestamp": "2026-07-25T13:32:01.212026",
+        "timestamp": "2026-07-26T12:25:07.056885",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "gabriel garcía luna",
-        "traffic": "100+",
+        "title": "noticia",
+        "traffic": "10000+",
         "growth": "1000%",
-        "activity_time": "1.2 horas",
+        "activity_time": "21.1 horas",
         "topics": [
             "Other"
         ],
         "news": [
             {
-                "title": "En las próximas semanas el MP de García Luna revelaría los primeros casos tras depuración de fiscalías",
-                "url": "https://lahora.gt/nacionales/la-hora/2026/07/24/garcia-luna-preve-que-en-las-proximas-semanas-revelen-los-primeros-casos-tras-depuracion-del-mp-now/",
-                "source": "La Hora"
+                "title": "El escándalo de los juegos con malware en Steam da un giro con el arresto de uno de sus presuntos responsables",
+                "url": "https://areajugones.sport.es/videojuegos/el-escandalo-de-los-juegos-con-malware-en-steam-da-un-giro-con-el-arresto-de-uno-de-sus-presuntos-responsables/",
+                "source": "Areajugones"
             },
             {
-                "title": "Fiscal general Gabriel García Luna: \"Detectar varias deficiencias en el MP abrió oportunidades\"",
-                "url": "https://canalantigua.tv/2026/07/24/fiscal-general-gabriel-garcia-luna-detectar-varias-deficiencias-en-el-mp-abrio-oportunidades/",
-                "source": "Canal Antigua"
+                "title": "Un estudiante de 21 años publicaba juegos con virus en Steam para capturar claves y datos: infectó 8000 computadoras",
+                "url": "https://tn.com.ar/tecno/novedades/2026/07/24/un-estudiante-de-21-anos-publicaba-juegos-con-virus-en-steam-para-capturar-claves-y-datos-infecto-8000-computadoras/",
+                "source": "TN"
             },
             {
-                "title": "García Luna señala resistencia de estructuras que buscan aprovecharse de supuestas influencias en el MP",
-                "url": "https://lahora.gt/nacionales/ypena/2026/07/24/garcia-luna-senala-resistencia-de-estructuras-que-buscan-aprovecharse-de-supuestas-influencias-en-el-mp/",
-                "source": "La Hora"
+                "title": "Detienen a un estudiante por ocultar malware en juegos de Steam: infectó 8.000 ordenadores y robó 220.000 dólares",
+                "url": "https://www.20minutos.es/tecnologia/ciberseguridad/detienen-un-estudiante-por-ocultar-malware-juegos-steam-infecto-8-000-ordenadores-robo-220-000-dolares_7018035_0.html",
+                "source": "20Minutos"
             }
         ],
-        "timestamp": "2026-07-25T13:32:01.355099",
+        "timestamp": "2026-07-26T12:25:07.349010",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
