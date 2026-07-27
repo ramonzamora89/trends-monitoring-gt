@@ -1,86 +1,88 @@
 [
     {
-        "title": "la hora",
+        "title": "licencia",
         "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "14.6 horas",
+        "growth": "1000%",
+        "activity_time": "19.2 horas",
         "topics": [
-            "Law and Government"
+            "Law and Government",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "Ataque armado en Boca del Monte deja al menos siete muertos y dos heridos",
-                "url": "https://www.soy502.com/articulo/ataque-armado-deja-al-menos-siete-muertos-dos-heridos-102052",
+                "title": "Conductor con licencia falsa podría enfrentar proceso penal",
+                "url": "https://www.soy502.com/articulo/conductor-licencia-falsa-podria-enfrentar-proceso-penal-102154",
                 "source": "Soy502"
             },
             {
-                "title": "Masacre en Boca del Monte: ataque armado deja al menos seis fallecidos",
-                "url": "https://lahora.gt/nacionales/smorales/2026/07/25/masacre-en-boca-del-monte-ataque-armado-deja-al-menos-seis-fallecidos/",
+                "title": "Hombre es descubierto con licencia falsa durante operativo y recibe multa de Q1 mil",
+                "url": "https://lahora.gt/nacionales/ypena/2026/07/24/hombre-es-descubierto-con-licencia-falsa-durante-operativo-y-recibe-multa-de-q1-mil/",
                 "source": "La Hora"
             },
             {
-                "title": "Dos mujeres mueren a tiros en la aldea El Porvenir, Villa Canales",
-                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/dos-mujeres-mueren-a-tiros-en-la-aldea-el-porvenir-villa-canales/",
-                "source": "Prensa Libre"
+                "title": "Conductor es sorprendido con licencia de conducir falsa en zona 10",
+                "url": "https://www.publinews.gt/noticias/2026/07/24/conductor-es-sorprendido-con-licencia-de-conducir-falsa-en-zona-10/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-07-26T12:25:06.951687",
+        "timestamp": "2026-07-27T13:04:25.469102",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "prisión preventiva",
-        "traffic": "500+",
-        "growth": "400%",
-        "activity_time": "12.6 horas",
+        "title": "vix",
+        "traffic": "1000+",
+        "growth": "200%",
+        "activity_time": "11.7 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Comisión legislativa acuerda reformas a la ley para que prisión preventiva solo aplique en casos excepcionales",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/25/comision-legislativa-acuerda-reformas-a-la-ley-para-que-prision-preventiva-solo-aplique-en-casos-excepcionales/",
-                "source": "La Hora"
+                "title": "India VIX Falls 9.76% as Markets End Higher, Fear Gauge Retreats After Four-Day Rise",
+                "url": "https://hdfcsky.com/news/india-vix-slides-10percent-as-market-volatility-eases",
+                "source": "HDFC Sky"
             },
             {
-                "title": "La comisión del Congreso avala una reforma para redefinir la prisión preventiva en Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/07/25/la-comision-del-congreso-avala-una-reforma-para-redefinir-la-prision-preventiva-en-guatemala/",
-                "source": "Infobae"
+                "title": "Gold Rate in Chennai Today: 24K Gold at ₹14,729 on July 24",
+                "url": "https://hdfcsky.com/news/gold-rate-in-chennai-today-july-24-2026-24k-gold-at-rs-14729-per-gram",
+                "source": "HDFC Sky"
             },
             {
-                "title": "Avalan reformas para prisión provisional",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/avalan-reformas-para-prision-provisional/",
-                "source": "Diario de Centro América"
+                "title": "India VIX Holds at 12.75 As Geopolitical Risks and Earnings Keep Volatility Elevated",
+                "url": "https://hdfcsky.com/news/india-vix-steadies-at-12-75-amid-global-uncertainty",
+                "source": "HDFC Sky"
             }
         ],
-        "timestamp": "2026-07-26T12:25:07.056885",
+        "timestamp": "2026-07-27T13:04:25.592319",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "noticia",
-        "traffic": "10000+",
-        "growth": "1000%",
-        "activity_time": "21.1 horas",
+        "title": "multa",
+        "traffic": "1000+",
+        "growth": "600%",
+        "activity_time": "20.7 horas",
         "topics": [
-            "Other"
+            "Law and Government",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "El escándalo de los juegos con malware en Steam da un giro con el arresto de uno de sus presuntos responsables",
-                "url": "https://areajugones.sport.es/videojuegos/el-escandalo-de-los-juegos-con-malware-en-steam-da-un-giro-con-el-arresto-de-uno-de-sus-presuntos-responsables/",
-                "source": "Areajugones"
+                "title": "La multa a conductores por bloquear salidas de portones",
+                "url": "https://www.publinews.gt/noticias/2026/07/25/la-multa-a-conductores-por-bloquear-salidas-de-portones/",
+                "source": "Publinews"
             },
             {
-                "title": "Un estudiante de 21 años publicaba juegos con virus en Steam para capturar claves y datos: infectó 8000 computadoras",
-                "url": "https://tn.com.ar/tecno/novedades/2026/07/24/un-estudiante-de-21-anos-publicaba-juegos-con-virus-en-steam-para-capturar-claves-y-datos-infecto-8000-computadoras/",
-                "source": "TN"
+                "title": "Comisión Europea multa a Google con €890 millones",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/comision-europea-multa-a-google-con-e890-millones/",
+                "source": "Diario de Centro América"
             },
             {
-                "title": "Detienen a un estudiante por ocultar malware en juegos de Steam: infectó 8.000 ordenadores y robó 220.000 dólares",
-                "url": "https://www.20minutos.es/tecnologia/ciberseguridad/detienen-un-estudiante-por-ocultar-malware-juegos-steam-infecto-8-000-ordenadores-robo-220-000-dolares_7018035_0.html",
-                "source": "20Minutos"
+                "title": "Trump amenaza con nuevos aranceles contra la Unión Europea",
+                "url": "https://emisorasunidas.com/internacionales/2026/07/24/trump-amenaza-nuevos-aranceles-ue/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-07-26T12:25:07.349010",
+        "timestamp": "2026-07-27T13:04:25.857722",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
