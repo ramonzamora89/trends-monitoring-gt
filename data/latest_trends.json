@@ -1,68 +1,84 @@
 [
     {
-        "title": "jubilación",
-        "traffic": "200+",
+        "title": "tribunal de justicia",
+        "traffic": "500+",
         "growth": "400%",
-        "activity_time": "2.6 horas",
+        "activity_time": "18.5 horas",
         "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "El gasto en pensiones alcanza la cifra récord de 14.431 millones de euros",
-                "url": "https://www.lavozdegalicia.es/noticia/economia/2026/07/28/gasto-pensiones-alzanza-cifra-record-14431-millones-euros/00031785232013048274958.htm",
-                "source": "La Voz de Galicia"
-            },
-            {
-                "title": "El gasto en pensiones aumenta un 6,2% en julio con la nómina media de jubilación en 1.573 euros",
-                "url": "https://www.expansion.com/economia/2026/07/28/6a685e0e468aeb90198b45a6.html",
-                "source": "Expansión"
-            },
-            {
-                "title": "La pensión media de jubilación en León es de 1.370 euros, un 4,74% más que hace un año",
-                "url": "https://www.leonoticias.com/leon/pension-media-jubilacion-leon-1370-euros-474-20260728105046-nt.html",
-                "source": "Leonoticias"
-            }
-        ],
-        "timestamp": "2026-07-28T12:37:34.653035"
-    },
-    {
-        "title": "transporte",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "16.5 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [],
-        "timestamp": "2026-07-28T12:37:35.022621"
-    },
-    {
-        "title": "bono",
-        "traffic": "100+",
-        "growth": "800%",
-        "activity_time": "11.1 horas",
-        "topics": [
-            "Business and Finance",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Bono Social beneficia a más de 186 mil familias",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/bono-social-beneficia-a-mas-de-186-mil-familias/",
-                "source": "Diario de Centro América"
-            },
-            {
-                "title": "Qué se sabe del enfrentamiento armado que dejó un agente de la PNC y un civil fallecidos en Amatitlán",
-                "url": "https://www.prensalibre.com/guatemala/sucesos/que-se-sabe-del-enfrentamiento-armado-que-dejo-un-agente-de-la-pnc-y-un-civil-fallecidos-en-amatitlan-breaking/",
+                "title": "CC deja firme la libertad de Jose Rubén Zamora al aceptar desistimiento del MP",
+                "url": "https://www.prensalibre.com/guatemala/justicia/cc-deja-firme-la-libertad-de-jose-ruben-zamora-al-aceptar-el-desistimiento-del-mp-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Realizan las honras fúnebres del agente fallecido en ataque de Amatitlán",
-                "url": "https://www.soy502.com/articulo/asi-llevaron-cabo-honras-funebres-agente-pnc-fallecido-102123",
+                "title": "CC acepta memorial y confirma libertad de José Rubén Zamora",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/28/cc-acepta-memorial-y-confirma-libertad-de-jose-ruben-zamora/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Guatemala: Un pequeño resquicio en un sistema judicial secuestrado",
+                "url": "https://ipsnoticias.net/2026/07/guatemala-un-pequeno-resquicio-en-un-sistema-judicial-secuestrado/",
+                "source": "IPS Agencia de Noticias"
+            }
+        ],
+        "timestamp": "2026-07-29T12:42:45.504812"
+    },
+    {
+        "title": "multas",
+        "traffic": "100+",
+        "growth": "200%",
+        "activity_time": "20.2 horas",
+        "topics": [
+            "Law and Government",
+            "Autos and Vehicles"
+        ],
+        "news": [
+            {
+                "title": "28 Multas No Fueron Suficientes: Vuelve A Ser Detenido Por Incumplir La Ley",
+                "url": "https://www.lared1061.com/posts/28-multas-no-fueron-suficientes-vuelve-a-ser-detenido-por-incumplir-la-ley",
+                "source": "La Red 106.1 FM"
+            },
+            {
+                "title": "Interceptan a conductor tras cruzar en rojo: acumulaba 28 multas",
+                "url": "https://www.soy502.com/articulo/interceptan-conductor-tras-cruzar-rojo-acumulaba-28-multas-24039",
+                "source": "Soy502"
+            },
+            {
+                "title": "Consignan carro por tener 28 multas pendientes de pago",
+                "url": "https://www.publinews.gt/noticias/2026/07/28/consignan-carro-por-tener-28-multas-pendientes-de-pago/",
+                "source": "Publinews"
+            }
+        ],
+        "timestamp": "2026-07-29T12:42:45.684094"
+    },
+    {
+        "title": "epicentro",
+        "traffic": "10000+",
+        "growth": "1000%",
+        "activity_time": "20.7 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [
+            {
+                "title": "Temblores en Guatemala: sismo de magnitud 6.2 y réplicas reportadas por Insivumeh en las últimas horas",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-28-de-julio-de-2026-en-guatemala-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Insivumeh reporta 51 sismos en las últimas 24 horas, solo uno fue sensible",
+                "url": "https://agn.gt/insivumeh-reporta-51-sismos-en-las-ultimas-24-horas-solo-uno-fue-sensible/",
+                "source": "Agencia Guatemalteca de Noticias"
+            },
+            {
+                "title": "Temblor de 4.3 sacude parte del territorio nacional esta mañana de sábado",
+                "url": "https://www.soy502.com/articulo/temblor-43-sacude-parte-pais-esta-manana-sabado-101026",
                 "source": "Soy502"
             }
         ],
-        "timestamp": "2026-07-28T12:37:35.282020"
+        "timestamp": "2026-07-29T12:42:45.876942"
     }
 ]
