@@ -1,84 +1,70 @@
 [
     {
-        "title": "tribunal de justicia",
-        "traffic": "500+",
-        "growth": "400%",
-        "activity_time": "18.5 horas",
+        "title": "iusi",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "14.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "CC deja firme la libertad de Jose Rubén Zamora al aceptar desistimiento del MP",
-                "url": "https://www.prensalibre.com/guatemala/justicia/cc-deja-firme-la-libertad-de-jose-ruben-zamora-al-aceptar-el-desistimiento-del-mp-breaking/",
+                "title": "ÚLTIMAS NOTICIAS DE INSTITUTO PARA LA COMPETITIVIDAD ECONÓMICA (ICE)",
+                "url": "https://www.prensalibre.com/tema/instituto-para-la-competitividad-economica-ice/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "CC acepta memorial y confirma libertad de José Rubén Zamora",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/07/28/cc-acepta-memorial-y-confirma-libertad-de-jose-ruben-zamora/",
+                "title": "Aprueban eliminación del IUSI para viviendas y fijan monto de hasta 9 por millar para los inmuebles de uso comercial",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/29/aprueban-eliminacion-total-del-iusi-para-viviendas-y-fijan-en-9-por-millar-para-los-inmuebles-de-uso-comercial/",
                 "source": "La Hora"
             },
             {
-                "title": "Guatemala: Un pequeño resquicio en un sistema judicial secuestrado",
-                "url": "https://ipsnoticias.net/2026/07/guatemala-un-pequeno-resquicio-en-un-sistema-judicial-secuestrado/",
-                "source": "IPS Agencia de Noticias"
+                "title": "Minfín advierte impacto por cambios tributarios",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/minfin-advierte-impacto-por-cambios-tributarios/",
+                "source": "Diario de Centro América"
             }
         ],
-        "timestamp": "2026-07-29T12:42:45.504812"
+        "timestamp": "2026-07-30T12:35:21.190480",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "multas",
-        "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "20.2 horas",
-        "topics": [
-            "Law and Government",
-            "Autos and Vehicles"
-        ],
-        "news": [
-            {
-                "title": "28 Multas No Fueron Suficientes: Vuelve A Ser Detenido Por Incumplir La Ley",
-                "url": "https://www.lared1061.com/posts/28-multas-no-fueron-suficientes-vuelve-a-ser-detenido-por-incumplir-la-ley",
-                "source": "La Red 106.1 FM"
-            },
-            {
-                "title": "Interceptan a conductor tras cruzar en rojo: acumulaba 28 multas",
-                "url": "https://www.soy502.com/articulo/interceptan-conductor-tras-cruzar-rojo-acumulaba-28-multas-24039",
-                "source": "Soy502"
-            },
-            {
-                "title": "Consignan carro por tener 28 multas pendientes de pago",
-                "url": "https://www.publinews.gt/noticias/2026/07/28/consignan-carro-por-tener-28-multas-pendientes-de-pago/",
-                "source": "Publinews"
-            }
-        ],
-        "timestamp": "2026-07-29T12:42:45.684094"
-    },
-    {
-        "title": "epicentro",
-        "traffic": "10000+",
+        "title": "magistrado",
+        "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "20.7 horas",
+        "activity_time": "19.9 horas",
         "topics": [
-            "Climate"
+            "Law and Government"
+        ],
+        "news": [],
+        "timestamp": "2026-07-30T12:35:21.380128",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "emisoras unidas",
+        "traffic": "100+",
+        "growth": "500%",
+        "activity_time": "5.6 horas",
+        "topics": [
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Temblores en Guatemala: sismo de magnitud 6.2 y réplicas reportadas por Insivumeh en las últimas horas",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-28-de-julio-de-2026-en-guatemala-breaking/",
+                "title": "Plazo para el pago del impuesto de circulación se amplía hasta el 31 de diciembre: lo que deben saber los contribuyentes",
+                "url": "https://www.prensalibre.com/economia/plazo-para-el-pago-del-impuesto-de-circulacion-se-amplia-hasta-el-31-de-diciembre-lo-que-deben-saber-los-contribuyentes/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Insivumeh reporta 51 sismos en las últimas 24 horas, solo uno fue sensible",
-                "url": "https://agn.gt/insivumeh-reporta-51-sismos-en-las-ultimas-24-horas-solo-uno-fue-sensible/",
-                "source": "Agencia Guatemalteca de Noticias"
+                "title": "Congreso aprueba de urgencia nacional prórroga al pago del impuesto de circulación hasta el 31 de diciembre",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/congreso-aprueba-de-urgencia-nacional-prorroga-al-pago-del-impuesto-de-circulacion-hasta-el-31-de-diciembre/",
+                "source": "Diario de Centro América"
             },
             {
-                "title": "Temblor de 4.3 sacude parte del territorio nacional esta mañana de sábado",
-                "url": "https://www.soy502.com/articulo/temblor-43-sacude-parte-pais-esta-manana-sabado-101026",
+                "title": "El llamado de la SAT para quienes no han pagado el impuesto de circulación",
+                "url": "https://www.soy502.com/articulo/llamado-sat-quienes-no-han-pagado-impuesto-101026",
                 "source": "Soy502"
             }
         ],
-        "timestamp": "2026-07-29T12:42:45.876942"
+        "timestamp": "2026-07-30T12:35:21.534542",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
