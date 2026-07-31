@@ -1,70 +1,68 @@
 [
     {
-        "title": "iusi",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "14.9 horas",
+        "title": "rafael curruchiche",
+        "traffic": "200+",
+        "growth": "500%",
+        "activity_time": "2.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "ÚLTIMAS NOTICIAS DE INSTITUTO PARA LA COMPETITIVIDAD ECONÓMICA (ICE)",
-                "url": "https://www.prensalibre.com/tema/instituto-para-la-competitividad-economica-ice/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Aprueban eliminación del IUSI para viviendas y fijan monto de hasta 9 por millar para los inmuebles de uso comercial",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/29/aprueban-eliminacion-total-del-iusi-para-viviendas-y-fijan-en-9-por-millar-para-los-inmuebles-de-uso-comercial/",
+                "title": "Estructura judicial vinculada al anterior MP salva a Curruchiche y Sánchez de su primera orden de captura",
+                "url": "https://lahora.gt/investigacion/diego/2026/07/30/estructura-judicial-vinculada-al-anterior-mp-salva-a-curruchiche-y-sanchez-de-su-primera-orden-de-captura/",
                 "source": "La Hora"
             },
             {
-                "title": "Minfín advierte impacto por cambios tributarios",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/minfin-advierte-impacto-por-cambios-tributarios/",
-                "source": "Diario de Centro América"
+                "title": "Juez deniega orden de captura contra Rafael Curruchiche y Saúl Sánchez",
+                "url": "https://emisorasunidas.com/nacional/2026/07/30/juez-deniena-orden-de-captura-contra-rafael-curruchiche-y-saul-sanchez/",
+                "source": "Emisoras Unidas"
+            },
+            {
+                "title": "Jueza rechaza órdenes de captura contra exfiscales Rafael Curruchiche y Saúl Sánchez",
+                "url": "https://www.soy502.com/articulo/jueza-rechaza-ordenes-captura-contra-exfiscales-102123",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-07-30T12:35:21.190480",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+        "timestamp": "2026-07-31T12:39:07.297817"
     },
     {
-        "title": "magistrado",
-        "traffic": "2000+",
+        "title": "marco antonio villeda",
+        "traffic": "200+",
+        "growth": "700%",
+        "activity_time": "12.7 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Mingob presenta dos iniciativas de ley para reformar el Código Procesal Penal",
+                "url": "https://canalantigua.tv/2026/07/30/mingob-presenta-dos-iniciativas-de-ley-para-reformar-el-codigo-procesal-penal/",
+                "source": "Canal Antigua"
+            },
+            {
+                "title": "Ministro de Gobernación propone reformar el Código Penal",
+                "url": "https://www.publinews.gt/noticias/2026/07/30/ministro-marco-villeda-propone-reformar-el-codigo-penal-control-telematico/",
+                "source": "Publinews"
+            },
+            {
+                "title": "Impulsarán reforma para impedir medidas sustitutivas por portación ilegal de armas",
+                "url": "https://www.soy502.com/articulo/buscan-portacion-ilegal-arma-no-tenga-medida-sustitutiva-102052",
+                "source": "Soy502"
+            }
+        ],
+        "timestamp": "2026-07-31T12:39:07.408490"
+    },
+    {
+        "title": "explosivo",
+        "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "19.9 horas",
+        "activity_time": "14.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [],
-        "timestamp": "2026-07-30T12:35:21.380128",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "emisoras unidas",
-        "traffic": "100+",
-        "growth": "500%",
-        "activity_time": "5.6 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Plazo para el pago del impuesto de circulación se amplía hasta el 31 de diciembre: lo que deben saber los contribuyentes",
-                "url": "https://www.prensalibre.com/economia/plazo-para-el-pago-del-impuesto-de-circulacion-se-amplia-hasta-el-31-de-diciembre-lo-que-deben-saber-los-contribuyentes/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Congreso aprueba de urgencia nacional prórroga al pago del impuesto de circulación hasta el 31 de diciembre",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/congreso-aprueba-de-urgencia-nacional-prorroga-al-pago-del-impuesto-de-circulacion-hasta-el-31-de-diciembre/",
-                "source": "Diario de Centro América"
-            },
-            {
-                "title": "El llamado de la SAT para quienes no han pagado el impuesto de circulación",
-                "url": "https://www.soy502.com/articulo/llamado-sat-quienes-no-han-pagado-impuesto-101026",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-07-30T12:35:21.534542",
+        "timestamp": "2026-07-31T12:39:07.502349",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
