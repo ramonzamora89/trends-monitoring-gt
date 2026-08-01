@@ -1,68 +1,87 @@
 [
     {
-        "title": "rafael curruchiche",
+        "title": "viceministro",
         "traffic": "200+",
+        "growth": "900%",
+        "activity_time": "11.7 horas",
+        "topics": [
+            "Law and Government",
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Renuncia la viceministra Valeria Prado y el Gabinete Económico suma su segunda baja en un mes",
+                "url": "https://www.prensalibre.com/economia/renuncia-la-viceministra-valeria-prado-y-el-gabinete-economico-suma-su-segunda-baja-en-un-mes/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Viceministro de Energía es removido tras dos meses de gestión",
+                "url": "https://www.soy502.com/articulo/viceministro-energia-removido-tras-dos-meses-gestion-102154",
+                "source": "Soy502"
+            },
+            {
+                "title": "Nuevos cambios en el Gobierno: renuncian viceministros de Economía y Energía",
+                "url": "https://lahora.gt/lh-economia/redaccioneconomia/2026/07/31/nuevos-cambios-en-el-gobierno-renuncian-viceministros-de-energia-y-economia/",
+                "source": "La Hora"
+            }
+        ],
+        "timestamp": "2026-08-01T12:22:33.292321",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "decreto 18 2026",
+        "traffic": "500+",
         "growth": "500%",
-        "activity_time": "2.5 horas",
+        "activity_time": "14.2 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Estructura judicial vinculada al anterior MP salva a Curruchiche y Sánchez de su primera orden de captura",
-                "url": "https://lahora.gt/investigacion/diego/2026/07/30/estructura-judicial-vinculada-al-anterior-mp-salva-a-curruchiche-y-sanchez-de-su-primera-orden-de-captura/",
+                "title": "¿Cero por millar o cero certeza?",
+                "url": "https://www.prensalibre.com/opinion/columnasdiarias/cero-por-millar-o-cero-certeza/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Decreto 18-2026: esta es la versión final de los cambios al IUSI aprobados en el Congreso",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/31/decreto18-2026-esta-es-la-version-final-de-los-cambios-al-iusi-aprobados-en-el-congreso/",
                 "source": "La Hora"
             },
             {
-                "title": "Juez deniega orden de captura contra Rafael Curruchiche y Saúl Sánchez",
-                "url": "https://emisorasunidas.com/nacional/2026/07/30/juez-deniena-orden-de-captura-contra-rafael-curruchiche-y-saul-sanchez/",
-                "source": "Emisoras Unidas"
-            },
-            {
-                "title": "Jueza rechaza órdenes de captura contra exfiscales Rafael Curruchiche y Saúl Sánchez",
-                "url": "https://www.soy502.com/articulo/jueza-rechaza-ordenes-captura-contra-exfiscales-102123",
-                "source": "Soy502"
+                "title": "Diputados piden veto presidencial a reformas del IUSI",
+                "url": "https://www.publinews.gt/noticias/2026/07/30/samuel-perez-solicita-veto-presidencial-a-reformas-del-iusi/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-07-31T12:39:07.297817"
+        "timestamp": "2026-08-01T12:22:33.340340",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "marco antonio villeda",
+        "title": "impuesto de circulación 2026",
         "traffic": "200+",
-        "growth": "700%",
-        "activity_time": "12.7 horas",
+        "growth": "500%",
+        "activity_time": "12.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Mingob presenta dos iniciativas de ley para reformar el Código Procesal Penal",
-                "url": "https://canalantigua.tv/2026/07/30/mingob-presenta-dos-iniciativas-de-ley-para-reformar-el-codigo-procesal-penal/",
-                "source": "Canal Antigua"
+                "title": "SAT señala que hoy es último día para pagar calcomanía",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/sat-senala-que-hoy-es-ultimo-dia-para-pagar-calcomania/",
+                "source": "Diario de Centro América"
             },
             {
-                "title": "Ministro de Gobernación propone reformar el Código Penal",
-                "url": "https://www.publinews.gt/noticias/2026/07/30/ministro-marco-villeda-propone-reformar-el-codigo-penal-control-telematico/",
-                "source": "Publinews"
+                "title": "“Pan para hoy y hambre para mañana”: expertos analizan ampliación del plazo para pagar el impuesto de circulación",
+                "url": "https://www.prensalibre.com/economia/pan-para-hoy-y-hambre-para-manana-expertos-analizan-ampliacion-del-plazo-para-pagar-el-impuesto-de-circulacion/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Impulsarán reforma para impedir medidas sustitutivas por portación ilegal de armas",
-                "url": "https://www.soy502.com/articulo/buscan-portacion-ilegal-arma-no-tenga-medida-sustitutiva-102052",
+                "title": "Prórroga a Impuesto de Circulación: SAT facilita cobro desde APP",
+                "url": "https://www.soy502.com/articulo/prorroga-impuesto-circulacion-sat-facilita-cobro-desde-app-102123",
                 "source": "Soy502"
             }
         ],
-        "timestamp": "2026-07-31T12:39:07.408490"
-    },
-    {
-        "title": "explosivo",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "14.5 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [],
-        "timestamp": "2026-07-31T12:39:07.502349",
+        "timestamp": "2026-08-01T12:22:33.470497",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
