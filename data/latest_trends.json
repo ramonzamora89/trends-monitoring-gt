@@ -1,87 +1,70 @@
 [
     {
-        "title": "viceministro",
-        "traffic": "200+",
-        "growth": "900%",
-        "activity_time": "11.7 horas",
+        "title": "la hora",
+        "traffic": "100+",
+        "growth": "600%",
+        "activity_time": "1.6 horas",
         "topics": [
-            "Law and Government",
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Leidy Zambrano, la joven colombiana que está desaparecida en Guatemala",
+                "url": "https://www.soy502.com/articulo/leidy-zambrano-colombiana-esta-desaparecida-guatemala-102077",
+                "source": "Soy502"
+            },
+            {
+                "title": "Localizan a Leidy Mariana, la colombiana-estadounidense, desaparecida desde el 13 de julio",
+                "url": "https://lahora.gt/nacionales/ypena/2026/08/01/localizan-a-leidy-mariana-la-colombiana-estadounidense-desaparecida-desde-el-13-de-julio-now/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Activaron una alerta por la desaparición de una turista colombiana-estadounidense en Ciudad de Guatemala",
+                "url": "https://www.infobae.com/guatemala/2026/07/31/activaron-una-alerta-por-la-desaparicion-de-una-turista-colombiana-estadounidense-en-ciudad-de-guatemala/",
+                "source": "Infobae"
+            }
+        ],
+        "timestamp": "2026-08-02T12:23:53.198892",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "cinemark",
+        "traffic": "500+",
+        "growth": "100%",
+        "activity_time": "15.1 horas",
+        "topics": [
             "Business and Finance"
         ],
         "news": [
             {
-                "title": "Renuncia la viceministra Valeria Prado y el Gabinete Económico suma su segunda baja en un mes",
-                "url": "https://www.prensalibre.com/economia/renuncia-la-viceministra-valeria-prado-y-el-gabinete-economico-suma-su-segunda-baja-en-un-mes/",
-                "source": "Prensa Libre"
+                "title": "Cinemark, Marcus CEOs On Box Office Rebound: Younger Audiences, Longer Windows, Balanced Mix Of Films",
+                "url": "https://deadline.com/2026/07/cinemark-marcus-exhibition-ceos-box-office-theatrical-windows-1237013702/",
+                "source": "Deadline"
             },
             {
-                "title": "Viceministro de Energía es removido tras dos meses de gestión",
-                "url": "https://www.soy502.com/articulo/viceministro-energia-removido-tras-dos-meses-gestion-102154",
-                "source": "Soy502"
+                "title": "CNK SWOT Analysis: Strong Revenue Growth Amidst Market Challenges Revealed in 10-Q Filing",
+                "url": "https://www.gurufocus.com/news/8993707/cnk-swot-analysis-strong-revenue-growth-amidst-market-challenges-revealed-in-10q-filing?mobile=true",
+                "source": "GuruFocus"
             },
             {
-                "title": "Nuevos cambios en el Gobierno: renuncian viceministros de Economía y Energía",
-                "url": "https://lahora.gt/lh-economia/redaccioneconomia/2026/07/31/nuevos-cambios-en-el-gobierno-renuncian-viceministros-de-energia-y-economia/",
-                "source": "La Hora"
+                "title": "☀️ Hits Push CINEMARK to All-Time 💰 High",
+                "url": "https://theankler.com/hits-push-cinemark-to-all-time-money-high/",
+                "source": "The Ankler"
             }
         ],
-        "timestamp": "2026-08-01T12:22:33.292321",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "decreto 18 2026",
-        "traffic": "500+",
-        "growth": "500%",
-        "activity_time": "14.2 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "¿Cero por millar o cero certeza?",
-                "url": "https://www.prensalibre.com/opinion/columnasdiarias/cero-por-millar-o-cero-certeza/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Decreto 18-2026: esta es la versión final de los cambios al IUSI aprobados en el Congreso",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/07/31/decreto18-2026-esta-es-la-version-final-de-los-cambios-al-iusi-aprobados-en-el-congreso/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Diputados piden veto presidencial a reformas del IUSI",
-                "url": "https://www.publinews.gt/noticias/2026/07/30/samuel-perez-solicita-veto-presidencial-a-reformas-del-iusi/",
-                "source": "Publinews"
-            }
-        ],
-        "timestamp": "2026-08-01T12:22:33.340340",
+        "timestamp": "2026-08-02T12:23:53.386407",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "impuesto de circulación 2026",
-        "traffic": "200+",
-        "growth": "500%",
-        "activity_time": "12.9 horas",
+        "title": "explosivo",
+        "traffic": "500+",
+        "growth": "600%",
+        "activity_time": "23.7 horas",
         "topics": [
             "Law and Government"
         ],
-        "news": [
-            {
-                "title": "SAT señala que hoy es último día para pagar calcomanía",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/sat-senala-que-hoy-es-ultimo-dia-para-pagar-calcomania/",
-                "source": "Diario de Centro América"
-            },
-            {
-                "title": "“Pan para hoy y hambre para mañana”: expertos analizan ampliación del plazo para pagar el impuesto de circulación",
-                "url": "https://www.prensalibre.com/economia/pan-para-hoy-y-hambre-para-manana-expertos-analizan-ampliacion-del-plazo-para-pagar-el-impuesto-de-circulacion/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Prórroga a Impuesto de Circulación: SAT facilita cobro desde APP",
-                "url": "https://www.soy502.com/articulo/prorroga-impuesto-circulacion-sat-facilita-cobro-desde-app-102123",
-                "source": "Soy502"
-            }
-        ],
-        "timestamp": "2026-08-01T12:22:33.470497",
+        "news": [],
+        "timestamp": "2026-08-02T12:23:53.586561",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
