@@ -1,70 +1,59 @@
 [
     {
-        "title": "la hora",
-        "traffic": "100+",
-        "growth": "600%",
-        "activity_time": "1.6 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Leidy Zambrano, la joven colombiana que está desaparecida en Guatemala",
-                "url": "https://www.soy502.com/articulo/leidy-zambrano-colombiana-esta-desaparecida-guatemala-102077",
-                "source": "Soy502"
-            },
-            {
-                "title": "Localizan a Leidy Mariana, la colombiana-estadounidense, desaparecida desde el 13 de julio",
-                "url": "https://lahora.gt/nacionales/ypena/2026/08/01/localizan-a-leidy-mariana-la-colombiana-estadounidense-desaparecida-desde-el-13-de-julio-now/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Activaron una alerta por la desaparición de una turista colombiana-estadounidense en Ciudad de Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/07/31/activaron-una-alerta-por-la-desaparicion-de-una-turista-colombiana-estadounidense-en-ciudad-de-guatemala/",
-                "source": "Infobae"
-            }
-        ],
-        "timestamp": "2026-08-02T12:23:53.198892",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "cinemark",
-        "traffic": "500+",
-        "growth": "100%",
-        "activity_time": "15.1 horas",
-        "topics": [
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "Cinemark, Marcus CEOs On Box Office Rebound: Younger Audiences, Longer Windows, Balanced Mix Of Films",
-                "url": "https://deadline.com/2026/07/cinemark-marcus-exhibition-ceos-box-office-theatrical-windows-1237013702/",
-                "source": "Deadline"
-            },
-            {
-                "title": "CNK SWOT Analysis: Strong Revenue Growth Amidst Market Challenges Revealed in 10-Q Filing",
-                "url": "https://www.gurufocus.com/news/8993707/cnk-swot-analysis-strong-revenue-growth-amidst-market-challenges-revealed-in-10q-filing?mobile=true",
-                "source": "GuruFocus"
-            },
-            {
-                "title": "☀️ Hits Push CINEMARK to All-Time 💰 High",
-                "url": "https://theankler.com/hits-push-cinemark-to-all-time-money-high/",
-                "source": "The Ankler"
-            }
-        ],
-        "timestamp": "2026-08-02T12:23:53.386407",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "explosivo",
-        "traffic": "500+",
-        "growth": "600%",
-        "activity_time": "23.7 horas",
+        "title": "protesta",
+        "traffic": "200+",
+        "growth": "700%",
+        "activity_time": "16.6 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [],
-        "timestamp": "2026-08-02T12:23:53.586561",
+        "timestamp": "2026-08-03T13:03:40.340007",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "eclipse solar",
+        "traffic": "500+",
+        "growth": "100%",
+        "activity_time": "10.2 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "How to safely watch a solar eclipse",
+                "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
+                "source": "European Space Agency"
+            }
+        ],
+        "timestamp": "2026-08-03T13:03:40.634193"
+    },
+    {
+        "title": "combustible",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "16.4 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "¿Habrá bloqueos o caravanas este lunes 3 de agosto por el precio del combustible?",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/habra-bloqueos-o-caravanas-este-lunes-3-de-agosto-por-el-precio-del-combustible-breaking/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Con un paro de servicio el transporte extraurbano se suma a taxistas en protestas por alza a combustibles",
+                "url": "https://lahora.gt/nacionales/kjordan/2026/08/02/con-un-paro-de-servicio-el-transporte-extraurbano-se-suma-a-taxistas-en-protestas-por-alza-a-combustibles/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Pilotos de taxis posponen manifestación para el 3 de agosto y anticipan tráfico",
+                "url": "https://www.publinews.gt/noticias/2026/07/31/manifestacion-de-taxistas-ciudad-de-guatemala-alza-del-combustible/",
+                "source": "Publinews"
+            }
+        ],
+        "timestamp": "2026-08-03T13:03:40.741672",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
