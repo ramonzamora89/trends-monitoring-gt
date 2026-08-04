@@ -1,59 +1,71 @@
 [
     {
-        "title": "protesta",
+        "title": "diputado",
         "traffic": "200+",
-        "growth": "700%",
-        "activity_time": "16.6 horas",
+        "growth": "500%",
+        "activity_time": "19.5 horas",
         "topics": [
+            "Politics",
             "Law and Government"
         ],
-        "news": [],
-        "timestamp": "2026-08-03T13:03:40.340007",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "eclipse solar",
-        "traffic": "500+",
-        "growth": "100%",
-        "activity_time": "10.2 horas",
-        "topics": [
-            "Other"
-        ],
         "news": [
             {
-                "title": "How to safely watch a solar eclipse",
-                "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
-                "source": "European Space Agency"
-            }
-        ],
-        "timestamp": "2026-08-03T13:03:40.634193"
-    },
-    {
-        "title": "combustible",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "16.4 horas",
-        "topics": [
-            "Other"
-        ],
-        "news": [
-            {
-                "title": "¿Habrá bloqueos o caravanas este lunes 3 de agosto por el precio del combustible?",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/habra-bloqueos-o-caravanas-este-lunes-3-de-agosto-por-el-precio-del-combustible-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Con un paro de servicio el transporte extraurbano se suma a taxistas en protestas por alza a combustibles",
-                "url": "https://lahora.gt/nacionales/kjordan/2026/08/02/con-un-paro-de-servicio-el-transporte-extraurbano-se-suma-a-taxistas-en-protestas-por-alza-a-combustibles/",
+                "title": "Los 10 diputados que han cambiado de partido político para continuar en el Congreso",
+                "url": "https://lahora.gt/investigacion/kgutierrez/2026/08/03/los-10-diputados-que-han-cambiado-de-partido-politico-para-continuar-en-el-congreso/",
                 "source": "La Hora"
             },
             {
-                "title": "Pilotos de taxis posponen manifestación para el 3 de agosto y anticipan tráfico",
-                "url": "https://www.publinews.gt/noticias/2026/07/31/manifestacion-de-taxistas-ciudad-de-guatemala-alza-del-combustible/",
-                "source": "Publinews"
+                "title": "Ejecutivo no convence a diputados para conseguir un nuevo subsidio al combustible",
+                "url": "https://www.prensalibre.com/guatemala/politica/ejecutivo-no-convence-a-diputados-para-conseguir-un-nuevo-subsidio-al-combustible/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Subsidio a combustibles implicaría ampliación presupuestaria de Q1 mil 280 millones",
+                "url": "https://lahora.gt/lh-economia/jmaldonado/2026/08/03/subsidio-a-combustibles-implicaria-ampliacion-presupuestaria-de-q1-mil-280-millones/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-03T13:03:40.741672",
+        "timestamp": "2026-08-04T12:39:05.002148",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "volcan de fuego",
+        "traffic": "2000+",
+        "growth": "700%",
+        "activity_time": "8.8 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "VOLCÁN DE FUEGO MANTIENE DESCENSO DE CORRIENTES PIROCLÁSTICAS",
+                "url": "https://conred.gob.gt/volcan-de-fuego-mantiene-descenso-de-corrientes-piroclasticas/",
+                "source": "CONRED"
+            },
+            {
+                "title": "INSIVUMEH mantiene monitoreo permanente ante fase eruptiva del volcán de Fuego",
+                "url": "https://guatemala.gob.gt/insivumeh-mantiene-monitoreo-permanente-ante-fase-eruptiva-del-volcan-de-fuego/",
+                "source": "Gobierno de Guatemala"
+            },
+            {
+                "title": "INSIVUMEH y CONRED inician conferencia para actualizar la actividad del volcán de Fuego",
+                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/insivumeh-y-conred-inician-conferencia-para-actualizar-la-actividad-del-volcan-de-fuego/",
+                "source": "Prensa Libre"
+            }
+        ],
+        "timestamp": "2026-08-04T12:39:05.151612",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "tiempo",
+        "traffic": "500+",
+        "growth": "50%",
+        "activity_time": "0.5 horas",
+        "topics": [
+            "Climate"
+        ],
+        "news": [],
+        "timestamp": "2026-08-04T12:39:05.205017",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
