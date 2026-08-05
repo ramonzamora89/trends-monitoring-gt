@@ -1,71 +1,87 @@
 [
     {
-        "title": "diputado",
-        "traffic": "200+",
-        "growth": "500%",
-        "activity_time": "19.5 horas",
+        "title": "cesar gastelum",
+        "traffic": "500+",
+        "growth": "700%",
+        "activity_time": "7.3 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Los 10 diputados que han cambiado de partido político para continuar en el Congreso",
-                "url": "https://lahora.gt/investigacion/kgutierrez/2026/08/03/los-10-diputados-que-han-cambiado-de-partido-politico-para-continuar-en-el-congreso/",
-                "source": "La Hora"
+                "title": "¿Quién era César Gastélum, el influencer asesinado en Culiacán?",
+                "url": "https://www.infobae.com/mexico/2026/08/05/quien-era-cesar-gastelum-el-influencer-asesinado-en-culiacan/",
+                "source": "Infobae"
             },
             {
-                "title": "Ejecutivo no convence a diputados para conseguir un nuevo subsidio al combustible",
-                "url": "https://www.prensalibre.com/guatemala/politica/ejecutivo-no-convence-a-diputados-para-conseguir-un-nuevo-subsidio-al-combustible/",
-                "source": "Prensa Libre"
+                "title": "¿Era su novia? ¿Quién es La Bebaa y qué relación tenía con el influencer César Gastélum, asesinado mientras transmitía en vivo?",
+                "url": "https://heraldodemexico.com.mx/nacional/2026/8/4/era-su-novia-quien-es-la-bebaa-que-relacion-tenia-con-el-influencer-cesar-gastelum-asesinado-mientras-transmitia-en-vivo-863176.html",
+                "source": "El Heraldo de México"
             },
             {
-                "title": "Subsidio a combustibles implicaría ampliación presupuestaria de Q1 mil 280 millones",
-                "url": "https://lahora.gt/lh-economia/jmaldonado/2026/08/03/subsidio-a-combustibles-implicaria-ampliacion-presupuestaria-de-q1-mil-280-millones/",
-                "source": "La Hora"
+                "title": "Por fallas técnicas, tiktoker César Gastélum iba a cancelar su transmisión durante la cual fue asesinado",
+                "url": "https://www.luznoticias.mx/2026-08-04/policiaca/por-fallas-tecnicas-tiktoker-cesar-gastelum-iba-a-cancelar-su-transmision-durante-la-cual-fue-asesinado-/299685",
+                "source": "Luz Noticias"
             }
         ],
-        "timestamp": "2026-08-04T12:39:05.002148",
+        "timestamp": "2026-08-05T12:37:23.039653",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "volcan de fuego",
-        "traffic": "2000+",
-        "growth": "700%",
-        "activity_time": "8.8 horas",
+        "title": "interpelación",
+        "traffic": "500+",
+        "growth": "900%",
+        "activity_time": "12.5 horas",
         "topics": [
-            "Other"
+            "Law and Government",
+            "Politics"
         ],
         "news": [
             {
-                "title": "VOLCÁN DE FUEGO MANTIENE DESCENSO DE CORRIENTES PIROCLÁSTICAS",
-                "url": "https://conred.gob.gt/volcan-de-fuego-mantiene-descenso-de-corrientes-piroclasticas/",
-                "source": "CONRED"
-            },
-            {
-                "title": "INSIVUMEH mantiene monitoreo permanente ante fase eruptiva del volcán de Fuego",
-                "url": "https://guatemala.gob.gt/insivumeh-mantiene-monitoreo-permanente-ante-fase-eruptiva-del-volcan-de-fuego/",
-                "source": "Gobierno de Guatemala"
-            },
-            {
-                "title": "INSIVUMEH y CONRED inician conferencia para actualizar la actividad del volcán de Fuego",
-                "url": "https://www.prensalibre.com/ahora/guatemala/sucesos/insivumeh-y-conred-inician-conferencia-para-actualizar-la-actividad-del-volcan-de-fuego/",
+                "title": "Congreso llama a interpelación a 12 de 14 ministros del gabinete de Bernardo Arévalo",
+                "url": "https://www.prensalibre.com/guatemala/politica/congreso-cita-a-12-de-14-ministros-del-gabinete-de-bernardo-arevalo-para-ser-interpelados/",
                 "source": "Prensa Libre"
+            },
+            {
+                "title": "Congreso y la UNE siguen su pulso con el Ejecutivo y arraigan a ministros con Interpelaciones",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/08/04/congreso-y-la-une-siguen-su-pulso-con-el-ejecutivo-y-arraigan-a-ministros-con-interpelaciones/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Diputados agendan 28 interpelaciones",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/diputados-agendan-28-interpelaciones/",
+                "source": "Diario de Centro América"
             }
         ],
-        "timestamp": "2026-08-04T12:39:05.151612",
+        "timestamp": "2026-08-05T12:37:23.210307",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "tiempo",
-        "traffic": "500+",
-        "growth": "50%",
-        "activity_time": "0.5 horas",
+        "title": "corte suprema",
+        "traffic": "200+",
+        "growth": "300%",
+        "activity_time": "18.6 horas",
         "topics": [
-            "Climate"
+            "Law and Government"
         ],
-        "news": [],
-        "timestamp": "2026-08-04T12:39:05.205017",
+        "news": [
+            {
+                "title": "Vence el plazo para que Trump solicite a la Corte Suprema que reconsidere el fallo sobre la ciudadanía por nacimiento",
+                "url": "https://www.univision.com/noticias/inmigracion/vence-el-plazo-para-que-trump-solicite-a-la-corte-suprema-que-reconsidere-el-fallo-sobre-la-ciudadania-por-nacimiento",
+                "source": "Univision"
+            },
+            {
+                "title": "¿Es reversible la resolución sobre la decimocuarta enmienda?",
+                "url": "https://www.razon.com.mx/opinion/2026/08/03/es-reversible-la-resolucion-sobre-la-decimocuarta-enmienda/",
+                "source": "La Razón de México"
+            },
+            {
+                "title": "Corte Suprema de Estados Unidos ratifica ciudadanía por nacimiento",
+                "url": "https://lineadirectaportal.com/internacional/corte-suprema-de-estados-unidos-ratifica-ciudadania-por-nacimiento-2026-08-04__1677135",
+                "source": "Linea Directa"
+            }
+        ],
+        "timestamp": "2026-08-05T12:37:23.355908",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
