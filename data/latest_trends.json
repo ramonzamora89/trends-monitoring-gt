@@ -1,87 +1,84 @@
 [
     {
-        "title": "cesar gastelum",
-        "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "7.3 horas",
+        "title": "seguridad ciudadana",
+        "traffic": "100+",
+        "growth": "400%",
+        "activity_time": "2.5 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "¿Quién era César Gastélum, el influencer asesinado en Culiacán?",
-                "url": "https://www.infobae.com/mexico/2026/08/05/quien-era-cesar-gastelum-el-influencer-asesinado-en-culiacan/",
-                "source": "Infobae"
-            },
-            {
-                "title": "¿Era su novia? ¿Quién es La Bebaa y qué relación tenía con el influencer César Gastélum, asesinado mientras transmitía en vivo?",
-                "url": "https://heraldodemexico.com.mx/nacional/2026/8/4/era-su-novia-quien-es-la-bebaa-que-relacion-tenia-con-el-influencer-cesar-gastelum-asesinado-mientras-transmitia-en-vivo-863176.html",
-                "source": "El Heraldo de México"
-            },
-            {
-                "title": "Por fallas técnicas, tiktoker César Gastélum iba a cancelar su transmisión durante la cual fue asesinado",
-                "url": "https://www.luznoticias.mx/2026-08-04/policiaca/por-fallas-tecnicas-tiktoker-cesar-gastelum-iba-a-cancelar-su-transmision-durante-la-cual-fue-asesinado-/299685",
-                "source": "Luz Noticias"
-            }
-        ],
-        "timestamp": "2026-08-05T12:37:23.039653",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "interpelación",
-        "traffic": "500+",
-        "growth": "900%",
-        "activity_time": "12.5 horas",
-        "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [
-            {
-                "title": "Congreso llama a interpelación a 12 de 14 ministros del gabinete de Bernardo Arévalo",
-                "url": "https://www.prensalibre.com/guatemala/politica/congreso-cita-a-12-de-14-ministros-del-gabinete-de-bernardo-arevalo-para-ser-interpelados/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Congreso y la UNE siguen su pulso con el Ejecutivo y arraigan a ministros con Interpelaciones",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/08/04/congreso-y-la-une-siguen-su-pulso-con-el-ejecutivo-y-arraigan-a-ministros-con-interpelaciones/",
+                "title": "Tras la muerte de \"Gorgojo\", analistas advierten impacto en la seguridad ciudadana y una oportunidad para la PNC",
+                "url": "https://lahora.gt/nacionales/dguzman/2026/08/05/tras-la-muerte-de-gorgojo-analistas-advierten-impacto-en-la-seguridad-ciudadana-y-una-oportunidad-para-la-pnc/",
                 "source": "La Hora"
             },
             {
-                "title": "Diputados agendan 28 interpelaciones",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/diputados-agendan-28-interpelaciones/",
-                "source": "Diario de Centro América"
+                "title": "Decretan reserva del caso por asesinato de alias \"Gorgojo\", cabecilla de la MS, en cárcel de la zona 18",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/decretan-reserva-del-caso-por-asesinato-de-alias-gorgojo-cabecilla-de-la-ms-en-carcel-de-la-zona-18/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Guerra de pandillas en Guatemala: Capturan a dos reos del Barrio 18 por el asesinato del recluso el “Gorgojo”, líder de la Mara Salvatrucha",
+                "url": "https://www.infobae.com/guatemala/2026/08/03/guerra-de-pandillas-en-guatemala-capturan-a-dos-reos-del-barrio-18-por-el-asesinato-del-recluso-el-gorgojo-lider-de-la-mara-salvatrucha/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-08-05T12:37:23.210307",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-08-06T12:38:46.319403"
     },
     {
-        "title": "corte suprema",
+        "title": "maría consuelo porras",
         "traffic": "200+",
-        "growth": "300%",
-        "activity_time": "18.6 horas",
+        "growth": "1000%",
+        "activity_time": "14.1 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Vence el plazo para que Trump solicite a la Corte Suprema que reconsidere el fallo sobre la ciudadanía por nacimiento",
-                "url": "https://www.univision.com/noticias/inmigracion/vence-el-plazo-para-que-trump-solicite-a-la-corte-suprema-que-reconsidere-el-fallo-sobre-la-ciudadania-por-nacimiento",
-                "source": "Univision"
+                "title": "MP expone ante CIDH uso indebido de la justicia en la era de Consuelo Porras",
+                "url": "https://lahora.gt/nacionales/diego/2026/08/05/mp-expone-ante-cidh-uso-indebido-de-la-justicia-en-la-era-de-consuelo-porras-now/",
+                "source": "La Hora"
             },
             {
-                "title": "¿Es reversible la resolución sobre la decimocuarta enmienda?",
-                "url": "https://www.razon.com.mx/opinion/2026/08/03/es-reversible-la-resolucion-sobre-la-decimocuarta-enmienda/",
-                "source": "La Razón de México"
+                "title": "Secretario del MP reconoce ante la CIDH que la institución fue cooptada durante gestión de Consuelo Porras para garantizar impunidad",
+                "url": "https://www.prensalibre.com/guatemala/justicia/secretario-del-mp-reconoce-ante-la-cidh-que-la-institucion-fue-cooptada-durante-gestion-de-consuelo-porras-para-garantizar-impunidad/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Corte Suprema de Estados Unidos ratifica ciudadanía por nacimiento",
-                "url": "https://lineadirectaportal.com/internacional/corte-suprema-de-estados-unidos-ratifica-ciudadania-por-nacimiento-2026-08-04__1677135",
-                "source": "Linea Directa"
+                "title": "Ministerio Público de Guatemala: Liquidación de la Fiscalía Especial contra la Impunidad",
+                "url": "https://www.infobae.com/video/guatemala/ministerio-publico-de-guatemala-liquidacion-de-la-fiscalia-especial-contra-la-impunidad/mukME5c2/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-08-05T12:37:23.355908",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-08-06T12:38:46.468808",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "allanamiento",
+        "traffic": "100+",
+        "growth": "200%",
+        "activity_time": "2.0 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Allanamiento en una vivienda culmina con el secuestro de drogas, tecnología y bicicletas",
+                "url": "https://lu17.com/contenido/140396/allanamiento-en-una-vivienda-culmina-con-el-secuestro-de-drogas-tecnologia-y-bicicletas",
+                "source": "LA17"
+            },
+            {
+                "title": "Un allanamiento policial permitió recuperar robos de Plottier y secuestrar cannabis",
+                "url": "https://www.minutoneuquen.com/neuquen/2026/8/5/un-allanamiento-policial-permitio-recuperar-robos-de-plottier-y-secuestrar-cannabis-409040.html",
+                "source": "Minuto Neuquen"
+            },
+            {
+                "title": "Hallan 60 serpientes en operativo de drogas",
+                "url": "https://www.telemundo48elpaso.com/video/telemundo-nuevo-mexico/hallan-60-serpientes-en-operativo-de-drogas/2491063/",
+                "source": "Telemundo El Paso"
+            }
+        ],
+        "timestamp": "2026-08-06T12:38:46.556287"
     }
 ]
