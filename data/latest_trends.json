@@ -1,84 +1,86 @@
 [
     {
-        "title": "seguridad ciudadana",
-        "traffic": "100+",
-        "growth": "400%",
-        "activity_time": "2.5 horas",
+        "title": "deportación",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "12.1 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Tras la muerte de \"Gorgojo\", analistas advierten impacto en la seguridad ciudadana y una oportunidad para la PNC",
-                "url": "https://lahora.gt/nacionales/dguzman/2026/08/05/tras-la-muerte-de-gorgojo-analistas-advierten-impacto-en-la-seguridad-ciudadana-y-una-oportunidad-para-la-pnc/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Decretan reserva del caso por asesinato de alias \"Gorgojo\", cabecilla de la MS, en cárcel de la zona 18",
-                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/decretan-reserva-del-caso-por-asesinato-de-alias-gorgojo-cabecilla-de-la-ms-en-carcel-de-la-zona-18/",
+                "title": "EE. UU. busca localizar en Guatemala a migrantes deportados para cobrarles multas",
+                "url": "https://www.prensalibre.com/guatemala/migrantes/ee-uu-busca-localizar-en-guatemala-a-migrantes-deportados-para-cobrarles-multa/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Guerra de pandillas en Guatemala: Capturan a dos reos del Barrio 18 por el asesinato del recluso el “Gorgojo”, líder de la Mara Salvatrucha",
-                "url": "https://www.infobae.com/guatemala/2026/08/03/guerra-de-pandillas-en-guatemala-capturan-a-dos-reos-del-barrio-18-por-el-asesinato-del-recluso-el-gorgojo-lider-de-la-mara-salvatrucha/",
-                "source": "Infobae"
+                "title": "deudas civiles",
+                "url": "https://www.eluniversal.com.mx/tag/deudas-civiles/",
+                "source": "El Universal"
+            },
+            {
+                "title": "DHS busca rastrear a inmigrantes fuera de EE.UU. para cobrar multas de hasta $1.8 millones",
+                "url": "https://laopinion.com/2026/08/06/dhs-busca-rastrear-a-inmigrantes-fuera-de-ee-uu-para-cobrar-multas-de-hasta-1-8-millones/",
+                "source": "La Opinión"
             }
         ],
-        "timestamp": "2026-08-06T12:38:46.319403"
+        "timestamp": "2026-08-07T12:16:59.307846",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "maría consuelo porras",
+        "title": "puente festivo",
         "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "14.1 horas",
+        "growth": "800%",
+        "activity_time": "21.1 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "MP expone ante CIDH uso indebido de la justicia en la era de Consuelo Porras",
-                "url": "https://lahora.gt/nacionales/diego/2026/08/05/mp-expone-ante-cidh-uso-indebido-de-la-justicia-en-la-era-de-consuelo-porras-now/",
-                "source": "La Hora"
+                "title": "Ciudades del país refuerzan sus esquemas de seguridad de cara a la posesión presidencial de Abelardo De La Espriella y el puente festivo",
+                "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ciudades-del-pais-refuerzan-sus-esquemas-de-seguridad-de-cara-a-la-posesion-presidencial-de-abelardo-de-la-espriella-y-el-puente-festivo-3576666",
+                "source": "El Tiempo"
             },
             {
-                "title": "Secretario del MP reconoce ante la CIDH que la institución fue cooptada durante gestión de Consuelo Porras para garantizar impunidad",
-                "url": "https://www.prensalibre.com/guatemala/justicia/secretario-del-mp-reconoce-ante-la-cidh-que-la-institucion-fue-cooptada-durante-gestion-de-consuelo-porras-para-garantizar-impunidad/",
-                "source": "Prensa Libre"
+                "title": "Más de 1.500 policías vigilan actividades del puente festivo en Barranquilla",
+                "url": "https://www.elheraldo.co/atlantico/barranquilla/2026/08/07/mas-de-1500-policias-vigilan-actividades-del-puente-festivo-en-barranquilla/",
+                "source": "ELHERALDO.CO"
             },
             {
-                "title": "Ministerio Público de Guatemala: Liquidación de la Fiscalía Especial contra la Impunidad",
-                "url": "https://www.infobae.com/video/guatemala/ministerio-publico-de-guatemala-liquidacion-de-la-fiscalia-especial-contra-la-impunidad/mukME5c2/",
-                "source": "Infobae"
+                "title": "Distrito instalará PMU en la Mebar para garantizar seguridad por eventos este 7 de agosto",
+                "url": "https://zonacero.com/generales/distrito-instalara-pmu-en-la-mebar-para-garantizar-seguridad-por-eventos-este-7-de-agosto",
+                "source": "Zona Cero"
             }
         ],
-        "timestamp": "2026-08-06T12:38:46.468808",
+        "timestamp": "2026-08-07T12:16:59.472371",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "allanamiento",
-        "traffic": "100+",
-        "growth": "200%",
-        "activity_time": "2.0 horas",
+        "title": "conred",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "7.6 horas",
         "topics": [
-            "Law and Government"
+            "Climate"
         ],
         "news": [
             {
-                "title": "Allanamiento en una vivienda culmina con el secuestro de drogas, tecnología y bicicletas",
-                "url": "https://lu17.com/contenido/140396/allanamiento-en-una-vivienda-culmina-con-el-secuestro-de-drogas-tecnologia-y-bicicletas",
-                "source": "LA17"
+                "title": "ACTIVIDAD SÍSMICA CONTINÚA REGISTRÁNDOSE EN EL TERRITORIO NACIONAL",
+                "url": "https://conred.gob.gt/actividad-sismica-continua-registrandose-en-el-territorio-nacional/",
+                "source": "CONRED"
             },
             {
-                "title": "Un allanamiento policial permitió recuperar robos de Plottier y secuestrar cannabis",
-                "url": "https://www.minutoneuquen.com/neuquen/2026/8/5/un-allanamiento-policial-permitio-recuperar-robos-de-plottier-y-secuestrar-cannabis-409040.html",
-                "source": "Minuto Neuquen"
+                "title": "Insivumeh reporta cuatro temblores con epicentro en el Pacífico este 4 de agosto",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-4-de-agosto-de-2026-en-guatemala-breaking/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Hallan 60 serpientes en operativo de drogas",
-                "url": "https://www.telemundo48elpaso.com/video/telemundo-nuevo-mexico/hallan-60-serpientes-en-operativo-de-drogas/2491063/",
-                "source": "Telemundo El Paso"
+                "title": "Insivumeh explica si recientes sismos en el Pacífico están asociados con la actividad volcánica",
+                "url": "https://emisorasunidas.com/nacional/2026/08/04/insivumeh-explica-relacion-sismos-y-actividad-volcanica/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-08-06T12:38:46.556287"
+        "timestamp": "2026-08-07T12:16:59.637175",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
