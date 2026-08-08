@@ -1,86 +1,71 @@
 [
     {
-        "title": "deportación",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "12.1 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "EE. UU. busca localizar en Guatemala a migrantes deportados para cobrarles multas",
-                "url": "https://www.prensalibre.com/guatemala/migrantes/ee-uu-busca-localizar-en-guatemala-a-migrantes-deportados-para-cobrarles-multa/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "deudas civiles",
-                "url": "https://www.eluniversal.com.mx/tag/deudas-civiles/",
-                "source": "El Universal"
-            },
-            {
-                "title": "DHS busca rastrear a inmigrantes fuera de EE.UU. para cobrar multas de hasta $1.8 millones",
-                "url": "https://laopinion.com/2026/08/06/dhs-busca-rastrear-a-inmigrantes-fuera-de-ee-uu-para-cobrar-multas-de-hasta-1-8-millones/",
-                "source": "La Opinión"
-            }
-        ],
-        "timestamp": "2026-08-07T12:16:59.307846",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "puente festivo",
-        "traffic": "200+",
-        "growth": "800%",
-        "activity_time": "21.1 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Ciudades del país refuerzan sus esquemas de seguridad de cara a la posesión presidencial de Abelardo De La Espriella y el puente festivo",
-                "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ciudades-del-pais-refuerzan-sus-esquemas-de-seguridad-de-cara-a-la-posesion-presidencial-de-abelardo-de-la-espriella-y-el-puente-festivo-3576666",
-                "source": "El Tiempo"
-            },
-            {
-                "title": "Más de 1.500 policías vigilan actividades del puente festivo en Barranquilla",
-                "url": "https://www.elheraldo.co/atlantico/barranquilla/2026/08/07/mas-de-1500-policias-vigilan-actividades-del-puente-festivo-en-barranquilla/",
-                "source": "ELHERALDO.CO"
-            },
-            {
-                "title": "Distrito instalará PMU en la Mebar para garantizar seguridad por eventos este 7 de agosto",
-                "url": "https://zonacero.com/generales/distrito-instalara-pmu-en-la-mebar-para-garantizar-seguridad-por-eventos-este-7-de-agosto",
-                "source": "Zona Cero"
-            }
-        ],
-        "timestamp": "2026-08-07T12:16:59.472371",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "conred",
+        "title": "juez",
         "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "7.6 horas",
+        "growth": "800%",
+        "activity_time": "21.2 horas",
         "topics": [
-            "Climate"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "ACTIVIDAD SÍSMICA CONTINÚA REGISTRÁNDOSE EN EL TERRITORIO NACIONAL",
-                "url": "https://conred.gob.gt/actividad-sismica-continua-registrandose-en-el-territorio-nacional/",
-                "source": "CONRED"
-            },
-            {
-                "title": "Insivumeh reporta cuatro temblores con epicentro en el Pacífico este 4 de agosto",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-4-de-agosto-de-2026-en-guatemala-breaking/",
+                "title": "Caso La Línea: juez dicta sobreseimiento y cierra proceso penal a favor de Julio César Emanuel Miranda González",
+                "url": "https://www.prensalibre.com/guatemala/justicia/caso-la-linea-juez-dicta-sobreseimiento-y-cierra-proceso-penal-a-favor-de-julio-cesar-emanuel-miranda-gonzalez-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Insivumeh explica si recientes sismos en el Pacífico están asociados con la actividad volcánica",
-                "url": "https://emisorasunidas.com/nacional/2026/08/04/insivumeh-explica-relacion-sismos-y-actividad-volcanica/",
+                "title": "Prueba de grafología le da la libertad a implicado en caso La Línea",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/08/07/prueba-de-grafologia-le-da-la-libertad-a-implicado-en-caso-la-linea/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Caso La Línea: Dictan sobreseimiento a favor de Julio César Miranda",
+                "url": "https://emisorasunidas.com/nacional/2026/08/07/caso-la-linea-sobreseimiento-julio-cesar-miranda/",
                 "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-08-07T12:16:59.637175",
+        "timestamp": "2026-08-08T12:09:02.920986",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "magistrado",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "15.2 horas",
+        "topics": [
+            "Law and Government",
+            "Politics"
+        ],
+        "news": [],
+        "timestamp": "2026-08-08T12:09:03.243401",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "calzada aguilar batres",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "16.2 horas",
+        "topics": [
+            "Business and Finance"
+        ],
+        "news": [
+            {
+                "title": "Desde occidente, sur y oriente: así son las rutas alternas que Emetra propone para adentrase a Ciudad de Guatemala",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/asi-son-las-nuevas-rutas-alternas-habilitadas-en-el-occidente-sur-y-oriente-de-la-ciudad-de-guatemala/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "PMT habilitó 3 nuevos carriles reversibles en Ciudad Guatemala: horarios y dónde funcionan",
+                "url": "https://www.guatemala.com/noticias/comunidad/pmt-habilito-3-nuevos-carriles-reversibles-ciudad-guatemala-y-compartio-rutas-alternas-trafico.html",
+                "source": "Guatemala.com"
+            },
+            {
+                "title": "De la Aguilar Batres hacia bulevar Liberación sin pasar por el Trébol: estas son las rutas alternas",
+                "url": "https://lahora.gt/nacionales/ypena/2026/08/07/de-la-aguilar-batres-hacia-bulevar-liberacion-sin-pasar-por-el-trebol-estas-son-las-rutas-alternas-now/",
+                "source": "La Hora"
+            }
+        ],
+        "timestamp": "2026-08-08T12:09:03.437849",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
