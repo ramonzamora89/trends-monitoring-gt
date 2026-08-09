@@ -1,71 +1,86 @@
 [
     {
-        "title": "juez",
+        "title": "letizia ortiz",
         "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "21.2 horas",
+        "growth": "500%",
+        "activity_time": "18.7 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Caso La Línea: juez dicta sobreseimiento y cierra proceso penal a favor de Julio César Emanuel Miranda González",
-                "url": "https://www.prensalibre.com/guatemala/justicia/caso-la-linea-juez-dicta-sobreseimiento-y-cierra-proceso-penal-a-favor-de-julio-cesar-emanuel-miranda-gonzalez-breaking/",
-                "source": "Prensa Libre"
+                "title": "La princesa Leonor se funde en un abrazo con su abuela cuando cree que no hay cámaras",
+                "url": "https://www.lecturas.com/realeza/videos/princesa-leonor-se-funde-abrazo-su-abuela-cuando-cree-que-no-hay-camaras_196848",
+                "source": "Lecturas"
             },
             {
-                "title": "Prueba de grafología le da la libertad a implicado en caso La Línea",
-                "url": "https://lahora.gt/nacionales/sosegueda/2026/08/07/prueba-de-grafologia-le-da-la-libertad-a-implicado-en-caso-la-linea/",
-                "source": "La Hora"
+                "title": "La Familia Real sale a cenar al Portitxol en sus vacaciones en Mallorca",
+                "url": "https://www.diariodemallorca.es/sociedad/2026/08/09/familia-real-sale-cenar-portitxol-133209904.html",
+                "source": "Diario de Mallorca"
             },
             {
-                "title": "Caso La Línea: Dictan sobreseimiento a favor de Julio César Miranda",
-                "url": "https://emisorasunidas.com/nacional/2026/08/07/caso-la-linea-sobreseimiento-julio-cesar-miranda/",
-                "source": "Emisoras Unidas"
+                "title": "Todos los detalles de la cena de la familia real con el viudo de Tatiana Radziwill en Mallorca: del abrazo de Leonor a la reina Sofía al restaurante elegido",
+                "url": "https://www.infobae.com/espana/2026/08/09/todos-los-detalles-de-la-cena-de-la-familia-real-con-el-viudo-de-tatiana-radziwill-en-mallorca-del-abrazo-de-leonor-a-la-reina-sofia-al-restaurante-elegido/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-08-08T12:09:02.920986",
+        "timestamp": "2026-08-09T12:09:50.431759",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "magistrado",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "15.2 horas",
+        "title": "libertad",
+        "traffic": "500+",
+        "growth": "700%",
+        "activity_time": "13.2 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [],
-        "timestamp": "2026-08-08T12:09:03.243401",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "calzada aguilar batres",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "16.2 horas",
-        "topics": [
-            "Business and Finance"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Desde occidente, sur y oriente: así son las rutas alternas que Emetra propone para adentrase a Ciudad de Guatemala",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/asi-son-las-nuevas-rutas-alternas-habilitadas-en-el-occidente-sur-y-oriente-de-la-ciudad-de-guatemala/",
-                "source": "Prensa Libre"
+                "title": "Motorista embestido en Z-9: rechazan apelación del MP y benefician a Carlos Acevedo",
+                "url": "https://www.soy502.com/articulo/sala-confirma-arresto-domiciliario-carlos-acevedo-102154",
+                "source": "Soy502"
             },
             {
-                "title": "PMT habilitó 3 nuevos carriles reversibles en Ciudad Guatemala: horarios y dónde funcionan",
-                "url": "https://www.guatemala.com/noticias/comunidad/pmt-habilito-3-nuevos-carriles-reversibles-ciudad-guatemala-y-compartio-rutas-alternas-trafico.html",
-                "source": "Guatemala.com"
+                "title": "Sala confirma libertad para señalado de embestir a motorista en zona 9",
+                "url": "https://emisorasunidas.com/nacional/2026/08/07/sala-confirma-libertad-para-senalado-de-embestir-a-motorista-en-zona-9/",
+                "source": "Emisoras Unidas"
             },
             {
-                "title": "De la Aguilar Batres hacia bulevar Liberación sin pasar por el Trébol: estas son las rutas alternas",
-                "url": "https://lahora.gt/nacionales/ypena/2026/08/07/de-la-aguilar-batres-hacia-bulevar-liberacion-sin-pasar-por-el-trebol-estas-son-las-rutas-alternas-now/",
+                "title": "Caso motorista zona 9: Carlos Acevedo seguirá en libertad por decisión de Sala Segunda de Apelaciones",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/08/07/caso-motorista-zona-9-carlos-acevedo-seguira-en-libertad-por-decision-de-sala-segunda-de-apelaciones/",
                 "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-08T12:09:03.437849",
+        "timestamp": "2026-08-09T12:09:50.578869",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "karely ruiz",
+        "traffic": "200+",
+        "growth": "900%",
+        "activity_time": "12.7 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Detienen a implicado en el asalto a la casa de Karely Ruiz",
+                "url": "https://elheraldoslp.com.mx/new/2026/08/08/detienen-a-implicado-en-el-asalto-a-la-casa-de-karely-ruiz/",
+                "source": "El Heraldo de San Luis Potosí."
+            },
+            {
+                "title": "Karely Ruiz: Detienen a presunto implicado en robo a su hogar",
+                "url": "https://www.telemundo.com/shows/hoy-dia/famosos/video/karely-ruiz-detienen-a-presunto-implicado-en-robo-a-su-hogar-tmvo13211194",
+                "source": "Telemundo"
+            },
+            {
+                "title": "Karely Ruiz narra cómo escapó de hombres armados durante el asalto a su casa",
+                "url": "https://municipiosur.com/2026/08/06/karely-ruiz-narra-como-escapo-de-hombres-armados-durante-el-asalto-a-su-casa/",
+                "source": "MunicipioSur"
+            }
+        ],
+        "timestamp": "2026-08-09T12:09:50.768374",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
