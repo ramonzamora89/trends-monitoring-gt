@@ -1,89 +1,59 @@
 [
     {
-        "title": "tribunal supremo electoral de guatemala",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "10.8 horas",
+        "title": "josé rubén zamora marroquín",
+        "traffic": "2000+",
+        "growth": "800%",
+        "activity_time": "16.3 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "EE. UU. pone la mira en las elecciones de 2027 y alerta a magistrados del TSE por financiamiento electoral ilícito",
-                "url": "https://lahora.gt/nacionales/dleon/2026/08/12/ee-uu-pone-la-mira-en-las-elecciones-de-2027-y-alerta-a-magistrados-del-tse-por-financiamiento-electoral-ilicito-now/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Magistrado del TSE afirma que cada voto en el extranjero cuesta cerca de Q54 mil",
-                "url": "https://www.prensalibre.com/ahora/guatemala/politica/magistrado-del-tse-afirma-que-cada-voto-en-el-extranjero-cuesta-cerca-de-q54-mil/",
+                "title": "Jose Rubén Zamora no podrá salir de Guatemala por motivos de salud: Tribunal mantiene el arraigo",
+                "url": "https://www.prensalibre.com/guatemala/justicia/jose-ruben-zamora-no-podra-salir-de-guatemala-por-motivos-de-salud-tribunal-mantiene-el-arraigo-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "El Tribunal Supremo Electoral abrirá un centro de empadronamiento para deportados en el aeropuerto de ciudad de Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/08/12/el-tribunal-supremo-electoral-abrira-un-centro-de-empadronamiento-para-deportados-en-el-aeropuerto-de-ciudad-de-guatemala/",
-                "source": "Infobae"
+                "title": "Rechazan solicitud de José Rubén Zamora para acudir a tratamiento afuera del país",
+                "url": "https://www.soy502.com/articulo/caso-zamora-jueces-rechazan-viaje-tratamiento-medico-102154",
+                "source": "Soy502"
+            },
+            {
+                "title": "Inacif remite al Tribunal resultados de exámenes médicos practicados a Zamora",
+                "url": "https://emisorasunidas.com/nacional/2026/08/11/inacif-tribunal-resultados-examenes-zamora/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-08-13T12:18:07.020651",
+        "timestamp": "2026-08-14T12:17:00.073876",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "congreso",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "17.5 horas",
+        "title": "contribuyente",
+        "traffic": "100+",
+        "growth": "300%",
+        "activity_time": "1.6 horas",
         "topics": [
-            "Politics",
-            "Law and Government"
+            "Law and Government",
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Grupos de fiscalización parlamentaria dudan de la eficacia en interpelaciones del Congreso",
-                "url": "https://www.prensalibre.com/guatemala/politica/grupos-de-fiscalizacion-parlamentaria-dudan-de-la-eficacia-en-interpelaciones-del-congreso/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Arévalo califica de «extorsión» las interpelaciones de ministros encabezadas por la UNE",
-                "url": "https://lahora.gt/nacionales/dleon/2026/08/10/arevalo-califica-de-extorsion-las-interpelaciones-de-ministros-encabezadas-por-la-une/",
+                "title": "CC da la razón a CEDECON: declara inconstitucional suspensión de SAT a contribuyentes sin derecho de defensa",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/13/cc-da-la-razon-a-cedecon-declara-inconstitucional-suspension-de-sat-a-contribuyentes-sin-derecho-de-defensa/",
                 "source": "La Hora"
             },
             {
-                "title": "¿Interpelar o bloquear al Gobierno?",
-                "url": "https://prensacomunitaria.org/2026/08/interpelar-o-bloquear-al-gobierno/",
-                "source": "Prensa Comunitaria"
+                "title": "Análisis | SAT, NIT y derecho de defensa: ¿Hasta dónde puede llegar el poder tributario?",
+                "url": "https://canalantigua.tv/2026/08/13/analisis-sat-nit-y-derecho-de-defensa-hasta-donde-puede-llegar-el-poder-tributario/",
+                "source": "Canal Antigua"
+            },
+            {
+                "title": "CC limita facultad de SAT para suspender inscripción de contribuyentes",
+                "url": "https://canalantigua.tv/2026/08/13/cc-limita-facultad-de-sat-para-suspender-inscripcion-de-contribuyentes/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-08-13T12:18:07.179736",
+        "timestamp": "2026-08-14T12:17:00.318317",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "nasa",
-        "traffic": "200+",
-        "growth": "1000%",
-        "activity_time": "19.1 horas",
-        "topics": [
-            "Business and Finance",
-            "Science"
-        ],
-        "news": [
-            {
-                "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
-                "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
-                "source": "NASA (.gov)"
-            },
-            {
-                "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
-                "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/",
-                "source": "Spaceflight Now"
-            },
-            {
-                "title": "NASA's Mike Fincke to retire. Photos show his final flight as astronaut",
-                "url": "https://www.usatoday.com/picture-gallery/tech/space/2026/08/13/nasa-astronaut-mike-fincke-retires-career-photos/91283452007/",
-                "source": "USA Today"
-            }
-        ],
-        "timestamp": "2026-08-13T12:18:07.442092",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
