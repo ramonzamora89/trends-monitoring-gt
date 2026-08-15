@@ -1,59 +1,56 @@
 [
     {
-        "title": "josé rubén zamora marroquín",
+        "title": "roberto molina barreto",
         "traffic": "2000+",
-        "growth": "800%",
-        "activity_time": "16.3 horas",
+        "growth": "1000%",
+        "activity_time": "18.8 horas",
         "topics": [
+            "Law and Government",
+            "Politics"
+        ],
+        "news": [],
+        "timestamp": "2026-08-15T12:05:26.439128",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "confederación deportiva autónoma de guatemala",
+        "traffic": "1000+",
+        "growth": "700%",
+        "activity_time": "13.1 horas",
+        "topics": [
+            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Jose Rubén Zamora no podrá salir de Guatemala por motivos de salud: Tribunal mantiene el arraigo",
-                "url": "https://www.prensalibre.com/guatemala/justicia/jose-ruben-zamora-no-podra-salir-de-guatemala-por-motivos-de-salud-tribunal-mantiene-el-arraigo-breaking/",
+                "title": "CDAG denuncia a José Chic ante el TSE por presunta propaganda ilegal",
+                "url": "https://www.prensalibre.com/guatemala/politica/cdag-denuncia-a-jose-chic-ante-el-tse-por-presunta-propaganda-ilegal/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Rechazan solicitud de José Rubén Zamora para acudir a tratamiento afuera del país",
-                "url": "https://www.soy502.com/articulo/caso-zamora-jueces-rechazan-viaje-tratamiento-medico-102154",
-                "source": "Soy502"
-            },
-            {
-                "title": "Inacif remite al Tribunal resultados de exámenes médicos practicados a Zamora",
-                "url": "https://emisorasunidas.com/nacional/2026/08/11/inacif-tribunal-resultados-examenes-zamora/",
-                "source": "Emisoras Unidas"
-            }
-        ],
-        "timestamp": "2026-08-14T12:17:00.073876",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "contribuyente",
-        "traffic": "100+",
-        "growth": "300%",
-        "activity_time": "1.6 horas",
-        "topics": [
-            "Law and Government",
-            "Business and Finance"
-        ],
-        "news": [
-            {
-                "title": "CC da la razón a CEDECON: declara inconstitucional suspensión de SAT a contribuyentes sin derecho de defensa",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/13/cc-da-la-razon-a-cedecon-declara-inconstitucional-suspension-de-sat-a-contribuyentes-sin-derecho-de-defensa/",
+                "title": "CDAG se suma al COG y denuncia a diputado José Chic ante el TSE por presunta propaganda ilegal",
+                "url": "https://lahora.gt/nacionales/dguzman/2026/08/14/cdag-se-suma-al-cog-y-denuncia-a-diputado-jose-chic-ante-el-tse-por-presunta-propaganda-ilegal/",
                 "source": "La Hora"
             },
             {
-                "title": "Análisis | SAT, NIT y derecho de defensa: ¿Hasta dónde puede llegar el poder tributario?",
-                "url": "https://canalantigua.tv/2026/08/13/analisis-sat-nit-y-derecho-de-defensa-hasta-donde-puede-llegar-el-poder-tributario/",
-                "source": "Canal Antigua"
-            },
-            {
-                "title": "CC limita facultad de SAT para suspender inscripción de contribuyentes",
-                "url": "https://canalantigua.tv/2026/08/13/cc-limita-facultad-de-sat-para-suspender-inscripcion-de-contribuyentes/",
+                "title": "Señalan al COG por presuntas anomalías en ejecución de Q59.1 millones para Juegos Centroamericanos",
+                "url": "https://canalantigua.tv/2026/08/12/senalan-al-cog-por-presuntas-anomalias-en-ejecucion-de-q59-1-millones-para-juegos-centroamericanos/",
                 "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-08-14T12:17:00.318317",
+        "timestamp": "2026-08-15T12:05:26.652475",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "iman de jordania",
+        "traffic": "500+",
+        "growth": "600%",
+        "activity_time": "13.4 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [],
+        "timestamp": "2026-08-15T12:05:26.795647",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
