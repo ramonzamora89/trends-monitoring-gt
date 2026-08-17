@@ -1,86 +1,87 @@
 [
     {
-        "title": "rania de jordania",
+        "title": "diputado",
         "traffic": "1000+",
-        "growth": "600%",
-        "activity_time": "18.6 horas",
+        "growth": "400%",
+        "activity_time": "12.1 horas",
         "topics": [
+            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Rania de Jordania desvela los nombres de sus nietas gemelas, hijas de la princesa Iman: un homenaje y su precioso significado",
-                "url": "https://www.hola.com/realeza/casa_jordana/20260815918203/rania-jordania-desvela-nombres-nietas-gemelas/",
-                "source": "HOLA"
-            },
-            {
-                "title": "Doble alegría para Rania y Abdalá II: la Princesa Iman da a luz a dos niñas gemelas",
-                "url": "https://www.abc.es/gente/doble-alegria-rania-abdala-princesa-iman-luz-20260815170000-nt.html",
-                "source": "ABC"
-            },
-            {
-                "title": "Baby boom en la Corte Hachemita: Rania y Abdullah de Jordania se convierten en abuelos de cuatro nietos tras el nacimiento de las gemelas de la princesa Iman",
-                "url": "https://www.larazon.es/gente/casa-real/baby-boom-corte-hachemita-rania-abdullah-jordania-convierten-abuelos-cuatro-nietos-nacimiento-gemelas-princesa-iman_202608156a8021fd71b42a0b5df06d6b.html",
-                "source": "La Razón"
-            }
-        ],
-        "timestamp": "2026-08-16T12:05:48.196390",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "reforma",
-        "traffic": "500+",
-        "growth": "800%",
-        "activity_time": "16.6 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Reforma al IUSI: 45 municipalidades parten de Q0 y podrían ganar ingresos con el timbre fiscal",
-                "url": "https://www.prensalibre.com/economia/reforma-al-iusi-45-municipalidades-parten-de-q0-y-podrian-ganar-ingresos-con-el-timbre-fiscal/",
+                "title": "Quién es Ivanna Bonilla Oliva, la llamada a ocupar una curul en el Congreso e integrarse a la bancada UNE",
+                "url": "https://www.prensalibre.com/guatemala/politica/quien-es-ivanna-bonilla-oliva-la-llamada-a-ocupar-una-curul-en-el-congreso-e-integrarse-a-la-bancada-une/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "¿Qué pasó con la Ley de IUSI?",
-                "url": "https://canalantigua.tv/2026/08/14/que-paso-con-la-ley-de-iusi/",
-                "source": "Canal Antigua"
+                "title": "El fallecimiento de Juan Ignacio Quijada Heredia provoca cambios en la UNE: Ivanna Bonilla asumiría",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/08/15/posible-sucesora-de-juan-quijada-en-el-congreso-es-coordinadora-departamental-en-chiquimula-de-la-une/",
+                "source": "La Hora"
             },
             {
-                "title": "Se le acaba el plazo a Bernado Arévalo para definir futuro del IUSI",
-                "url": "https://www.publinews.gt/noticias/2026/08/14/se-le-acaba-el-plazo-a-bernado-arevalo-para-definir-futuro-del-iusi/",
-                "source": "Publinews"
+                "title": "Ivanna Bonilla Oliva, la ex Miss que llegará al Congreso en Guatemala",
+                "url": "https://www.infobae.com/guatemala/2026/08/16/ivanna-bonilla-oliva-la-ex-miss-que-llegara-al-congreso-en-guatemala/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-08-16T12:05:48.356030",
+        "timestamp": "2026-08-17T12:07:08.640955",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "erling haaland",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "20.1 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Police in Ecuador seize 1,000 pounds of cocaine bearing the face of soccer star Erling Haaland; woman arrested",
+                "url": "https://www.cbsnews.com/news/cocaine-bust-stickers-erling-haaland-ecuador/",
+                "source": "CBS News"
+            },
+            {
+                "title": "Cops seize £15m of cocaine parcels featuring Man City star Erling Haaland after tip-off about flat-bed truck",
+                "url": "https://www.the-sun.com/news/16841719/cops-seize-cocaine-erling-haaland-parcels-truck/",
+                "source": "The Sun"
+            },
+            {
+                "title": "Erling Haaland's image found on cocaine packages in Ecuador drug bust",
+                "url": "https://www.yahoo.com/news/world/articles/erling-haalands-image-found-cocaine-181913737.html",
+                "source": "Yahoo"
+            }
+        ],
+        "timestamp": "2026-08-17T12:07:08.903342",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
         "title": "pasaporte",
-        "traffic": "200+",
-        "growth": "500%",
-        "activity_time": "21.8 horas",
+        "traffic": "500+",
+        "growth": "300%",
+        "activity_time": "18.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Está confirmado | Argentina, Chile y Uruguay prohíben el ingreso al país a todos los ciudadanos que posterguen la renovación del pasaporte",
-                "url": "https://www.cronista.com/mexico/actualidad-mx/esta-confirmado-argentina-chile-y-uruguay-prohiben-el-ingreso-al-pais-a-todos-los-ciudadanos-que-posterguen-la-renovacion-del-pasaporte/",
-                "source": "El Cronista"
+                "title": "Detienen en Guatemala a un venezolano y un hondureño por portar presuntos pasaportes falsos",
+                "url": "https://lahora.gt/nacionales/dguzman/2026/08/16/detienen-en-guatemala-a-un-venezolano-y-un-hondureno-por-portar-presuntos-pasaportes-falsos/",
+                "source": "La Hora"
             },
             {
-                "title": "Argentina, Chile y Uruguay exigen pasaporte vigente para el ingreso de turistas extranjeros",
-                "url": "https://cholilaonline.ar/2026/08/argentina-chile-y-uruguay-exigen-pasaporte-vigente-para-el-ingreso-de-turistas-extranjeros.html",
-                "source": "» Cholila Online"
+                "title": "Los extranjeros que intentaban salir del país con pasaportes falsos",
+                "url": "https://www.soy502.com/articulo/capturan-extranjeros-cuando-intentaban-usar-pasaportes-falsos-102123",
+                "source": "Soy502"
             },
             {
-                "title": "Ya es oficial y confirmado | Argentina, Chile y Uruguay bloquean el ingreso al país a todos los ciudadanos que posterguen la renovación del pasaporte",
-                "url": "https://vive.click/ya-es-oficial-y-confirmado-argentina-chile-y-uruguay-bloquean-el-ingreso-al-pais-a-todos-los-ciudadanos-que-posterguen-la-renovacion-del-pasaporte/",
-                "source": "Vive Click"
+                "title": "PNC intercepta a dos hombres con pasaportes falsos en el Aeropuerto La Aurora",
+                "url": "https://emisorasunidas.com/nacional/2026/08/16/viajeros-buscaban-tomar-un-vuelo-a-colombia-con-documentos-falsos/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-08-16T12:05:48.498026",
+        "timestamp": "2026-08-17T12:07:09.015728",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
