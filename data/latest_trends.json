@@ -1,87 +1,87 @@
 [
     {
-        "title": "diputado",
-        "traffic": "1000+",
-        "growth": "400%",
-        "activity_time": "12.1 horas",
+        "title": "gabriel garcía luna",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "22.1 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Quién es Ivanna Bonilla Oliva, la llamada a ocupar una curul en el Congreso e integrarse a la bancada UNE",
-                "url": "https://www.prensalibre.com/guatemala/politica/quien-es-ivanna-bonilla-oliva-la-llamada-a-ocupar-una-curul-en-el-congreso-e-integrarse-a-la-bancada-une/",
+                "title": "El blindaje de la impunidad",
+                "url": "https://www.prensalibre.com/opinion/columnasdiarias/el-blindaje-de-la-impunidad/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "El fallecimiento de Juan Ignacio Quijada Heredia provoca cambios en la UNE: Ivanna Bonilla asumiría",
-                "url": "https://lahora.gt/nacionales/jmaldonado/2026/08/15/posible-sucesora-de-juan-quijada-en-el-congreso-es-coordinadora-departamental-en-chiquimula-de-la-une/",
+                "title": "Quiénes son los jueces que no autorizaron la captura de Rafael Curruchiche y Saúl Sánchez",
+                "url": "https://lahora.gt/nacionales/dguzman/2026/08/17/quienes-son-los-jueces-que-no-autorizaron-la-captura-de-rafael-curruchiche-y-saul-sanchez/",
                 "source": "La Hora"
             },
             {
-                "title": "Ivanna Bonilla Oliva, la ex Miss que llegará al Congreso en Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/08/16/ivanna-bonilla-oliva-la-ex-miss-que-llegara-al-congreso-en-guatemala/",
-                "source": "Infobae"
+                "title": "Tercer revés para el MP: juzgados posponen citación de Curruchiche y Sánchez",
+                "url": "https://concriterio.gt/tercer-reves-para-el-mp-juzgados-posponen-citacion-de-curruchiche-y-sanchez/",
+                "source": "Con Criterio"
             }
         ],
-        "timestamp": "2026-08-17T12:07:08.640955",
+        "timestamp": "2026-08-18T12:08:17.366935",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "erling haaland",
-        "traffic": "500+",
+        "title": "combustible",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "20.1 horas",
+        "activity_time": "14.5 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "Police in Ecuador seize 1,000 pounds of cocaine bearing the face of soccer star Erling Haaland; woman arrested",
-                "url": "https://www.cbsnews.com/news/cocaine-bust-stickers-erling-haaland-ecuador/",
-                "source": "CBS News"
+                "title": "Etanol en las gasolinas de Guatemala: qué contaminantes reduce y cuáles son sus efectos ambientales",
+                "url": "https://www.prensalibre.com/economia/etanol-en-las-gasolinas-de-guatemala-que-contaminantes-reduce-y-cuales-son-sus-efectos-ambientales/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Cops seize £15m of cocaine parcels featuring Man City star Erling Haaland after tip-off about flat-bed truck",
-                "url": "https://www.the-sun.com/news/16841719/cops-seize-cocaine-erling-haaland-parcels-truck/",
-                "source": "The Sun"
-            },
-            {
-                "title": "Erling Haaland's image found on cocaine packages in Ecuador drug bust",
-                "url": "https://www.yahoo.com/news/world/articles/erling-haalands-image-found-cocaine-181913737.html",
-                "source": "Yahoo"
-            }
-        ],
-        "timestamp": "2026-08-17T12:07:08.903342",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "pasaporte",
-        "traffic": "500+",
-        "growth": "300%",
-        "activity_time": "18.0 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Detienen en Guatemala a un venezolano y un hondureño por portar presuntos pasaportes falsos",
-                "url": "https://lahora.gt/nacionales/dguzman/2026/08/16/detienen-en-guatemala-a-un-venezolano-y-un-hondureno-por-portar-presuntos-pasaportes-falsos/",
+                "title": "El etanol se mezclará en los puertos para la gasolina regular que se venderá desde el 22 de agosto",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/17/el-etanol-se-mezclara-en-los-puertos-para-la-gasolina-regular-que-se-vendera-desde-el-22-de-agosto/",
                 "source": "La Hora"
             },
             {
-                "title": "Los extranjeros que intentaban salir del país con pasaportes falsos",
-                "url": "https://www.soy502.com/articulo/capturan-extranjeros-cuando-intentaban-usar-pasaportes-falsos-102123",
-                "source": "Soy502"
-            },
-            {
-                "title": "PNC intercepta a dos hombres con pasaportes falsos en el Aeropuerto La Aurora",
-                "url": "https://emisorasunidas.com/nacional/2026/08/16/viajeros-buscaban-tomar-un-vuelo-a-colombia-con-documentos-falsos/",
-                "source": "Emisoras Unidas"
+                "title": "Esta semana iniciará la implementación de la mezcla de combustible E10",
+                "url": "https://agn.gt/semana-iniciara-la-implementacion-de-la-mezcla-de-combustible-e10/",
+                "source": "Agencia Guatemalteca de Noticias"
             }
         ],
-        "timestamp": "2026-08-17T12:07:09.015728",
+        "timestamp": "2026-08-18T12:08:17.436116",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "exilio",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "14.6 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Para el retorno de los exiliados Gobierno propone mecanismo; analista ve posible conflicto jurídico",
+                "url": "https://lahora.gt/nacionales/kjordan/2026/08/17/para-el-retorno-de-los-exiliados-gobierno-propone-mecanismo-analista-ve-posible-conflicto-juridico/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Arévalo anuncia plan para facilitar el retorno seguro de guatemaltecos en el exilio",
+                "url": "https://tvaztecaguate.com/nacionales/2026/08/17/arevalo-anuncia-plan-para-facilitar-el-retorno-seguro-de-guatemaltecos-en-el-exilio/",
+                "source": "Tv Azteca Guatemala"
+            },
+            {
+                "title": "Presidente Arévalo: \"No será sencillo reconstruir la confianza en las instituciones de justicia\"",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/ejecutivo-ofrece-tres-acciones-ante-exilio-y-criminalizacion/",
+                "source": "Diario de Centro América"
+            }
+        ],
+        "timestamp": "2026-08-18T12:08:17.623246",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
