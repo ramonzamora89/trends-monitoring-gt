@@ -1,87 +1,71 @@
 [
     {
-        "title": "gabriel garcía luna",
-        "traffic": "2000+",
+        "title": "magistrado",
+        "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "22.1 horas",
+        "activity_time": "14.3 horas",
         "topics": [
-            "Law and Government"
+            "Law and Government",
+            "Politics"
         ],
-        "news": [
-            {
-                "title": "El blindaje de la impunidad",
-                "url": "https://www.prensalibre.com/opinion/columnasdiarias/el-blindaje-de-la-impunidad/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Quiénes son los jueces que no autorizaron la captura de Rafael Curruchiche y Saúl Sánchez",
-                "url": "https://lahora.gt/nacionales/dguzman/2026/08/17/quienes-son-los-jueces-que-no-autorizaron-la-captura-de-rafael-curruchiche-y-saul-sanchez/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Tercer revés para el MP: juzgados posponen citación de Curruchiche y Sánchez",
-                "url": "https://concriterio.gt/tercer-reves-para-el-mp-juzgados-posponen-citacion-de-curruchiche-y-sanchez/",
-                "source": "Con Criterio"
-            }
-        ],
-        "timestamp": "2026-08-18T12:08:17.366935",
+        "news": [],
+        "timestamp": "2026-08-19T12:08:25.172378",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
         "title": "combustible",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "14.5 horas",
+        "traffic": "100+",
+        "growth": "300%",
+        "activity_time": "1.0 horas",
         "topics": [
-            "Business and Finance",
-            "Autos and Vehicles"
+            "Other"
         ],
         "news": [
             {
-                "title": "Etanol en las gasolinas de Guatemala: qué contaminantes reduce y cuáles son sus efectos ambientales",
-                "url": "https://www.prensalibre.com/economia/etanol-en-las-gasolinas-de-guatemala-que-contaminantes-reduce-y-cuales-son-sus-efectos-ambientales/",
+                "title": "Alza de combustibles: transportistas advierten sobre ajuste de tarifas y piden subsidio para usuarios",
+                "url": "https://www.prensalibre.com/economia/alza-de-combustibles-transportistas-advierten-sobre-ajuste-de-tarifas-y-piden-subsidio-para-usuarios-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "El etanol se mezclará en los puertos para la gasolina regular que se venderá desde el 22 de agosto",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/17/el-etanol-se-mezclara-en-los-puertos-para-la-gasolina-regular-que-se-vendera-desde-el-22-de-agosto/",
+                "title": "Coordinadora de Transporte pide al Congreso una respuesta ante el alza de combustibles",
+                "url": "https://lahora.gt/nacionales/dleon/2026/08/18/coordinadora-de-transporte-pide-al-congreso-una-respuesta-ante-el-alza-de-combustibles/",
                 "source": "La Hora"
             },
             {
-                "title": "Esta semana iniciará la implementación de la mezcla de combustible E10",
-                "url": "https://agn.gt/semana-iniciara-la-implementacion-de-la-mezcla-de-combustible-e10/",
-                "source": "Agencia Guatemalteca de Noticias"
+                "title": "Proponen fondo para compensar alzas en el precio del diésel",
+                "url": "https://www.soy502.com/articulo/proponen-fondo-compensar-alzas-precio-diesel-101962",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-08-18T12:08:17.436116",
+        "timestamp": "2026-08-19T12:08:25.277019",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "exilio",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "14.6 horas",
+        "title": "tormenta",
+        "traffic": "100+",
+        "growth": "300%",
+        "activity_time": "0.3 horas",
         "topics": [
-            "Law and Government"
+            "Climate"
         ],
         "news": [
             {
-                "title": "Para el retorno de los exiliados Gobierno propone mecanismo; analista ve posible conflicto jurídico",
-                "url": "https://lahora.gt/nacionales/kjordan/2026/08/17/para-el-retorno-de-los-exiliados-gobierno-propone-mecanismo-analista-ve-posible-conflicto-juridico/",
-                "source": "La Hora"
+                "title": "Empiezan las lluvias: Estas son las alcaldías de la CDMX afectadas esta tarde",
+                "url": "https://www.tvazteca.com/aztecanoticias/lluvias-hoy-18-agosto-alcaldias-donde-esta-lloviendo-hoy/",
+                "source": "TV Azteca"
             },
             {
-                "title": "Arévalo anuncia plan para facilitar el retorno seguro de guatemaltecos en el exilio",
-                "url": "https://tvaztecaguate.com/nacionales/2026/08/17/arevalo-anuncia-plan-para-facilitar-el-retorno-seguro-de-guatemaltecos-en-el-exilio/",
-                "source": "Tv Azteca Guatemala"
+                "title": "Llueve en CDMX: activan alerta amarilla por fuertes precipitaciones en al menos 12 alcaldías",
+                "url": "https://latinus.us/mexico/2026/8/18/llueve-en-cdmx-activan-alerta-amarilla-por-fuertes-precipitaciones-en-al-menos-12-alcaldias-181961.html",
+                "source": "LatinUS"
             },
             {
-                "title": "Presidente Arévalo: \"No será sencillo reconstruir la confianza en las instituciones de justicia\"",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/ejecutivo-ofrece-tres-acciones-ante-exilio-y-criminalizacion/",
-                "source": "Diario de Centro América"
+                "title": "¡Se viene el diluvio! ¿A qué hora lloverá con fuerza y caerá granizo en CDMX HOY?",
+                "url": "https://www.publimetro.com.mx/noticias/2026/08/18/se-viene-el-diluvio-a-que-hora-llovera-con-fuerza-y-caera-granizo-en-cdmx-hoy/",
+                "source": "Publimetro México"
             }
         ],
-        "timestamp": "2026-08-18T12:08:17.623246",
+        "timestamp": "2026-08-19T12:08:25.376714",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
