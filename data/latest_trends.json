@@ -1,71 +1,88 @@
 [
     {
-        "title": "magistrado",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "14.3 horas",
-        "topics": [
-            "Law and Government",
-            "Politics"
-        ],
-        "news": [],
-        "timestamp": "2026-08-19T12:08:25.172378",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "combustible",
+        "title": "contribuyente",
         "traffic": "100+",
         "growth": "300%",
-        "activity_time": "1.0 horas",
+        "activity_time": "2.3 horas",
         "topics": [
-            "Other"
+            "Law and Government",
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Alza de combustibles: transportistas advierten sobre ajuste de tarifas y piden subsidio para usuarios",
-                "url": "https://www.prensalibre.com/economia/alza-de-combustibles-transportistas-advierten-sobre-ajuste-de-tarifas-y-piden-subsidio-para-usuarios-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Coordinadora de Transporte pide al Congreso una respuesta ante el alza de combustibles",
-                "url": "https://lahora.gt/nacionales/dleon/2026/08/18/coordinadora-de-transporte-pide-al-congreso-una-respuesta-ante-el-alza-de-combustibles/",
+                "title": "¿Recibió un SMS de la SAT? Esto significa el mensaje sobre Agencia Virtual para 310 mil contribuyentes",
+                "url": "https://lahora.gt/lh-economia/mherrera/2026/08/19/recibio-un-sms-de-la-sat-esto-significa-el-mensaje-sobre-agencia-virtual-para-310-mil-contribuyentes-now/",
                 "source": "La Hora"
             },
             {
-                "title": "Proponen fondo para compensar alzas en el precio del diésel",
-                "url": "https://www.soy502.com/articulo/proponen-fondo-compensar-alzas-precio-diesel-101962",
-                "source": "Soy502"
+                "title": "Fallo de la CC sobre RTU y NIT",
+                "url": "https://www.prensalibre.com/opinion/columnasdiarias/fallo-de-la-cc-sobre-rtu-y-nit/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "SAT debe notificar y permitir defensa antes de suspender a contribuyentes por irregularidades fiscales",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/18/la-sat-ya-no-podra-suspender-a-contribuyentes-sin-darles-oportunidad-de-defenderse-now/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-19T12:08:25.277019",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+        "timestamp": "2026-08-20T12:08:51.435843",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "tormenta",
+        "title": "etanol",
         "traffic": "100+",
-        "growth": "300%",
-        "activity_time": "0.3 horas",
+        "growth": "100%",
+        "activity_time": "1.5 horas",
         "topics": [
-            "Climate"
+            "Business and Finance",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "Empiezan las lluvias: Estas son las alcaldías de la CDMX afectadas esta tarde",
-                "url": "https://www.tvazteca.com/aztecanoticias/lluvias-hoy-18-agosto-alcaldias-donde-esta-lloviendo-hoy/",
-                "source": "TV Azteca"
+                "title": "Etanol en las gasolinas de Guatemala: ¿así cambiará el cálculo del precio y cuánto podría bajar el precio por galón?",
+                "url": "https://www.prensalibre.com/economia/etanol-en-las-gasolinas-de-guatemala-asi-cambiara-el-calculo-del-precio-y-cuanto-podria-bajar-el-precio-por-galon/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Llueve en CDMX: activan alerta amarilla por fuertes precipitaciones en al menos 12 alcaldías",
-                "url": "https://latinus.us/mexico/2026/8/18/llueve-en-cdmx-activan-alerta-amarilla-por-fuertes-precipitaciones-en-al-menos-12-alcaldias-181961.html",
-                "source": "LatinUS"
+                "title": "Etanol en Guatemala: el E10 cambia la gasolina regular, pero no la forma de cargar combustible",
+                "url": "https://lahora.gt/lh-economia/mherrera/2026/08/19/etanol-en-guatemala-el-e10-cambia-la-gasolina-regular-pero-no-la-forma-de-cargar-combustible/",
+                "source": "La Hora"
             },
             {
-                "title": "¡Se viene el diluvio! ¿A qué hora lloverá con fuerza y caerá granizo en CDMX HOY?",
-                "url": "https://www.publimetro.com.mx/noticias/2026/08/18/se-viene-el-diluvio-a-que-hora-llovera-con-fuerza-y-caera-granizo-en-cdmx-hoy/",
-                "source": "Publimetro México"
+                "title": "Energía y Minas señala que hay suficiente alcohol carburante para iniciar mezcla E10",
+                "url": "https://www.soy502.com/articulo/mem-asegura-suficiente-alcohol-carburante-iniciar-mezcla-e10-102052",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-08-19T12:08:25.376714",
+        "timestamp": "2026-08-20T12:08:51.502190",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "centro de detención preventiva para hombres y mujeres los jocotes",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "12.3 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Reo señalado de salir de la cárcel para ir a un concierto estaría vinculado con grupo de sicarios \"los Chegüen\"",
+                "url": "https://www.prensalibre.com/guatemala/justicia/reo-senalado-de-salir-de-la-carcel-para-ir-a-un-concierto-estaria-vinculado-con-grupo-de-sicarios-los-cheguen/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Requisa en \"Los Jocotes\"",
+                "url": "https://canalantigua.tv/2026/08/19/requisa-en-los-jocotes/",
+                "source": "Canal Antigua"
+            },
+            {
+                "title": "Sistema Penitenciario denuncia a guardias por llevar a reo a una feria y a un desfile",
+                "url": "https://www.soy502.com/articulo/dgsp-denuncia-guardias-incidentes-jocotes-zacapa-102154",
+                "source": "Soy502"
+            }
+        ],
+        "timestamp": "2026-08-20T12:08:51.655140",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
