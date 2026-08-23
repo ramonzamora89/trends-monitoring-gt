@@ -1,71 +1,70 @@
 [
     {
-        "title": "pasaporte",
+        "title": "visa",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "18.9 horas",
+        "activity_time": "16.4 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Cómo extender la vigencia del pasaporte guatemalteco gratis por 18 meses",
-                "url": "https://crnnoticias.com/como-extender-la-vigencia-del-pasaporte-guatemalteco-gratis-por-18-meses/",
-                "source": "CRN Noticias"
+                "title": "Trump’s visa ban on 75 countries struck down by federal judge",
+                "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
+                "source": "The Washington Post"
             },
             {
-                "title": "Fernando Farías Laguna llega a México tras ser expulsado de Argentina",
-                "url": "https://www.prensalibre.com/ahora/internacional/fernando-farias-laguna-llega-a-mexico-tras-ser-expulsado-de-argentina/",
-                "source": "Prensa Libre"
+                "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
+                "url": "https://apnews.com/article/trump-administration-visa-ban-immigration-64feb19b54d1bce50891437a5ba25d50",
+                "source": "AP News"
             },
             {
-                "title": "Familia, poder y corrupción: los vínculos de los hermanos Farías Laguna con la cúpula de la Marina",
-                "url": "https://www.nvinoticias.com/nacional/familia-poder-y-corrupcion-los-vinculos-de-los-hermanos-farias-laguna-con-la-cupula-de-la-marina/192271",
-                "source": "NVI Noticias"
+                "title": "Trump’s 75-country immigrant visa ban struck down by judge",
+                "url": "https://edition.cnn.com/2026/08/22/politics/judge-voids-trumps-75-country-visa-ban-hnk",
+                "source": "CNN"
             }
         ],
-        "timestamp": "2026-08-22T12:06:10.281484",
+        "timestamp": "2026-08-23T12:06:27.438165",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "corte centroamericana de justicia",
-        "traffic": "100+",
+        "title": "aerometro",
+        "traffic": "1000+",
         "growth": "400%",
-        "activity_time": "14.8 horas",
+        "activity_time": "17.8 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Corte Centroamericana de Justicia desaparecerá tras salida de Nicaragua, Honduras y El Salvador",
-                "url": "https://lahora.gt/nacionales/kjordan/2026/08/21/corte-centroamericana-de-justicia-desaparecera-tras-salida-de-nicaragua-honduras-y-el-salvador-now/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Guatemala declara imposibilidad de cumplir con las obligaciones del Estatuto de la Corte Centroamericana de Justicia",
-                "url": "https://www.prensalibre.com/ahora/guatemala/politica/guatemala-declara-imposibilidad-de-cumplir-con-las-obligaciones-del-estatuto-de-la-corte-centroamericana-de-justicia/",
+                "title": "AeroMetro: Quiñónez detalla avances en construcción de sistema de transporte capitalino",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/aerometro-quinonez-detalla-avances-en-construccion-de-sistema-de-transporte-capitalino/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "El gobierno de Guatemala formalizó su salida de la Corte Centroamericana de Justicia, lo cual deja sin efecto al organismo regional",
-                "url": "https://www.infobae.com/guatemala/2026/08/21/el-gobierno-de-guatemala-formalizo-su-salida-de-la-corte-centroamericana-de-justicia-lo-cual-deja-sin-efecto-al-organismo-regional/",
-                "source": "Infobae"
+                "title": "AeroMetro: liberan carril en bulevar Liberación mientras avanza construcción de estaciones",
+                "url": "https://lahora.gt/nacionales/kgutierrez/2026/08/22/aerometro-liberan-carril-en-bulevar-liberacion-mientras-avanza-construccion-de-estaciones/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Alcalde destaca avances en primera fase de teleférico en Guatemala",
+                "url": "https://www.prensa-latina.cu/2026/08/22/alcalde-destaca-avances-en-primera-fase-de-teleferico-en-guatemala/",
+                "source": "Prensa Latina"
             }
         ],
-        "timestamp": "2026-08-22T12:06:10.451711",
+        "timestamp": "2026-08-23T12:06:27.590242",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "comisionado",
-        "traffic": "100+",
-        "growth": "900%",
-        "activity_time": "17.1 horas",
+        "title": "mara salvatrucha",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "19.9 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Law and Government"
         ],
         "news": [],
-        "timestamp": "2026-08-22T12:06:10.540124",
+        "timestamp": "2026-08-23T12:06:27.788276",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
