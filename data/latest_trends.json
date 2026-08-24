@@ -1,70 +1,86 @@
 [
     {
-        "title": "visa",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "16.4 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Trump’s visa ban on 75 countries struck down by federal judge",
-                "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
-                "source": "The Washington Post"
-            },
-            {
-                "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
-                "url": "https://apnews.com/article/trump-administration-visa-ban-immigration-64feb19b54d1bce50891437a5ba25d50",
-                "source": "AP News"
-            },
-            {
-                "title": "Trump’s 75-country immigrant visa ban struck down by judge",
-                "url": "https://edition.cnn.com/2026/08/22/politics/judge-voids-trumps-75-country-visa-ban-hnk",
-                "source": "CNN"
-            }
-        ],
-        "timestamp": "2026-08-23T12:06:27.438165",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "aerometro",
-        "traffic": "1000+",
-        "growth": "400%",
-        "activity_time": "17.8 horas",
+        "title": "vix",
+        "traffic": "500+",
+        "growth": "300%",
+        "activity_time": "17.0 horas",
         "topics": [
             "Business and Finance"
         ],
         "news": [
             {
-                "title": "AeroMetro: Quiñónez detalla avances en construcción de sistema de transporte capitalino",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/aerometro-quinonez-detalla-avances-en-construccion-de-sistema-de-transporte-capitalino/",
+                "title": "Charting the S&P 500: Giving Bulls the Benefit of the Doubt",
+                "url": "https://pro.thestreet.com/portfolio/charting-the-sp-500-giving-bulls-the-benefit-of-the-doubt",
+                "source": "TheStreet Pro"
+            },
+            {
+                "title": "Markets Are Serene in Their Summer Sargasso Sea",
+                "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-17/markets-are-serene-in-their-summer-sargasso-sea",
+                "source": "Bloomberg.com"
+            },
+            {
+                "title": "The S&P 500 Index Is Calm. Its Stocks Aren’t.",
+                "url": "https://www.pennmutualam.com/market-insights-news/blogs/chart-of-the-week/2026-08-20-the-sp-500-index-is-calm-its-stocks-aren-t",
+                "source": "Penn Mutual Asset Management"
+            }
+        ],
+        "timestamp": "2026-08-24T12:08:52.929815",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "puente guijo",
+        "traffic": "200+",
+        "growth": "300%",
+        "activity_time": "9.5 horas",
+        "topics": [
+            "Other"
+        ],
+        "news": [
+            {
+                "title": "“Agárrense fuerte”: sobreviviente narra cómo sucedió el fatal accidente en el puente Güijo, en Usumatlán",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/agarrense-fuerte-sobreviviente-narra-como-sucedio-el-fatal-accidente-en-el-puente-guijo-en-usumatlan/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "AeroMetro: liberan carril en bulevar Liberación mientras avanza construcción de estaciones",
-                "url": "https://lahora.gt/nacionales/kgutierrez/2026/08/22/aerometro-liberan-carril-en-bulevar-liberacion-mientras-avanza-construccion-de-estaciones/",
-                "source": "La Hora"
+                "title": "\"Agárrense duro\", sobreviviente relata cómo escapó del choque que derrumbó el puente El Güijo en Guatemala",
+                "url": "https://www.infobae.com/guatemala/2026/08/23/agarrense-duro-sobreviviente-relata-como-escapo-del-choque-que-derrumbo-el-puente-el-guijo-en-guatemala/",
+                "source": "Infobae"
             },
             {
-                "title": "Alcalde destaca avances en primera fase de teleférico en Guatemala",
-                "url": "https://www.prensa-latina.cu/2026/08/22/alcalde-destaca-avances-en-primera-fase-de-teleferico-en-guatemala/",
-                "source": "Prensa Latina"
+                "title": "CIV despliega maquinaria en puente Güijo para recuperar conectividad en la CA-9 Norte",
+                "url": "https://www.soy502.com/articulo/civ-despliega-maquinaria-puente-guijo-recuperar-vialidad-102052",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-08-23T12:06:27.590242",
+        "timestamp": "2026-08-24T12:08:53.060686",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "mara salvatrucha",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "19.9 horas",
+        "title": "rector",
+        "traffic": "1000+",
+        "growth": "600%",
+        "activity_time": "19.5 horas",
         "topics": [
-            "Law and Government"
+            "Jobs and Education"
         ],
-        "news": [],
-        "timestamp": "2026-08-23T12:06:27.788276",
+        "news": [
+            {
+                "title": "La Universidad Arévalo y Walter Mazariegos: Luis Cordón, allegado al Rector, asume representación de la casa de estudios en el Foro de Rectores",
+                "url": "https://lahora.gt/investigacion/la-hora/2026/08/23/la-universidad-arevalo-y-walter-mazariegos-luis-cordon-allegado-al-rector-asume-representacion-de-la-casa-de-estudios-en-el-foro-de-rectores/",
+                "source": "La Hora"
+            },
+            {
+                "title": "La formación en lenguas abre nuevas oportunidades para los universitarios: rector de la UJED",
+                "url": "https://oem.com.mx/elsoldedurango/local/la-formacion-en-lenguas-abre-nuevas-oportunidades-para-los-universitarios-rector-de-la-ujed-31710660",
+                "source": "El Sol de México"
+            },
+            {
+                "title": "Mayor matrícula y nuevas estrategias fortalecen las finanzas de la UJED",
+                "url": "https://oem.com.mx/elsoldedurango/local/mayor-matricula-y-nuevas-estrategias-fortalecen-las-finanzas-de-la-ujed-31710629",
+                "source": "El Sol de México"
+            }
+        ],
+        "timestamp": "2026-08-24T12:08:53.123100",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
