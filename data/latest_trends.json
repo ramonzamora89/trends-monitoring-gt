@@ -1,86 +1,89 @@
 [
     {
-        "title": "vix",
-        "traffic": "500+",
-        "growth": "300%",
-        "activity_time": "17.0 horas",
+        "title": "tribunal de justicia",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "22.5 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Charting the S&P 500: Giving Bulls the Benefit of the Doubt",
-                "url": "https://pro.thestreet.com/portfolio/charting-the-sp-500-giving-bulls-the-benefit-of-the-doubt",
-                "source": "TheStreet Pro"
+                "title": "Entrar o crecer en el OJ: el mejor postor",
+                "url": "https://lahora.gt/editorial/la-hora/2026/08/24/entrar-o-crecer-en-el-oj-el-mejor-postor/",
+                "source": "La Hora"
             },
             {
-                "title": "Markets Are Serene in Their Summer Sargasso Sea",
-                "url": "https://www.bloomberg.com/opinion/newsletters/2026-08-17/markets-are-serene-in-their-summer-sargasso-sea",
-                "source": "Bloomberg.com"
+                "title": "Investigación de La Hora: sindicatos del OJ rompen silencio, piden investigación y se señalan entre sí",
+                "url": "https://lahora.gt/nacionales/ypena/2026/08/24/investigacion-de-la-hora-sindicatos-del-oj-rompen-silencio-piden-investigacion-y-se-senalan-entre-si-now/",
+                "source": "La Hora"
             },
             {
-                "title": "The S&P 500 Index Is Calm. Its Stocks Aren’t.",
-                "url": "https://www.pennmutualam.com/market-insights-news/blogs/chart-of-the-week/2026-08-20-the-sp-500-index-is-calm-its-stocks-aren-t",
-                "source": "Penn Mutual Asset Management"
+                "title": "Si se paga por una plaza, ¿qué más se compromete dentro del OJ?, cuestionan analistas",
+                "url": "https://lahora.gt/investigacion/diego/2026/08/25/si-se-paga-por-una-plaza-que-mas-se-compromete-dentro-del-oj-cuestionan-analistas/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-24T12:08:52.929815",
+        "timestamp": "2026-08-25T12:09:45.653799",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "puente guijo",
-        "traffic": "200+",
-        "growth": "300%",
-        "activity_time": "9.5 horas",
+        "title": "gasolina",
+        "traffic": "2000+",
+        "growth": "1000%",
+        "activity_time": "18.2 horas",
         "topics": [
-            "Other"
+            "Business and Finance",
+            "Autos and Vehicles"
         ],
         "news": [
             {
-                "title": "“Agárrense fuerte”: sobreviviente narra cómo sucedió el fatal accidente en el puente Güijo, en Usumatlán",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/agarrense-fuerte-sobreviviente-narra-como-sucedio-el-fatal-accidente-en-el-puente-guijo-en-usumatlan/",
+                "title": "Guatemala comienza a usar E10 y productores de EE. UU. ven potencial para exportar más etanol",
+                "url": "https://www.prensalibre.com/economia/guatemala-comienza-a-usar-e10-y-productores-de-ee-uu-ven-potencial-para-exportar-mas-etanol/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "\"Agárrense duro\", sobreviviente relata cómo escapó del choque que derrumbó el puente El Güijo en Guatemala",
-                "url": "https://www.infobae.com/guatemala/2026/08/23/agarrense-duro-sobreviviente-relata-como-escapo-del-choque-que-derrumbo-el-puente-el-guijo-en-guatemala/",
-                "source": "Infobae"
+                "title": "Gasolina regular con etanol llega a las bombas y ya mueve precios",
+                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/24/gasolina-regular-con-etanol-llega-a-las-bombas-y-ya-mueve-precios/",
+                "source": "La Hora"
             },
             {
-                "title": "CIV despliega maquinaria en puente Güijo para recuperar conectividad en la CA-9 Norte",
-                "url": "https://www.soy502.com/articulo/civ-despliega-maquinaria-puente-guijo-recuperar-vialidad-102052",
-                "source": "Soy502"
+                "title": "Arévalo reconoce dificultades en la cadena de distribución para el etanol",
+                "url": "https://canalantigua.tv/2026/08/24/arevalo-reconoce-dificultades-en-la-cadena-de-distribucion-para-el-etanol/",
+                "source": "Canal Antigua"
             }
         ],
-        "timestamp": "2026-08-24T12:08:53.060686",
+        "timestamp": "2026-08-25T12:09:45.810630",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "rector",
+        "title": "vehículo",
         "traffic": "1000+",
-        "growth": "600%",
-        "activity_time": "19.5 horas",
+        "growth": "1000%",
+        "activity_time": "18.3 horas",
         "topics": [
+            "Autos and Vehicles",
+            "Law and Government",
             "Jobs and Education"
         ],
         "news": [
             {
-                "title": "La Universidad Arévalo y Walter Mazariegos: Luis Cordón, allegado al Rector, asume representación de la casa de estudios en el Foro de Rectores",
-                "url": "https://lahora.gt/investigacion/la-hora/2026/08/23/la-universidad-arevalo-y-walter-mazariegos-luis-cordon-allegado-al-rector-asume-representacion-de-la-casa-de-estudios-en-el-foro-de-rectores/",
+                "title": "¿Qué modelos de vehículos predominan en Guatemala? Reporte de la SAT revela la antigüedad del parque vehicular",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/que-modelos-de-vehiculos-predominan-en-guatemala-reporte-de-la-sat-revelan-la-antiguedad-del-parque-vehicular/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Un vehículo para cada conductor: así es la propuesta de MG",
+                "url": "https://lahora.gt/lh-comercial/redaccioncomercial/2026/08/24/un-vehiculo-para-cada-conductor-asi-es-la-propuesta-de-mg/",
                 "source": "La Hora"
             },
             {
-                "title": "La formación en lenguas abre nuevas oportunidades para los universitarios: rector de la UJED",
-                "url": "https://oem.com.mx/elsoldedurango/local/la-formacion-en-lenguas-abre-nuevas-oportunidades-para-los-universitarios-rector-de-la-ujed-31710660",
-                "source": "El Sol de México"
-            },
-            {
-                "title": "Mayor matrícula y nuevas estrategias fortalecen las finanzas de la UJED",
-                "url": "https://oem.com.mx/elsoldedurango/local/mayor-matricula-y-nuevas-estrategias-fortalecen-las-finanzas-de-la-ujed-31710629",
-                "source": "El Sol de México"
+                "title": "Intentaron robarle una motocicleta a un joven en zona 10",
+                "url": "https://www.soy502.com/articulo/pnc-captura-dos-hombres-intento-robo-moto-zona-10-102154",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-08-24T12:08:53.123100",
+        "timestamp": "2026-08-25T12:09:46.108786",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
