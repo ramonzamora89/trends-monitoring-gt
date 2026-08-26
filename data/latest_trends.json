@@ -1,89 +1,72 @@
 [
     {
-        "title": "tribunal de justicia",
+        "title": "ley",
         "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "22.5 horas",
+        "activity_time": "19.8 horas",
         "topics": [
-            "Law and Government"
+            "Law and Government",
+            "Health"
         ],
         "news": [
             {
-                "title": "Entrar o crecer en el OJ: el mejor postor",
-                "url": "https://lahora.gt/editorial/la-hora/2026/08/24/entrar-o-crecer-en-el-oj-el-mejor-postor/",
+                "title": "Dictaminan favorablemente iniciativa de ley que otorga bono a salubristas",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/08/25/dictaminan-favorablemente-iniciativa-de-ley-que-otorga-bono-a-salubristas-now/",
                 "source": "La Hora"
             },
             {
-                "title": "Investigación de La Hora: sindicatos del OJ rompen silencio, piden investigación y se señalan entre sí",
-                "url": "https://lahora.gt/nacionales/ypena/2026/08/24/investigacion-de-la-hora-sindicatos-del-oj-rompen-silencio-piden-investigacion-y-se-senalan-entre-si-now/",
-                "source": "La Hora"
+                "title": "Congreso conoce en primer debate reformas al Código Procesal Penal",
+                "url": "https://www.soy502.com/articulo/congreso-conoce-primer-debate-reformas-al-codigo-penal-101962",
+                "source": "Soy502"
             },
             {
-                "title": "Si se paga por una plaza, ¿qué más se compromete dentro del OJ?, cuestionan analistas",
-                "url": "https://lahora.gt/investigacion/diego/2026/08/25/si-se-paga-por-una-plaza-que-mas-se-compromete-dentro-del-oj-cuestionan-analistas/",
-                "source": "La Hora"
+                "title": "Congreso intenta aprobar iniciativa de ley para que la CSJ imponga jurisprudencia en materia penal",
+                "url": "https://www.prensalibre.com/guatemala/politica/congreso-intenta-aprobar-iniciativa-de-ley-para-que-la-csj-imponga-jurisprudencia-en-materia-penal/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-08-25T12:09:45.653799",
+        "timestamp": "2026-08-26T12:09:35.565953",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "gasolina",
-        "traffic": "2000+",
+        "title": "robo",
+        "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "18.2 horas",
+        "activity_time": "15.2 horas",
         "topics": [
-            "Business and Finance",
-            "Autos and Vehicles"
+            "Law and Government"
         ],
-        "news": [
-            {
-                "title": "Guatemala comienza a usar E10 y productores de EE. UU. ven potencial para exportar más etanol",
-                "url": "https://www.prensalibre.com/economia/guatemala-comienza-a-usar-e10-y-productores-de-ee-uu-ven-potencial-para-exportar-mas-etanol/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Gasolina regular con etanol llega a las bombas y ya mueve precios",
-                "url": "https://lahora.gt/lh-economia/jveliz/2026/08/24/gasolina-regular-con-etanol-llega-a-las-bombas-y-ya-mueve-precios/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Arévalo reconoce dificultades en la cadena de distribución para el etanol",
-                "url": "https://canalantigua.tv/2026/08/24/arevalo-reconoce-dificultades-en-la-cadena-de-distribucion-para-el-etanol/",
-                "source": "Canal Antigua"
-            }
-        ],
-        "timestamp": "2026-08-25T12:09:45.810630",
+        "news": [],
+        "timestamp": "2026-08-26T12:09:35.628323",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "vehículo",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "18.3 horas",
+        "title": "corte suprema",
+        "traffic": "200+",
+        "growth": "500%",
+        "activity_time": "23.0 horas",
         "topics": [
-            "Autos and Vehicles",
             "Law and Government",
-            "Jobs and Education"
+            "Politics"
         ],
         "news": [
             {
-                "title": "¿Qué modelos de vehículos predominan en Guatemala? Reporte de la SAT revela la antigüedad del parque vehicular",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/que-modelos-de-vehiculos-predominan-en-guatemala-reporte-de-la-sat-revelan-la-antiguedad-del-parque-vehicular/",
-                "source": "Prensa Libre"
+                "title": "La Corte Suprema respalda el decreto de Trump para restringir el voto por correo",
+                "url": "https://cnnespanol.cnn.com/2026/08/24/eeuu/corte-suprema-respalda-decreto-voto-correo-trax",
+                "source": "CNN en Español"
             },
             {
-                "title": "Un vehículo para cada conductor: así es la propuesta de MG",
-                "url": "https://lahora.gt/lh-comercial/redaccioncomercial/2026/08/24/un-vehiculo-para-cada-conductor-asi-es-la-propuesta-de-mg/",
-                "source": "La Hora"
+                "title": "Límites a la votación por correo",
+                "url": "https://www.telemundohouston.com/video/noticias/eeuu/limites-a-la-votacion-por-correo/2578100/",
+                "source": "Telemundo Houston"
             },
             {
-                "title": "Intentaron robarle una motocicleta a un joven en zona 10",
-                "url": "https://www.soy502.com/articulo/pnc-captura-dos-hombres-intento-robo-moto-zona-10-102154",
-                "source": "Soy502"
+                "title": "Sobres con código de barras y datos centralizados: la norma con la que el USPS busca transformar el voto por correo",
+                "url": "https://www.infobae.com/estados-unidos/2026/08/25/sobres-con-codigo-de-barras-y-datos-centralizados-la-norma-con-la-que-el-usps-busca-transformar-el-voto-por-correo/",
+                "source": "Infobae"
             }
         ],
-        "timestamp": "2026-08-25T12:09:46.108786",
+        "timestamp": "2026-08-26T12:09:36.048138",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
