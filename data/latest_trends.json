@@ -1,87 +1,85 @@
 [
     {
-        "title": "granja penal pavon guatemala",
-        "traffic": "500+",
-        "growth": "600%",
-        "activity_time": "18.0 horas",
+        "title": "harald v de noruega",
+        "traffic": "200+",
+        "growth": "800%",
+        "activity_time": "1.8 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "De 850 cervezas a 20 mil cajetillas de cigarrillos: el amplio inventario localizado durante una requisa en Pavón",
-                "url": "https://www.prensalibre.com/guatemala/justicia/de-850-cervezas-a-20-mil-cajetillas-de-cigarrillos-el-amplio-inventario-localizado-durante-una-requisa-en-pavon-breaking/",
+                "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una \"plebeya\" y reformó la monarquía de su país",
+                "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o",
+                "source": "BBC"
+            },
+            {
+                "title": "Quién es Haakon VIII, el nuevo rey de Noruega que asume la corona en tiempos turbulentos para la monarquía del país nórdico",
+                "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-haakon-viii-el-nuevo-rey-de-noruega-que-asume-la-corona-en-tiempos-turbulentos-para-la-monarquia-del-pais-nordico/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Así luce el túnel que fue descubierto dentro de la cárcel Pavón",
-                "url": "https://www.soy502.com/articulo/asi-luce-tunel-fue-descubierto-dentro-carcel-pavon-102123",
-                "source": "Soy502"
-            },
-            {
-                "title": "Requisa en Pavón: incautan drogas, celulares, alcohol y equipos de comunicación",
-                "url": "https://emisorasunidas.com/nacional/2026/08/26/requisa-en-pavon-incautan/",
-                "source": "Emisoras Unidas"
+                "title": "El rey Carlos III, el príncipe Alberto de Mónaco y más Casas Reales lamentan la muerte de Harald V de Noruega",
+                "url": "https://www.hola.com/us-es/realeza/20260828920541/rey-harald-noruega-muerte-reacciones-realeza-carlos-iii-mensajes-fotos/",
+                "source": "HOLA"
             }
         ],
-        "timestamp": "2026-08-27T15:42:10.184223",
+        "timestamp": "2026-08-28T16:07:17.033571",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "patricia orantes",
-        "traffic": "1000+",
+        "title": "juez",
+        "traffic": "2000+",
         "growth": "500%",
-        "activity_time": "19.9 horas",
+        "activity_time": "16.1 horas",
         "topics": [
-            "Law and Government",
-            "Politics"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Patricia Orantes regresa al Congreso en medio de la discusión de la Ley de Aguas",
-                "url": "https://lahora.gt/nacionales/hloarca/2026/08/26/patricia-orantes-regresa-al-congreso-en-medio-de-la-discusion-de-la-ley-de-aguass/",
-                "source": "La Hora"
-            },
-            {
-                "title": "Patricia Orantes dejará el gabinete de Arévalo y regresará al Congreso el 1 de septiembre",
-                "url": "https://www.prensalibre.com/guatemala/politica/patricia-orantes-dejara-el-gabinete-de-arevalo-y-regresara-al-congreso-el-1-de-septiembre-breaking/",
+                "title": "Juez cambia delito contra Jorge Rodas y ahora enfrentará proceso por el homicidio de Nidia Bautista",
+                "url": "https://www.prensalibre.com/guatemala/justicia/juez-cambia-delito-contra-jorge-rodas-y-ahora-enfrentara-proceso-por-el-homicidio-de-nidia-bautista-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Patricia Orantes dejará el Ministerio de Ambiente el 1 de septiembre",
-                "url": "https://www.publinews.gt/noticias/2026/08/26/patricia-orantes-dejara-el-ministerio-de-ambiente-el-1-de-septiembre/",
-                "source": "Publinews"
+                "title": "Señalado de atropellar a Nidia Bautista será procesado por homicidio tras cambio de delito",
+                "url": "https://canalantigua.tv/2026/08/27/senalado-de-atropellar-a-nidia-bautista-sera-procesado-por-homicidio-tras-cambio-de-delito/",
+                "source": "Canal Antigua"
+            },
+            {
+                "title": "Tras responder a su solicitud, Instituto de la Víctima se pronuncia por cambio de delito en caso de Nidia Bautista",
+                "url": "https://lahora.gt/nacionales/dleon/2026/08/27/tras-responder-a-su-solicitud-instituto-de-la-victima-se-pronuncia-por-cambio-de-delito-en-caso-de-nidia-bautista-now/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-27T15:42:10.433110",
+        "timestamp": "2026-08-28T16:07:17.115138",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "carretera",
-        "traffic": "1000+",
-        "growth": "800%",
-        "activity_time": "21.4 horas",
+        "title": "marco antonio villeda",
+        "traffic": "100+",
+        "growth": "700%",
+        "activity_time": "1.8 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Corredor Verde avanza hacia 2028: así buscan proteger el ecosistema por donde pasará la carretera",
-                "url": "https://www.prensalibre.com/economia/corredor-verde-avanza-hacia-2028-asi-buscan-proteger-el-ecosistema-por-donde-pasara-la-carretera/",
+                "title": "Gobernación propone negar medidas sustitutivas por portación ilegal de armas y ampliar el control telemático",
+                "url": "https://www.prensalibre.com/guatemala/politica/gobernacion-propone-negar-medidas-sustitutivas-por-portacion-ilegal-de-armas-y-ampliar-el-control-telematico-breaking/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Así avanza el Corredor Verde, tramo que agilizará el tránsito entre Mixco y la Ciudad",
-                "url": "https://www.soy502.com/articulo/video-alcalde-deja-ver-avances-corredor-verde-102123",
-                "source": "Soy502"
+                "title": "Mingob y diputados analizan restricción a medidas sustitutivas por portación ilegal de armas",
+                "url": "https://canalantigua.tv/2026/08/27/mingob-y-diputados-analizan-restriccion-a-medidas-sustitutivas-por-portacion-ilegal-de-armas/",
+                "source": "Canal Antigua"
             },
             {
-                "title": "Carretera A El Salvador Concentra El Tráfico De Este Martes",
-                "url": "https://www.lared1061.com/posts/carretera-a-el-salvador-concentra-el-trafico-de-este-martes",
-                "source": "La Red 106.1 FM"
+                "title": "Villeda urge reformar el artículo 264 del Código Procesal Penal para reforzar la seguridad",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/tag/villeda-urge-reformar-el-articulo-264-del-codigo-procesal-penal-para-reforzar-la-seguridad/",
+                "source": "Diario de Centro América"
             }
         ],
-        "timestamp": "2026-08-27T15:42:10.757064",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
+        "timestamp": "2026-08-28T16:07:17.299115"
     }
 ]
