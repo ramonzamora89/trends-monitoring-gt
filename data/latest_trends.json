@@ -1,85 +1,86 @@
 [
     {
-        "title": "harald v de noruega",
-        "traffic": "200+",
-        "growth": "800%",
-        "activity_time": "1.8 horas",
+        "title": "organismo judicial de guatemala",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "15.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una \"plebeya\" y reformó la monarquía de su país",
+                "title": "OJ confirma desaparición de armamento y presenta denuncia ante el Ministerio Público",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/oj-confirma-desaparicion-de-armamento-y-presenta-denuncia-ante-el-ministerio-publico/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "Se pierden armas decomisadas y bajo resguardo de la armería del Organismo Judicial",
+                "url": "https://prensacomunitaria.org/2026/08/se-pierden-armas-decomisadas-y-bajo-resguardo-de-la-armeria-del-organismo-judicial/",
+                "source": "Prensa Comunitaria"
+            },
+            {
+                "title": "Organismo Judicial denuncia ante el MP faltante de armamento",
+                "url": "https://www.soy502.com/articulo/oj-denuncia-faltante-armamento-ante-ministerio-publico-102154",
+                "source": "Soy502"
+            }
+        ],
+        "timestamp": "2026-08-29T12:11:26.277490",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
+    },
+    {
+        "title": "harald v de noruega",
+        "traffic": "1000+",
+        "growth": "800%",
+        "activity_time": "21.9 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [
+            {
+                "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una plebeya y reformó la monarquía de su país",
                 "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o",
                 "source": "BBC"
             },
             {
-                "title": "Quién es Haakon VIII, el nuevo rey de Noruega que asume la corona en tiempos turbulentos para la monarquía del país nórdico",
-                "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-haakon-viii-el-nuevo-rey-de-noruega-que-asume-la-corona-en-tiempos-turbulentos-para-la-monarquia-del-pais-nordico/",
-                "source": "Prensa Libre"
+                "title": "Muere el rey Harald V de Noruega, el monarca más longevo de Europa, tras 35 años en el trono",
+                "url": "https://cnnespanol.cnn.com/2026/08/28/mundo/fallece-harald-rey-noruega-trax",
+                "source": "CNN en Español"
             },
             {
-                "title": "El rey Carlos III, el príncipe Alberto de Mónaco y más Casas Reales lamentan la muerte de Harald V de Noruega",
-                "url": "https://www.hola.com/us-es/realeza/20260828920541/rey-harald-noruega-muerte-reacciones-realeza-carlos-iii-mensajes-fotos/",
-                "source": "HOLA"
+                "title": "El presidente El-Sisi expresa sus condolencias al Gobierno y al pueblo de Noruega por el fallecimiento del rey Harald V",
+                "url": "https://sis.gov.eg/es/la-presidencia/discursos-telegramas-tuits/el-presidente-el-sisi-expresa-sus-condolencias-al-gobierno-y-al-pueblo-de-noruega-por-el-fallecimiento-del-rey-harald-v/",
+                "source": "الهيئة العامة للاستعلامات"
             }
         ],
-        "timestamp": "2026-08-28T16:07:17.033571",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
-    },
-    {
-        "title": "juez",
-        "traffic": "2000+",
-        "growth": "500%",
-        "activity_time": "16.1 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Juez cambia delito contra Jorge Rodas y ahora enfrentará proceso por el homicidio de Nidia Bautista",
-                "url": "https://www.prensalibre.com/guatemala/justicia/juez-cambia-delito-contra-jorge-rodas-y-ahora-enfrentara-proceso-por-el-homicidio-de-nidia-bautista-breaking/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Señalado de atropellar a Nidia Bautista será procesado por homicidio tras cambio de delito",
-                "url": "https://canalantigua.tv/2026/08/27/senalado-de-atropellar-a-nidia-bautista-sera-procesado-por-homicidio-tras-cambio-de-delito/",
-                "source": "Canal Antigua"
-            },
-            {
-                "title": "Tras responder a su solicitud, Instituto de la Víctima se pronuncia por cambio de delito en caso de Nidia Bautista",
-                "url": "https://lahora.gt/nacionales/dleon/2026/08/27/tras-responder-a-su-solicitud-instituto-de-la-victima-se-pronuncia-por-cambio-de-delito-en-caso-de-nidia-bautista-now/",
-                "source": "La Hora"
-            }
-        ],
-        "timestamp": "2026-08-28T16:07:17.115138",
+        "timestamp": "2026-08-29T12:11:26.590775",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "marco antonio villeda",
-        "traffic": "100+",
-        "growth": "700%",
-        "activity_time": "1.8 horas",
+        "title": "zona 13",
+        "traffic": "500+",
+        "growth": "1000%",
+        "activity_time": "13.7 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Gobernación propone negar medidas sustitutivas por portación ilegal de armas y ampliar el control telemático",
-                "url": "https://www.prensalibre.com/guatemala/politica/gobernacion-propone-negar-medidas-sustitutivas-por-portacion-ilegal-de-armas-y-ampliar-el-control-telematico-breaking/",
+                "title": "Joven desaparece en zona 13 y familiares piden ayuda para localizarlo",
+                "url": "https://www.soy502.com/articulo/familia-busca-joven-desaparecido-zona-13-102084",
+                "source": "Soy502"
+            },
+            {
+                "title": "Manifestación frente al aeropuerto La Aurora afecta el tránsito en la zona 13",
+                "url": "https://www.prensalibre.com/ahora/guatemala/comunitario/manifestacion-frente-al-aeropuerto-la-aurora-afecta-el-transito-en-la-zona-13/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Mingob y diputados analizan restricción a medidas sustitutivas por portación ilegal de armas",
-                "url": "https://canalantigua.tv/2026/08/27/mingob-y-diputados-analizan-restriccion-a-medidas-sustitutivas-por-portacion-ilegal-de-armas/",
-                "source": "Canal Antigua"
-            },
-            {
-                "title": "Villeda urge reformar el artículo 264 del Código Procesal Penal para reforzar la seguridad",
-                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/tag/villeda-urge-reformar-el-articulo-264-del-codigo-procesal-penal-para-reforzar-la-seguridad/",
-                "source": "Diario de Centro América"
+                "title": "Protesta en las afueras del aeropuerto La Aurora causa fuerte movilización policial",
+                "url": "https://www.publinews.gt/noticias/2026/08/27/bloquean-acceso-al-aeropuerto-internacional-la-aurora/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-08-28T16:07:17.299115"
+        "timestamp": "2026-08-29T12:11:26.757613",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
