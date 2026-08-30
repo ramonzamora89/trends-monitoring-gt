@@ -1,86 +1,82 @@
 [
     {
-        "title": "organismo judicial de guatemala",
-        "traffic": "1000+",
+        "title": "sanción",
+        "traffic": "500+",
         "growth": "1000%",
-        "activity_time": "15.0 horas",
+        "activity_time": "13.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "OJ confirma desaparición de armamento y presenta denuncia ante el Ministerio Público",
-                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/oj-confirma-desaparicion-de-armamento-y-presenta-denuncia-ante-el-ministerio-publico/",
+                "title": "Miguel Martínez apela fallo judicial que ratificó sanciones financieras por parte de EE. UU.",
+                "url": "https://www.prensalibre.com/guatemala/politica/miguel-martinez-apela-fallo-judicial-que-ratifico-sanciones-financieras-por-parte-de-ee-uu/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Se pierden armas decomisadas y bajo resguardo de la armería del Organismo Judicial",
-                "url": "https://prensacomunitaria.org/2026/08/se-pierden-armas-decomisadas-y-bajo-resguardo-de-la-armeria-del-organismo-judicial/",
-                "source": "Prensa Comunitaria"
-            },
-            {
-                "title": "Organismo Judicial denuncia ante el MP faltante de armamento",
-                "url": "https://www.soy502.com/articulo/oj-denuncia-faltante-armamento-ante-ministerio-publico-102154",
-                "source": "Soy502"
+                "title": "Tras fallo de EE. UU. que le mantiene sanción financiera, Miguel Martínez presenta apelación",
+                "url": "https://lahora.gt/nacionales/hloarca/2026/08/29/tras-fallo-de-ee-uu-que-le-mantiene-sancion-financiera-miguel-martinez-presenta-apelacion/",
+                "source": "La Hora"
             }
         ],
-        "timestamp": "2026-08-29T12:11:26.277490",
+        "timestamp": "2026-08-30T12:11:34.382127",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "harald v de noruega",
-        "traffic": "1000+",
-        "growth": "800%",
-        "activity_time": "21.9 horas",
+        "title": "rey harald v de noruega",
+        "traffic": "200+",
+        "growth": "400%",
+        "activity_time": "17.0 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Muere a los 89 años Harald de Noruega, el rey que se casó con una plebeya y reformó la monarquía de su país",
-                "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o",
+                "title": "Quién es Haakon VIII, el nuevo rey de Noruega que asume la corona en tiempos turbulentos para la monarquía del país nórdico",
+                "url": "https://www.bbc.com/mundo/articles/c33ke8rejezo",
                 "source": "BBC"
             },
             {
-                "title": "Muere el rey Harald V de Noruega, el monarca más longevo de Europa, tras 35 años en el trono",
-                "url": "https://cnnespanol.cnn.com/2026/08/28/mundo/fallece-harald-rey-noruega-trax",
-                "source": "CNN en Español"
+                "title": "En fotos: la despedida del pueblo noruego al rey Harald entre lágrimas y ofrendas florales",
+                "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-fotos-la-despedida-del-pueblo-noruego-al-rey-harald-entre-lagrimas-y-ofrendas-florales/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "El presidente El-Sisi expresa sus condolencias al Gobierno y al pueblo de Noruega por el fallecimiento del rey Harald V",
-                "url": "https://sis.gov.eg/es/la-presidencia/discursos-telegramas-tuits/el-presidente-el-sisi-expresa-sus-condolencias-al-gobierno-y-al-pueblo-de-noruega-por-el-fallecimiento-del-rey-harald-v/",
-                "source": "الهيئة العامة للاستعلامات"
+                "title": "Durek Verrett, marido de Marta Luisa de Noruega, homenajea a su suegro tras su muerte y desvela el cariñoso apelativo con el que le llamaba",
+                "url": "https://www.hola.com/realeza/casa_noruega/20260829920643/durek-verretr-marido-marta-luisa-homenaje-harald-noruega/",
+                "source": "HOLA"
             }
         ],
-        "timestamp": "2026-08-29T12:11:26.590775",
+        "timestamp": "2026-08-30T12:11:34.656186",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "zona 13",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "13.7 horas",
+        "title": "bono",
+        "traffic": "200+",
+        "growth": "500%",
+        "activity_time": "17.2 horas",
         "topics": [
+            "Business and Finance",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Joven desaparece en zona 13 y familiares piden ayuda para localizarlo",
-                "url": "https://www.soy502.com/articulo/familia-busca-joven-desaparecido-zona-13-102084",
-                "source": "Soy502"
+                "title": "Bono Social continúa aumentando su cobertura con la integración de más de 4 mil beneficiarios de Chiquimula",
+                "url": "https://agn.gt/bono-social-continua-aumentando-su-cobertura-con-la-integracion-de-mas-de-4-mil-beneficiarios-de-chiquimula/",
+                "source": "Agencia Guatemalteca de Noticias"
             },
             {
-                "title": "Manifestación frente al aeropuerto La Aurora afecta el tránsito en la zona 13",
-                "url": "https://www.prensalibre.com/ahora/guatemala/comunitario/manifestacion-frente-al-aeropuerto-la-aurora-afecta-el-transito-en-la-zona-13/",
-                "source": "Prensa Libre"
+                "title": "Más de 4 mil familias en Chiquimula reciben el Bono Social",
+                "url": "https://guatemala.gob.gt/mas-de-4-mil-familias-en-chiquimula-reciben-el-bono-social/",
+                "source": "Gobierno de Guatemala"
             },
             {
-                "title": "Protesta en las afueras del aeropuerto La Aurora causa fuerte movilización policial",
-                "url": "https://www.publinews.gt/noticias/2026/08/27/bloquean-acceso-al-aeropuerto-internacional-la-aurora/",
-                "source": "Publinews"
+                "title": "La deuda pública se convierte en el nuevo foco de tensión de los mercados: por qué escala a máximos de la Gran Recesión",
+                "url": "https://www.elperiodico.com/es/economia/20260830/deuda-publica-convierte-nuevo-foco-133758531",
+                "source": "El Periódico"
             }
         ],
-        "timestamp": "2026-08-29T12:11:26.757613",
+        "timestamp": "2026-08-30T12:11:34.867237",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
