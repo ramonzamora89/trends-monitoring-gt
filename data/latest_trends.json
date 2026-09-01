@@ -1,86 +1,86 @@
 [
     {
-        "title": "policía nacional civil de guatemala",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "14.6 horas",
+        "title": "vix",
+        "traffic": "500+",
+        "growth": "300%",
+        "activity_time": "16.9 horas",
         "topics": [
-            "Law and Government"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Tiroteo contra la PNC deja un presunto sicario fallecido",
-                "url": "https://emisorasunidas.com/nacional/2026/08/30/tiroteo-contra-la-pnc-deja-un-presunto-sicario-fallecido/",
-                "source": "Emisoras Unidas"
+                "title": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
+                "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+                "source": "CNBC"
             },
             {
-                "title": "Terrorista es abatido y un menor remitido tras cometer hecho armado en Sacatepéquez",
-                "url": "https://www.soy502.com/articulo/persecucion-pnc-da-terroristas-tras-ataque-armado-102123",
-                "source": "Soy502"
+                "title": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz",
+                "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708",
+                "source": "MarketWatch"
             },
             {
-                "title": "Sicarios Son Abatidos Por La PNC En Pastores",
-                "url": "https://www.lared1061.com/posts/sicarios-son-abatidos-por-la-pnc-en-pastores",
-                "source": "La Red 106.1 FM"
+                "title": "Oil prices rise and stocks slide as Middle East violence flares, adding to uncertainty",
+                "url": "https://apnews.com/article/stocks-markets-oil-bonds-775d7cf741349c7c8e689c0beb57f074",
+                "source": "AP News"
             }
         ],
-        "timestamp": "2026-08-31T12:13:59.973673",
+        "timestamp": "2026-09-01T12:13:17.574101",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "rania de jordania",
-        "traffic": "1000+",
+        "title": "manto terrestre",
+        "traffic": "500+",
         "growth": "500%",
-        "activity_time": "14.1 horas",
+        "activity_time": "9.6 horas",
         "topics": [
-            "Law and Government"
+            "Science"
         ],
         "news": [
             {
-                "title": "Rania de Jordania cumple 56 en su mejor momento, con una nueva imagen y una familia que no deja de crecer",
-                "url": "https://www.hola.com/realeza/casa_jordana/20260830920135/rania-de-jordania-cumple-56-nueva-foto/",
-                "source": "HOLA"
+                "title": "Hallan seis enormes estructuras a 3.000 km de profundidad, en la frontera entre el manto y el núcleo terrestre",
+                "url": "https://www.abc.es/ciencia/hallan-seis-enormes-estructuras-3000-profundidad-frontera-20260830011329-nt.html",
+                "source": "ABC"
             },
             {
-                "title": "Rania de Jordania confirma el regreso de la chaqueta roja: 7 modelos de Zara, Mango y Massimo Dutti para copiar su look este otoño",
-                "url": "https://www.harpersbazaar.com/es/famosas/el-estilo-de/a73493653/rania-de-jordania-chaqueta-roja-zara-mango-massimo-dutti-otono/",
-                "source": "Harper's BAZAAR"
+                "title": "Una IA escaneó 2 millones de terremotos y desenterró seis «cicatrices» fósiles ocultas",
+                "url": "https://es.digitaltrends.com/tendencias/ia-descubre-seis-estructuras-ocultas-nucleo-manto-tierra/",
+                "source": "Digital Trends Español"
             },
             {
-                "title": "\"Con mis niñas favoritas\": Rania de Jordania celebra su 56 cumpleaños con una tierna imagen con sus cuatro nietas",
-                "url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-08-31/rania-jordania-cumpleanos-foto-nietas-ninas-favoritas_4415062/",
-                "source": "Vanitatis"
+                "title": "Científicos detectan 6 megaestructuras en el núcleo de la Tierra",
+                "url": "https://ruptura360.mx/noticias-del-mundo/estructuras-manto-nucleo-terrestre-sismologia/",
+                "source": "Ruptura360"
             }
         ],
-        "timestamp": "2026-08-31T12:14:00.189084",
+        "timestamp": "2026-09-01T12:13:17.768099",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "nicolás maduro",
-        "traffic": "500+",
-        "growth": "700%",
-        "activity_time": "14.4 horas",
+        "title": "sat",
+        "traffic": "100+",
+        "growth": "100%",
+        "activity_time": "0.7 horas",
         "topics": [
-            "Law and Government"
+            "Jobs and Education"
         ],
         "news": [
             {
-                "title": "Maduro publica nuevas fotos desde la cárcel en Nueva York: \"Pequeño regalo de amor y esperanza\"",
-                "url": "https://cnnespanol.cnn.com/2026/08/30/venezuela/maduro-fotos-carcel-nueva-york-orix",
-                "source": "CNN en Español"
+                "title": "New Connecticut test scores are out. See how your school did",
+                "url": "https://www.ctinsider.com/news/education/article/ct-school-district-test-scores-2025-26-22407680.php",
+                "source": "CT Insider"
             },
             {
-                "title": "Las fotos del ex dictador Nicolás Maduro desde la cárcel en Estados Unidos",
-                "url": "https://www.infobae.com/venezuela/2026/08/30/las-fotos-del-ex-dictador-nicolas-maduro-desde-la-carcel-en-estados-unidos/",
-                "source": "Infobae"
+                "title": "Connecticut student test scores rise in 2025-26, but still trail pre-pandemic levels, new data shows",
+                "url": "https://www.greenwichtime.com/news/education/article/new-ct-student-performance-data-25-26-22404307.php",
+                "source": "Greenwich Time"
             },
             {
-                "title": "Publican fotos de Nicolás Maduro en redes sociales tras acuerdo petrolero con EEUU",
-                "url": "https://es-us.noticias.yahoo.com/publican-fotos-nicol%C3%A1s-maduro-redes-171242417.html",
-                "source": "Yahoo"
+                "title": "Stamford student test scores improve in English and math, but remain below CT averages, data shows",
+                "url": "https://www.stamfordadvocate.com/news/education/article/stamford-schools-state-test-scores-english-math-22410854.php",
+                "source": "Stamford Advocate"
             }
         ],
-        "timestamp": "2026-08-31T12:14:00.442670",
+        "timestamp": "2026-09-01T12:13:17.829556",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
