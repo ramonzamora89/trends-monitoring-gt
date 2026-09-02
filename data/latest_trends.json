@@ -1,86 +1,86 @@
 [
     {
-        "title": "vix",
-        "traffic": "500+",
-        "growth": "300%",
-        "activity_time": "16.9 horas",
+        "title": "deportación",
+        "traffic": "5000+",
+        "growth": "1000%",
+        "activity_time": "17.6 horas",
         "topics": [
-            "Business and Finance"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
-                "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-                "source": "CNBC"
+                "title": "«Atemorizados, traumatizados, sin recursos y físicamente vulnerables»: Un informe saca a la luz la crisis invisible de miles de personas que se han quedado varadas en el sur de México a causa de las «deportaciones masivas» de EE. UU. y la respuesta de",
+                "url": "https://www.wola.org/es/2026/08/atemorizados-traumatizados-sin-recursos-y-fisicamente-vulnerables-un-informe-saca-a-la-luz-la-crisis-invisible-de-miles-de-personas-que-se-han-quedado-varadas-en-el-sur-de-mexico-a-caus/",
+                "source": "Washington Office on Latin America | WOLA"
             },
             {
-                "title": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz",
-                "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708",
-                "source": "MarketWatch"
+                "title": "De vuelta a casa: Qué hacer y cómo prepararse ante un proceso de deportación de EE.UU. a México",
+                "url": "https://www.mibolsillo.com/tips/de-vuelta-a-casa-que-hacer-y-como-prepararse-ante-un-proceso-de-deportacion-de-ee.uu.-a-mexico-20260901-0018.html",
+                "source": "Mi bolsillo"
             },
             {
-                "title": "Oil prices rise and stocks slide as Middle East violence flares, adding to uncertainty",
-                "url": "https://apnews.com/article/stocks-markets-oil-bonds-775d7cf741349c7c8e689c0beb57f074",
-                "source": "AP News"
+                "title": "Bateador emergente / Deportados: la ruta del castigo",
+                "url": "https://oem.com.mx/diariodelsur/analisis/bateador-emergente-deportados-la-ruta-del-castigo-31754820",
+                "source": "El Sol de México"
             }
         ],
-        "timestamp": "2026-09-01T12:13:17.574101",
+        "timestamp": "2026-09-02T12:13:27.294450",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "manto terrestre",
-        "traffic": "500+",
-        "growth": "500%",
-        "activity_time": "9.6 horas",
+        "title": "exoneración",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "18.6 horas",
         "topics": [
-            "Science"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "Hallan seis enormes estructuras a 3.000 km de profundidad, en la frontera entre el manto y el núcleo terrestre",
-                "url": "https://www.abc.es/ciencia/hallan-seis-enormes-estructuras-3000-profundidad-frontera-20260830011329-nt.html",
-                "source": "ABC"
+                "title": "Pago del IUSI: hasta cuándo pueden cobrar las municipalidades y qué ocurre con las deudas",
+                "url": "https://www.prensalibre.com/economia/pago-del-iusi-hasta-cuando-pueden-cobrar-las-municipalidades-y-que-ocurre-con-las-deudas/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Una IA escaneó 2 millones de terremotos y desenterró seis «cicatrices» fósiles ocultas",
-                "url": "https://es.digitaltrends.com/tendencias/ia-descubre-seis-estructuras-ocultas-nucleo-manto-tierra/",
-                "source": "Digital Trends Español"
+                "title": "UNE acude a la CC tras quedar fuera exoneración de multas del IUSI",
+                "url": "https://lahora.gt/nacionales/jmaldonado/2026/09/01/une-acude-a-la-cc-tras-quedar-fuera-exoneracion-de-multas-del-iusi/",
+                "source": "La Hora"
             },
             {
-                "title": "Científicos detectan 6 megaestructuras en el núcleo de la Tierra",
-                "url": "https://ruptura360.mx/noticias-del-mundo/estructuras-manto-nucleo-terrestre-sismologia/",
-                "source": "Ruptura360"
+                "title": "Organismo Ejecutivo sanciona reformas al IUSI",
+                "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/organismo-ejecutivo-sanciona-reformas-al-iusi/",
+                "source": "Diario de Centro América"
             }
         ],
-        "timestamp": "2026-09-01T12:13:17.768099",
+        "timestamp": "2026-09-02T12:13:27.480893",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "sat",
-        "traffic": "100+",
-        "growth": "100%",
-        "activity_time": "0.7 horas",
+        "title": "fredy orellana",
+        "traffic": "500+",
+        "growth": "600%",
+        "activity_time": "23.2 horas",
         "topics": [
-            "Jobs and Education"
+            "Law and Government"
         ],
         "news": [
             {
-                "title": "New Connecticut test scores are out. See how your school did",
-                "url": "https://www.ctinsider.com/news/education/article/ct-school-district-test-scores-2025-26-22407680.php",
-                "source": "CT Insider"
+                "title": "Designan al juez Mynor Moto para conocer retiro de antejuicio contra el juez Fredy Orellana, informa el OJ",
+                "url": "https://www.prensalibre.com/ahora/guatemala/justicia/designan-al-juez-mynor-moto-para-conocer-retiro-de-antejuicio-contra-el-juez-fredy-orellana-informa-el-oj/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Connecticut student test scores rise in 2025-26, but still trail pre-pandemic levels, new data shows",
-                "url": "https://www.greenwichtime.com/news/education/article/new-ct-student-performance-data-25-26-22404307.php",
-                "source": "Greenwich Time"
+                "title": "Antejuicio contra Fredy Orellana queda en manos de Mynor Moto para su notificación",
+                "url": "https://lahora.gt/nacionales/sosegueda/2026/09/01/antejuicio-contra-fredy-orellana-queda-en-manos-de-mynor-moto-para-su-notificacion-now/",
+                "source": "La Hora"
             },
             {
-                "title": "Stamford student test scores improve in English and math, but remain below CT averages, data shows",
-                "url": "https://www.stamfordadvocate.com/news/education/article/stamford-schools-state-test-scores-english-math-22410854.php",
-                "source": "Stamford Advocate"
+                "title": "Se conoce el caso del retiro de inmunidad al juez Fredy Orellana",
+                "url": "https://www.publinews.gt/noticias/2026/09/01/fredy-orellana-tiene-antejuicio-por-el-caso-hotel-las-americas/",
+                "source": "Publinews"
             }
         ],
-        "timestamp": "2026-09-01T12:13:17.829556",
+        "timestamp": "2026-09-02T12:13:27.662666",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
