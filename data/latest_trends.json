@@ -1,87 +1,71 @@
 [
     {
-        "title": "neto bran",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "22.9 horas",
+        "title": "nicaragua",
+        "traffic": "1000+",
+        "growth": "600%",
+        "activity_time": "10.2 horas",
         "topics": [
             "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Así queda el salario de Neto Bran tras anuncio de \"cero dietas”, otro alcalde que superaba a Arévalo",
-                "url": "https://lahora.gt/nacionales/hloarca/2026/09/03/asi-queda-el-salario-de-neto-bran-tras-anuncio-de-cero-dietas-otro-alcalde-que-superaba-a-arevalo-otro-alcalde-que-supera-a-arevalo/",
+                "title": "Nicaragua le responde a Guatemala: «La soberanía no puede ser cuestionada por países con graves problemas de legitimidad",
+                "url": "https://lahora.gt/internacionales/dleon/2026/09/04/nicaragua-le-responde-a-guatemala-la-soberania-no-puede-ser-cuestionada-por-paises-con-graves-problemas-de-legitimidad/",
                 "source": "La Hora"
             },
             {
-                "title": "Neto Bran y su Concejo Municipal se eliminan las dietas en Mixco",
-                "url": "https://www.publinews.gt/noticias/2026/09/03/neto-bran-y-su-concejo-municipal-se-eliminan-las-dietas-en-mixco/",
-                "source": "Publinews"
+                "title": "EE. UU. pide aislar a Nicaragua: ¿quién sigue con Ortega?",
+                "url": "https://www.dw.com/es/ee-uu-pide-aislar-a-nicaragua-qui%C3%A9n-sigue-con-ortega/a-78896077",
+                "source": "DW.com"
             },
             {
-                "title": "“Nos bajamos la dieta a cero”, ordenó Netro Bran; su oposición lo califica de maniobra política",
-                "url": "https://www.ojoconmipisto.com/dieta-cero-netro-bran-maniobra-politica/",
-                "source": "Ojoconmipisto.com"
+                "title": "Nicaragua responde a Guatemala por críticas a reformas constitucionales: “La soberanía de un pueblo no se discute”",
+                "url": "https://www.prensalibre.com/internacional/nicaragua-responde-a-guatemala-por-criticas-a-reformas-constitucionales-la-soberania-de-un-pueblo-no-se-discute/",
+                "source": "Prensa Libre"
             }
         ],
-        "timestamp": "2026-09-04T12:12:55.456413",
+        "timestamp": "2026-09-05T12:11:11.557912",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "avión",
+        "title": "policía nacional civil de guatemala",
         "traffic": "1000+",
         "growth": "1000%",
-        "activity_time": "13.4 horas",
+        "activity_time": "15.9 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "El avión que transportaba al Secretario de Seguridad Nacional de Estados Unidos sufrió un grave incidente.",
-                "url": "https://www.vietnam.vn/es/may-bay-cho-bo-truong-an-ninh-noi-dia-my-gap-su-co-nghiem-trong",
-                "source": "Vietnam.vn"
-            },
-            {
-                "title": "Falla en un motor obligó a que aterrizara de emergencia un avión en el que viajaba el secretario de Seguridad Nacional de EU",
-                "url": "https://www.informaoriente.com.mx/internacional/falla-en-un-motor-obligo-a-que-aterrizara-de-emergencia-un-avion-en-el-que-viajaba-el-secretario-de-seguridad-nacional-de-eu.htm",
-                "source": "InformaOriente"
-            },
-            {
-                "title": "Avión que transportaba al secretario de Seguridad Nacional, Markwayne Mullin, aterriza de emergencia tras falla en motores",
-                "url": "https://www.univision.com/noticias/linea-de-fuego/avion-que-transportaba-al-secretario-de-seguridad-nacional-markwayne-mullin-aterriza-de-emergencia-tras-falla-en-motores-video",
-                "source": "Univision"
-            }
-        ],
-        "timestamp": "2026-09-04T12:12:55.591932",
-        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
-    },
-    {
-        "title": "déficit presupuestario",
-        "traffic": "500+",
-        "growth": "1000%",
-        "activity_time": "18.7 horas",
-        "topics": [
-            "Law and Government"
-        ],
-        "news": [
-            {
-                "title": "Presupuesto 2027: Congreso cuestiona deuda, recursos para Codedes y aumento del déficit fiscal",
-                "url": "https://www.prensalibre.com/economia/presupuesto-2027-congreso-cuestiona-deuda-recursos-para-codedes-y-aumento-del-deficit-fiscal/",
+                "title": "ÚLTIMAS NOTICIAS DE ASALTOS A MANO ARMADA",
+                "url": "https://www.prensalibre.com/tema/asaltos-a-mano-armada/",
                 "source": "Prensa Libre"
             },
             {
-                "title": "Presupuesto 2027: la apuesta más expansiva de la historia entre inversión, deuda y dudas sobre sobrevaloraciones",
-                "url": "https://lahora.gt/lh-economia/esmith/2026/09/02/presupuesto-2027-la-apuesta-mas-expansiva-de-la-historia-entre-inversion-deuda-y-dudas-sobre-sobrevaloraciones/",
-                "source": "La Hora"
+                "title": "Asaltos en el tráfico: fallas de inteligencia e impunidad frenan la respuesta preventiva de la PNC, según analistas",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/asaltos-en-el-trafico-fallas-de-inteligencia-e-impunidad-frenan-la-respuesta-preventiva-de-la-pnc-segun-analistas/",
+                "source": "Prensa Libre"
             },
             {
-                "title": "Defensa, Salud y Desarrollo Social, entre las dependencias con mayores aumentos para 2027",
-                "url": "https://www.publinews.gt/noticias/2026/09/02/defensa-salud-y-desarrollo-social-entre-las-dependencias-con-mayores-aumentos-para-2027/",
-                "source": "Publinews"
+                "title": "PNC se pronuncia ante los bloqueos realizados por manifestantes",
+                "url": "https://www.soy502.com/articulo/pnc-pronuncia-ante-bloqueos-realizados-manifestantes-102077",
+                "source": "Soy502"
             }
         ],
-        "timestamp": "2026-09-04T12:12:55.783794",
+        "timestamp": "2026-09-05T12:11:11.902940",
+        "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
+    },
+    {
+        "title": "servicio de control de inmigración y aduanas",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "14.9 horas",
+        "topics": [
+            "Law and Government"
+        ],
+        "news": [],
+        "timestamp": "2026-09-05T12:11:11.961640",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
