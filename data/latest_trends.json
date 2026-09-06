@@ -1,71 +1,86 @@
 [
     {
-        "title": "nicaragua",
+        "title": "seguridad",
         "traffic": "1000+",
-        "growth": "600%",
-        "activity_time": "10.2 horas",
+        "growth": "1000%",
+        "activity_time": "15.0 horas",
         "topics": [
-            "Politics",
             "Law and Government"
         ],
         "news": [
             {
-                "title": "Nicaragua le responde a Guatemala: «La soberanía no puede ser cuestionada por países con graves problemas de legitimidad",
-                "url": "https://lahora.gt/internacionales/dleon/2026/09/04/nicaragua-le-responde-a-guatemala-la-soberania-no-puede-ser-cuestionada-por-paises-con-graves-problemas-de-legitimidad/",
-                "source": "La Hora"
+                "title": "¿Museo de pueblo o en la capital? Villena reabre el debate sobre quién debe custodiar las grandes joyas arqueológicas",
+                "url": "https://www.vozpopuli.com/historia/museo-de-pueblo-o-en-la-capital-villena-reabre-el-debate-sobre-quien-debe-custodiar-las-grandes-joyas-arqueologicas.html",
+                "source": "Vozpopuli"
             },
             {
-                "title": "EE. UU. pide aislar a Nicaragua: ¿quién sigue con Ortega?",
-                "url": "https://www.dw.com/es/ee-uu-pide-aislar-a-nicaragua-qui%C3%A9n-sigue-con-ortega/a-78896077",
-                "source": "DW.com"
+                "title": "Licensable video: España llama al trabajo coordinado de las administraciones para evitar robos en museos",
+                "url": "https://www.reutersconnect.com/item/espana-llama-al-trabajo-coordinado-de-las-administraciones-para-evitar-robos-en-museos/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MTAzMjUwMDE",
+                "source": "Reuters Connect"
             },
             {
-                "title": "Nicaragua responde a Guatemala por críticas a reformas constitucionales: “La soberanía de un pueblo no se discute”",
-                "url": "https://www.prensalibre.com/internacional/nicaragua-responde-a-guatemala-por-criticas-a-reformas-constitucionales-la-soberania-de-un-pueblo-no-se-discute/",
-                "source": "Prensa Libre"
+                "title": "Urtasun convocará la próxima semana una nueva reunión con CCAA y Policía para abordar los robos",
+                "url": "https://www.lacerca.com/noticias/albacete/urtasun-proxima-semana-reunion-policia-abordar-robos-museos-827512-1.html",
+                "source": "LaCerca.com"
             }
         ],
-        "timestamp": "2026-09-05T12:11:11.557912",
+        "timestamp": "2026-09-06T12:11:10.360904",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "policía nacional civil de guatemala",
-        "traffic": "1000+",
+        "title": "centro comercial",
+        "traffic": "2000+",
         "growth": "1000%",
-        "activity_time": "15.9 horas",
+        "activity_time": "18.9 horas",
         "topics": [
-            "Law and Government"
+            "Other"
         ],
         "news": [
             {
-                "title": "ÚLTIMAS NOTICIAS DE ASALTOS A MANO ARMADA",
-                "url": "https://www.prensalibre.com/tema/asaltos-a-mano-armada/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "Asaltos en el tráfico: fallas de inteligencia e impunidad frenan la respuesta preventiva de la PNC, según analistas",
-                "url": "https://www.prensalibre.com/guatemala/comunitario/asaltos-en-el-trafico-fallas-de-inteligencia-e-impunidad-frenan-la-respuesta-preventiva-de-la-pnc-segun-analistas/",
-                "source": "Prensa Libre"
-            },
-            {
-                "title": "PNC se pronuncia ante los bloqueos realizados por manifestantes",
-                "url": "https://www.soy502.com/articulo/pnc-pronuncia-ante-bloqueos-realizados-manifestantes-102077",
+                "title": "Incendio en centro comercial sobre la Calzada Roosevelt",
+                "url": "https://www.soy502.com/articulo/incendio-centro-comercial-sobre-calzada-roosevelt-101962",
                 "source": "Soy502"
+            },
+            {
+                "title": "Controlan Incendio Y Fuga De Gas En Centro Comercial De Zona 11",
+                "url": "https://www.lared1061.com/posts/controlan-incendio-y-fuga-de-gas-en-centro-comercial-de-zona-11",
+                "source": "La Red 106.1 FM"
+            },
+            {
+                "title": "Controlan incendio dentro de centro comercial de la calzada Roosevelt",
+                "url": "https://emisorasunidas.com/nacional/2026/09/05/controlan-incendio-en-centro-comercial-de-calzada-roosevelt/",
+                "source": "Emisoras Unidas"
             }
         ],
-        "timestamp": "2026-09-05T12:11:11.902940",
+        "timestamp": "2026-09-06T12:11:10.729675",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "servicio de control de inmigración y aduanas",
-        "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "14.9 horas",
+        "title": "manifestación",
+        "traffic": "500+",
+        "growth": "900%",
+        "activity_time": "1.0 horas",
         "topics": [
-            "Law and Government"
+            "Other"
         ],
-        "news": [],
-        "timestamp": "2026-09-05T12:11:11.961640",
+        "news": [
+            {
+                "title": "48 Cantones anuncian protesta en la capital por el alza de los combustibles y niegan bloqueos",
+                "url": "https://www.prensalibre.com/ciudades/guatemala-ciudades/48-cantones-anuncian-protesta-en-la-capital-por-el-alza-de-los-combustibles-y-niegan-bloqueos/",
+                "source": "Prensa Libre"
+            },
+            {
+                "title": "¿Habrá bloqueos este martes? Esto dicen los 48 Cantones de Totonicapán sobre su movilización",
+                "url": "https://lahora.gt/nacionales/dleon/2026/09/05/habra-bloqueos-este-martes-esto-dicen-los-48-cantones-de-totonicapan-sobre-su-movilizacion-now/",
+                "source": "La Hora"
+            },
+            {
+                "title": "Anuncian marcha en la ciudad para el martes 8 de septiembre",
+                "url": "https://www.soy502.com/articulo/anuncian-marcha-ciudad-este-8-septiembre-102084",
+                "source": "Soy502"
+            }
+        ],
+        "timestamp": "2026-09-06T12:11:10.789382",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
