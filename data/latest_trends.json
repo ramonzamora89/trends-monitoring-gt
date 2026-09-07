@@ -1,72 +1,72 @@
 [
     {
-        "title": "seguridad",
+        "title": "pasaporte",
         "traffic": "1000+",
-        "growth": "1000%",
-        "activity_time": "15.0 horas",
+        "growth": "600%",
+        "activity_time": "13.7 horas",
         "topics": [
             "Law and Government"
         ],
         "news": [
             {
-                "title": "¿Museo de pueblo o en la capital? Villena reabre el debate sobre quién debe custodiar las grandes joyas arqueológicas",
-                "url": "https://www.vozpopuli.com/historia/museo-de-pueblo-o-en-la-capital-villena-reabre-el-debate-sobre-quien-debe-custodiar-las-grandes-joyas-arqueologicas.html",
-                "source": "Vozpopuli"
+                "title": "Oficial | México, El Salvador y Guatemala prohíben el ingreso al país a todos los ciudadanos que posterguen la renovación de su pasaporte",
+                "url": "https://www.cronista.com/usa/trending/oficial-mexico-el-salvador-y-guatemala-prohiben-el-ingreso-al-pais-a-todos-los-ciudadanos-que-posterguen-la-renovacion-de-su-pasaporte/",
+                "source": "El Cronista"
             },
             {
-                "title": "Licensable video: España llama al trabajo coordinado de las administraciones para evitar robos en museos",
-                "url": "https://www.reutersconnect.com/item/espana-llama-al-trabajo-coordinado-de-las-administraciones-para-evitar-robos-en-museos/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzcwMDE2MTAzMjUwMDE",
-                "source": "Reuters Connect"
+                "title": "Oficial | México, Guatemala y Honduras prohíben el ingreso al país a todos los ciudadanos que hayan postergado la renovación de su pasaporte",
+                "url": "https://www.cronista.com/usa/trending/oficial-mexico-guatemala-y-honduras-prohiben-el-ingreso-al-pais-a-todos-los-ciudadanos-que-hayan-postergado-la-renovacion-de-su-pasaporte/",
+                "source": "El Cronista"
             },
             {
-                "title": "Urtasun convocará la próxima semana una nueva reunión con CCAA y Policía para abordar los robos",
-                "url": "https://www.lacerca.com/noticias/albacete/urtasun-proxima-semana-reunion-policia-abordar-robos-museos-827512-1.html",
-                "source": "LaCerca.com"
+                "title": "Panamá impedirá ingreso de mexicanos que posterguen la renovación de pasaporte",
+                "url": "https://www.larepublica.co/globoeconomia/panama-impedira-ingreso-de-mexicanos-que-posterguen-la-renovacion-de-pasaporte-4475739",
+                "source": "LaRepublica.co"
             }
         ],
-        "timestamp": "2026-09-06T12:11:10.360904",
+        "timestamp": "2026-09-07T12:13:16.020842",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_1.png"
     },
     {
-        "title": "centro comercial",
-        "traffic": "2000+",
-        "growth": "1000%",
-        "activity_time": "18.9 horas",
+        "title": "vix",
+        "traffic": "200+",
+        "growth": "600%",
+        "activity_time": "21.9 horas",
         "topics": [
-            "Other"
+            "Business and Finance"
         ],
         "news": [
             {
-                "title": "Incendio en centro comercial sobre la Calzada Roosevelt",
-                "url": "https://www.soy502.com/articulo/incendio-centro-comercial-sobre-calzada-roosevelt-101962",
-                "source": "Soy502"
+                "title": "Markets Are Volatile — Could These Three Asset Classes Help Balance Your Portfolio?",
+                "url": "https://www.moomoo.com/community/feed/markets-are-volatile-could-these-three-asset-classes-help-balance-117205491580934",
+                "source": "Moomoo"
             },
             {
-                "title": "Controlan Incendio Y Fuga De Gas En Centro Comercial De Zona 11",
-                "url": "https://www.lared1061.com/posts/controlan-incendio-y-fuga-de-gas-en-centro-comercial-de-zona-11",
-                "source": "La Red 106.1 FM"
+                "title": "What the VIX says about stocks heading into Q4",
+                "url": "https://finance.yahoo.com/video/vix-says-stocks-heading-q4-191800467.html",
+                "source": "Yahoo Finance"
             },
             {
-                "title": "Controlan incendio dentro de centro comercial de la calzada Roosevelt",
-                "url": "https://emisorasunidas.com/nacional/2026/09/05/controlan-incendio-en-centro-comercial-de-calzada-roosevelt/",
-                "source": "Emisoras Unidas"
+                "title": "Play Short-Term Market Uncertainty With Volatility ETFs",
+                "url": "https://www.tradingview.com/news/zacks:568541ecd094b:0-play-short-term-market-uncertainty-with-volatility-etfs/",
+                "source": "TradingView"
             }
         ],
-        "timestamp": "2026-09-06T12:11:10.729675",
+        "timestamp": "2026-09-07T12:13:16.183582",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_2.png"
     },
     {
-        "title": "manifestación",
-        "traffic": "500+",
-        "growth": "900%",
-        "activity_time": "1.0 horas",
+        "title": "combustible",
+        "traffic": "1000+",
+        "growth": "1000%",
+        "activity_time": "12.1 horas",
         "topics": [
             "Other"
         ],
         "news": [
             {
-                "title": "48 Cantones anuncian protesta en la capital por el alza de los combustibles y niegan bloqueos",
-                "url": "https://www.prensalibre.com/ciudades/guatemala-ciudades/48-cantones-anuncian-protesta-en-la-capital-por-el-alza-de-los-combustibles-y-niegan-bloqueos/",
+                "title": "Manifestaciones y protestas: PMT prevé más tránsito en la capital esta semana por movilizaciones anunciadas",
+                "url": "https://www.prensalibre.com/guatemala/comunitario/manfiestaciones-y-protestas-pmt-preve-mas-transito-en-la-capital-esta-semana-por-movilizaciones-anunciadas/",
                 "source": "Prensa Libre"
             },
             {
@@ -80,7 +80,7 @@
                 "source": "Soy502"
             }
         ],
-        "timestamp": "2026-09-06T12:11:10.789382",
+        "timestamp": "2026-09-07T12:13:16.246380",
         "chart_path": "/home/runner/work/trends-monitoring-gt/trends-monitoring-gt/outputs/charts/trend_3.png"
     }
 ]
